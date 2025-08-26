@@ -1,0 +1,4827 @@
+{
+    "categories": [
+       {
+    "ok": true,
+    "data": {
+        "items": [
+            {
+                "parentId": 0,
+                "status": "on",
+                "parentIds": [],
+                "childrenIds": [
+                    6,
+                    7,
+                    8
+                ],
+                "name": "telefon-ve-plansetler",
+                "title": "Telefon və planşetlər",
+                "route": "/az/telefon-ve-plansetler",
+                "banner": {
+                    "image": "/img/image.png",
+                    "title": "",
+                    "desc": "",
+                    "route": ""
+                },
+                "new": false,
+                "faq": [
+                    {
+                        "question": {
+                            "az": "Smart saatda NFC özəlliyi mövcuddur?",
+                            "en": "Smart saatda NFC özəlliyi mövcuddur?",
+                            "ru": "Smart saatda NFC özəlliyi mövcuddur?"
+                        },
+                        "answer": {
+                            "az": "Smart saatda NFC özəlliyi mövcuddur?",
+                            "en": "Smart saatda NFC özəlliyi mövcuddur?",
+                            "ru": "Smart saatda NFC özəlliyi mövcuddur?"
+                        }
+                    }
+                ],
+                "id": 3,
+                "products": 0,
+                "hasHome": false,
+                "subType": "default",
+                "topBrands": [],
+                "children": [
+                    {
+                        "parentId": 3,
+                        "status": "on",
+                        "parentIds": [
+                            3
+                        ],
+                        "childrenIds": [],
+                        "name": "smartfonlar",
+                        "title": "Smartfonlar",
+                        "route": "/az/telefon-ve-plansetler/smartfonlar",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 6,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 3,
+                        "status": "on",
+                        "parentIds": [
+                            3
+                        ],
+                        "childrenIds": [],
+                        "name": "duymeli-telefonlar",
+                        "title": "Düyməli telefonlar",
+                        "route": "/az/telefon-ve-plansetler/duymeli-telefonlar",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 7,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 3,
+                        "status": "on",
+                        "parentIds": [
+                            3
+                        ],
+                        "childrenIds": [],
+                        "name": "plansetler",
+                        "title": "Planşetlər",
+                        "route": "/az/telefon-ve-plansetler/plansetler",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 8,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "parentId": 0,
+                "status": "on",
+                "parentIds": [],
+                "childrenIds": [
+                    58,
+                    116,
+                    10,
+                    23,
+                    2,
+                    39,
+                    66,
+                    12,
+                    13,
+                    18,
+                    33,
+                    109,
+                    14
+                ],
+                "name": "mobil-aksesuarlar",
+                "title": "Mobil Aksesuarlar",
+                "route": "/az/mobil-aksesuarlar",
+                "banner": {
+                    "image": "",
+                    "title": "Telefon aksesuarları",
+                    "desc": "",
+                    "route": ""
+                },
+                "new": false,
+                "faq": [
+                    {
+                        "question": {
+                            "az": "",
+                            "en": "",
+                            "ru": ""
+                        },
+                        "answer": {
+                            "az": "",
+                            "en": "",
+                            "ru": ""
+                        }
+                    }
+                ],
+                "id": 1,
+                "products": 0,
+                "hasHome": false,
+                "subType": "default",
+                "topBrands": [],
+                "children": [
+                    {
+                        "parentId": 1,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            1
+                        ],
+                        "childrenIds": [],
+                        "name": "telefon-soyuducular",
+                        "title": "Telefon soyuducular",
+                        "faq": [],
+                        "route": "/az/mobil-aksesuarlar/telefon-soyuducular",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 116,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 1,
+                        "status": "on",
+                        "parentIds": [
+                            1
+                        ],
+                        "childrenIds": [],
+                        "name": "qulaqliqlar",
+                        "title": "Qulaqlıqlar",
+                        "route": "/az/mobil-aksesuarlar/qulaqliqlar",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "faq": [],
+                        "id": 10,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 1,
+                        "status": "on",
+                        "parentIds": [
+                            1
+                        ],
+                        "childrenIds": [],
+                        "name": "adapterler",
+                        "title": "Adapterlər",
+                        "route": "/az/mobil-aksesuarlar/adapterler",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "faq": [],
+                        "id": 23,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 1,
+                        "status": "on",
+                        "parentIds": [
+                            1
+                        ],
+                        "childrenIds": [],
+                        "name": "powerbanklar",
+                        "title": "Powerbanklar",
+                        "route": "/az/mobil-aksesuarlar/powerbanklar",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "faq": [],
+                        "id": 2,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 1,
+                        "status": "on",
+                        "parentIds": [
+                            1
+                        ],
+                        "childrenIds": [],
+                        "name": "saat-kemerleri",
+                        "title": "Saat kəmərləri",
+                        "route": "/az/mobil-aksesuarlar/saat-kemerleri",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 39,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 1,
+                        "new": true,
+                        "status": "on",
+                        "parentIds": [
+                            1
+                        ],
+                        "childrenIds": [],
+                        "name": "holderler",
+                        "title": "Holder",
+                        "route": "/az/mobil-aksesuarlar/holderler",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 66,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 1,
+                        "status": "on",
+                        "parentIds": [
+                            1
+                        ],
+                        "childrenIds": [],
+                        "name": "keysler",
+                        "title": "Keyslər",
+                        "route": "/az/mobil-aksesuarlar/keysler",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 12,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 1,
+                        "status": "on",
+                        "parentIds": [
+                            1
+                        ],
+                        "childrenIds": [],
+                        "name": "ekran-qoruyucular",
+                        "title": "Ekran qoruyucular",
+                        "route": "/az/mobil-aksesuarlar/ekran-qoruyucular",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 13,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 1,
+                        "status": "on",
+                        "parentIds": [
+                            1
+                        ],
+                        "childrenIds": [],
+                        "name": "yaddas-kartlari",
+                        "title": "Yaddaş Kartları",
+                        "route": "/az/mobil-aksesuarlar/yaddas-kartlari",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 18,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 1,
+                        "status": "on",
+                        "parentIds": [
+                            1
+                        ],
+                        "childrenIds": [],
+                        "name": "usb-naqiller",
+                        "title": "USB naqillər",
+                        "route": "/az/mobil-aksesuarlar/usb-naqiller",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 33,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 1,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            1
+                        ],
+                        "childrenIds": [],
+                        "name": "tripodlar",
+                        "title": "Tripodlar",
+                        "route": "/az/mobil-aksesuarlar/tripodlar",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 109,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 1,
+                        "status": "on",
+                        "parentIds": [
+                            1
+                        ],
+                        "childrenIds": [],
+                        "name": "qarisiq-mehsullar",
+                        "title": "Qarışıq məhsullar",
+                        "route": "/az/mobil-aksesuarlar/qarisiq-mehsullar",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "faq": [],
+                        "id": 14,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "parentId": 0,
+                "status": "on",
+                "parentIds": [],
+                "childrenIds": [
+                    65,
+                    11
+                ],
+                "name": "saatlar",
+                "title": "Saatlar",
+                "route": "/az/saatlar",
+                "banner": {
+                    "image": "",
+                    "title": "",
+                    "desc": "",
+                    "route": ""
+                },
+                "new": false,
+                "id": 60,
+                "products": 0,
+                "hasHome": false,
+                "subType": "default",
+                "topBrands": [],
+                "children": [
+                    {
+                        "parentId": 60,
+                        "new": true,
+                        "status": "on",
+                        "parentIds": [
+                            60
+                        ],
+                        "childrenIds": [],
+                        "name": "usaq-ucun-smart-saatlar",
+                        "title": "Uşaq üçün smart saatlar",
+                        "route": "/az/saatlar/usaq-ucun-smart-saatlar",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 115,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 60,
+                        "status": "on",
+                        "parentIds": [
+                            60
+                        ],
+                        "childrenIds": [],
+                        "name": "klassik-saatlar",
+                        "title": "Klassik saatlar",
+                        "route": "/az/saatlar/klassik-saatlar",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 65,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 60,
+                        "status": "on",
+                        "parentIds": [
+                            60
+                        ],
+                        "childrenIds": [],
+                        "name": "smart-saatlar",
+                        "title": "Smart saatlar",
+                        "route": "/az/saatlar/smart-saatlar",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 11,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "parentId": 0,
+                "status": "on",
+                "parentIds": [],
+                "childrenIds": [
+                    22,
+                    24,
+                    25,
+                    26,
+                    36
+                ],
+                "name": "avtomobil-aksesuarlari",
+                "title": "Avtomobil aksesuarları",
+                "route": "/az/avtomobil-aksesuarlari",
+                "banner": {
+                    "image": "",
+                    "title": "",
+                    "desc": "",
+                    "route": ""
+                },
+                "new": false,
+                "id": 4,
+                "products": 0,
+                "hasHome": false,
+                "subType": "default",
+                "topBrands": [],
+                "children": [
+                    {
+                        "parentId": 4,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            4
+                        ],
+                        "childrenIds": [],
+                        "name": "avtomobil-ucun-etir",
+                        "title": "Avtomobil üçün ətir",
+                        "route": "/az/avtomobil-aksesuarlari/avtomobil-ucun-etir",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 108,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 4,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            4
+                        ],
+                        "childrenIds": [],
+                        "name": "avtomobil-tozsoranlari",
+                        "title": "Avtomobil tozsoranları",
+                        "route": "/az/avtomobil-aksesuarlari/avtomobil-tozsoranlari",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 110,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 4,
+                        "status": "on",
+                        "parentIds": [
+                            4
+                        ],
+                        "childrenIds": [],
+                        "name": "holderler",
+                        "title": "Holderlər",
+                        "route": "/az/avtomobil-aksesuarlari/holderler",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 22,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 4,
+                        "status": "on",
+                        "parentIds": [
+                            4
+                        ],
+                        "childrenIds": [],
+                        "name": "aux-naqiller",
+                        "title": "AUX naqillər",
+                        "route": "/az/avtomobil-aksesuarlari/aux-naqiller",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 24,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 4,
+                        "status": "on",
+                        "parentIds": [
+                            4
+                        ],
+                        "childrenIds": [],
+                        "name": "fm-modulyatorlar",
+                        "title": "FM Modulyatorlar",
+                        "route": "/az/avtomobil-aksesuarlari/fm-modulyatorlar",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 25,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 4,
+                        "status": "on",
+                        "parentIds": [
+                            4
+                        ],
+                        "childrenIds": [],
+                        "name": "video-qeydiyyat-cihazlari",
+                        "title": "Video qeydiyyat cihazları",
+                        "route": "/az/avtomobil-aksesuarlari/video-qeydiyyat-cihazlari",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 26,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 4,
+                        "status": "on",
+                        "parentIds": [
+                            4
+                        ],
+                        "childrenIds": [],
+                        "name": "avtomobil-adapterleri",
+                        "title": "Avtomobil Adapterləri",
+                        "route": "/az/avtomobil-aksesuarlari/avtomobil-adapterleri",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 36,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "parentId": 0,
+                "status": "on",
+                "parentIds": [],
+                "childrenIds": [
+                    27,
+                    57,
+                    28,
+                    52,
+                    29,
+                    30,
+                    51,
+                    40
+                ],
+                "name": "audio-ve-tv-aksesuarlar",
+                "title": "Audio və TV aksesuarlar",
+                "route": "/az/audio-ve-tv-aksesuarlar",
+                "banner": {
+                    "image": "",
+                    "title": "",
+                    "desc": "",
+                    "route": ""
+                },
+                "new": false,
+                "id": 5,
+                "products": 0,
+                "hasHome": false,
+                "subType": "default",
+                "topBrands": [],
+                "children": [
+                    {
+                        "parentId": 5,
+                        "status": "on",
+                        "parentIds": [
+                            5
+                        ],
+                        "childrenIds": [],
+                        "name": "sesguclendiriciler",
+                        "title": "Səsgücləndiricilər",
+                        "route": "/az/audio-ve-tv-aksesuarlar/sesguclendiriciler",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 27,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 5,
+                        "status": "on",
+                        "parentIds": [
+                            5
+                        ],
+                        "childrenIds": [],
+                        "name": "radiolar",
+                        "title": "Radiolar",
+                        "route": "/az/audio-ve-tv-aksesuarlar/radiolar",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 57,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 5,
+                        "status": "on",
+                        "parentIds": [
+                            5
+                        ],
+                        "childrenIds": [],
+                        "name": "audio-sistemler",
+                        "title": "Audio sistemlər",
+                        "route": "/az/audio-ve-tv-aksesuarlar/audio-sistemler",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 28,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 5,
+                        "status": "on",
+                        "parentIds": [
+                            5
+                        ],
+                        "childrenIds": [],
+                        "name": "ev-kinoteatri",
+                        "title": "Ev Kinoteatrı",
+                        "route": "/az/audio-ve-tv-aksesuarlar/ev-kinoteatri",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 52,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 5,
+                        "status": "on",
+                        "parentIds": [
+                            5
+                        ],
+                        "childrenIds": [],
+                        "name": "mikrofonlar",
+                        "title": "Mikrofonlar",
+                        "route": "/az/audio-ve-tv-aksesuarlar/mikrofonlar",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 29,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 5,
+                        "status": "on",
+                        "parentIds": [
+                            5
+                        ],
+                        "childrenIds": [],
+                        "name": "tv-boxlar",
+                        "title": "TV Boxlar",
+                        "route": "/az/audio-ve-tv-aksesuarlar/tv-boxlar",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 30,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 5,
+                        "status": "on",
+                        "parentIds": [
+                            5
+                        ],
+                        "childrenIds": [],
+                        "name": "tv-pult",
+                        "title": "TV pult",
+                        "route": "/az/audio-ve-tv-aksesuarlar/tv-pult",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 51,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 5,
+                        "status": "on",
+                        "parentIds": [
+                            5
+                        ],
+                        "childrenIds": [],
+                        "name": "musahide-kameralari",
+                        "title": "Müşahidə Kameraları",
+                        "route": "/az/audio-ve-tv-aksesuarlar/musahide-kameralari",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 40,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "parentId": 0,
+                "status": "on",
+                "parentIds": [],
+                "childrenIds": [
+                    45,
+                    46,
+                    47,
+                    49,
+                    50
+                ],
+                "name": "komputer-aksesuarlari",
+                "title": "Kompüter Aksesuarları",
+                "route": "/az/komputer-aksesuarlari",
+                "banner": {
+                    "image": "",
+                    "title": "",
+                    "desc": "",
+                    "route": ""
+                },
+                "new": false,
+                "id": 44,
+                "products": 0,
+                "hasHome": false,
+                "subType": "default",
+                "topBrands": [],
+                "children": [
+                    {
+                        "parentId": 44,
+                        "status": "on",
+                        "parentIds": [
+                            44
+                        ],
+                        "childrenIds": [],
+                        "name": "klaviaturalar",
+                        "title": "Klaviaturalar",
+                        "route": "/az/komputer-aksesuarlari/klaviaturalar",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "faq": [],
+                        "id": 45,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 44,
+                        "status": "on",
+                        "parentIds": [
+                            44
+                        ],
+                        "childrenIds": [],
+                        "name": "mouselar",
+                        "title": "Mouse",
+                        "route": "/az/komputer-aksesuarlari/mouselar",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "faq": [],
+                        "id": 46,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 44,
+                        "status": "on",
+                        "parentIds": [
+                            44
+                        ],
+                        "childrenIds": [],
+                        "name": "maus-altligi",
+                        "title": "Mouse altlığı",
+                        "route": "/az/komputer-aksesuarlari/maus-altligi",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 47,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 44,
+                        "status": "on",
+                        "parentIds": [
+                            44
+                        ],
+                        "childrenIds": [],
+                        "name": "modemler",
+                        "title": "Modemlər",
+                        "route": "/az/komputer-aksesuarlari/modemler",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 49,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 44,
+                        "status": "on",
+                        "parentIds": [
+                            44
+                        ],
+                        "childrenIds": [],
+                        "name": "routerler",
+                        "title": "Routerlər",
+                        "route": "/az/komputer-aksesuarlari/routerler",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 50,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "parentId": 0,
+                "new": false,
+                "status": "on",
+                "parentIds": [],
+                "childrenIds": [
+                    100,
+                    101,
+                    102,
+                    103,
+                    104,
+                    105,
+                    106,
+                    111,
+                    112,
+                    68,
+                    69,
+                    70,
+                    71,
+                    72,
+                    73,
+                    74,
+                    75,
+                    76,
+                    77,
+                    78,
+                    98,
+                    79,
+                    80,
+                    81,
+                    82,
+                    83,
+                    94,
+                    84,
+                    85,
+                    86,
+                    87,
+                    88,
+                    97,
+                    89,
+                    90,
+                    91,
+                    92,
+                    93,
+                    96
+                ],
+                "name": "kicik-meiset-texnikasi",
+                "title": "Kiçik məişət texnikası",
+                "route": "/az/kicik-meiset-texnikasi",
+                "banner": {
+                    "image": "",
+                    "title": "Kiçik məişət texnikası Superfonda",
+                    "desc": "Superfon mağazalarında mətbəx avadanlıqlarını sərfəli qiymətlərlə əldə edin. Hər keyfiyyətdə və hər büdcəyə uyğun mətbəx avadanlıqlarının satışı Superfon mağazalarında. Siz də nağd və ya kredit ödənişilə mətbəxinizə uyğun avadanlıqları mağazalarımızdan satın ala bilərsiniz",
+                    "route": "az/kicik-meiset-texnikasi"
+                },
+                "id": 67,
+                "products": 0,
+                "hasHome": false,
+                "subType": "default",
+                "topBrands": [
+                    53,
+                    54,
+                    50
+                ],
+                "children": [
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "metbex-masini",
+                        "title": "Mətbəx maşını",
+                        "route": "/az/kicik-meiset-texnikasi/metbex-masini",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "faq": [],
+                        "id": 100,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "soba",
+                        "title": "Soba",
+                        "route": "/az/kicik-meiset-texnikasi/soba",
+                        "banner": {},
+                        "id": 101,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "termopot",
+                        "title": "Termopot",
+                        "route": "/az/kicik-meiset-texnikasi/termopot",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 102,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "buxarli-bisirici",
+                        "title": "Buxarlı bişirici",
+                        "route": "/az/kicik-meiset-texnikasi/buxarli-bisirici",
+                        "banner": {},
+                        "id": 103,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "elektrik-plite",
+                        "title": "Elektrik plitə",
+                        "route": "/az/kicik-meiset-texnikasi/elektrik-plite",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 104,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "elektrikli-manqal",
+                        "title": "Elektrikli manqal",
+                        "route": "/az/kicik-meiset-texnikasi/elektrikli-manqal",
+                        "banner": {},
+                        "id": 105,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "izqara",
+                        "title": "İzqara",
+                        "route": "/az/kicik-meiset-texnikasi/izqara",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 106,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "meyve-ve-terevez-qurudan",
+                        "title": "Meyvə və tərəvəz qurudan",
+                        "route": "/az/kicik-meiset-texnikasi/meyve-ve-terevez-qurudan",
+                        "banner": {},
+                        "id": 111,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "popkorn-bisirici",
+                        "title": "Popkorn bişirici",
+                        "route": "/az/kicik-meiset-texnikasi/popkorn-bisirici",
+                        "banner": {},
+                        "id": 112,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "samovarlar",
+                        "title": "Samovarlar",
+                        "faq": [],
+                        "route": "/az/kicik-meiset-texnikasi/samovarlar",
+                        "banner": {},
+                        "id": 118,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "caydan",
+                        "title": "Çaydan",
+                        "route": "/az/kicik-meiset-texnikasi/caydan",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 68,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "bicaq-itileyen",
+                        "title": "Bıçaq itiləyən",
+                        "route": "/az/kicik-meiset-texnikasi/bicaq-itileyen",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 69,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "blender",
+                        "title": "Blender",
+                        "route": "/az/kicik-meiset-texnikasi/blender",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "faq": [],
+                        "id": 70,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "sireceken",
+                        "title": "Şirəçəkən",
+                        "route": "/az/kicik-meiset-texnikasi/sireceken",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "faq": [],
+                        "id": 71,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": true,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "terezi",
+                        "title": "Tərəzi",
+                        "route": "/az/kicik-meiset-texnikasi/terezi",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 72,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "metbex-terezisi",
+                        "title": "Mətbəx tərəzisi",
+                        "route": "/az/kicik-meiset-texnikasi/metbex-terezisi",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 73,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "mikser",
+                        "title": "Mikser",
+                        "route": "/az/kicik-meiset-texnikasi/mikser",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "faq": [],
+                        "id": 74,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "toster",
+                        "title": "Toster",
+                        "route": "/az/kicik-meiset-texnikasi/toster",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "faq": [],
+                        "id": 75,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "mikrodalgali-soba",
+                        "title": "Mikrodalğalı soba",
+                        "route": "/az/kicik-meiset-texnikasi/mikrodalgali-soba",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "faq": [],
+                        "id": 76,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "dograyici",
+                        "title": "Doğrayıcı",
+                        "route": "/az/kicik-meiset-texnikasi/dograyici",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "faq": [],
+                        "id": 77,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "qehvebisiren",
+                        "title": "Qəhvəbişirən",
+                        "route": "/az/kicik-meiset-texnikasi/qehvebisiren",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "faq": [],
+                        "id": 78,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "qehveuyudenler",
+                        "title": "Qəhvəüyüdənlər",
+                        "route": "/az/kicik-meiset-texnikasi/qehveuyudenler",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 98,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "etceken",
+                        "title": "Ətçəkən",
+                        "route": "/az/kicik-meiset-texnikasi/etceken",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "faq": [],
+                        "id": 79,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "elektrik-tava",
+                        "title": "Elektrik tava",
+                        "route": "/az/kicik-meiset-texnikasi/elektrik-tava",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 80,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "fen",
+                        "title": "Fen",
+                        "route": "/az/kicik-meiset-texnikasi/fen",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "faq": [],
+                        "id": 81,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "utu",
+                        "title": "Ütü",
+                        "route": "/az/kicik-meiset-texnikasi/utu",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "faq": [],
+                        "id": 82,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "sac-utusu",
+                        "title": "Saç ütüsü",
+                        "route": "/az/kicik-meiset-texnikasi/sac-utusu",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "faq": [],
+                        "id": 83,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "tozsoran",
+                        "title": "Tozsoran",
+                        "route": "/az/kicik-meiset-texnikasi/tozsoran",
+                        "banner": {
+                            "image": "",
+                            "title": "Tozsoran",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "faq": [],
+                        "id": 94,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "duz-istiot-deyirmani",
+                        "title": "Duz-istiot dəyirmanı",
+                        "route": "/az/kicik-meiset-texnikasi/duz-istiot-deyirmani",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 84,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "buxarlandirici",
+                        "title": "Buxarlandırıcı",
+                        "route": "/az/kicik-meiset-texnikasi/buxarlandirici",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 85,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "tiftik-temizleyen",
+                        "title": "Tiftik təmizləyən",
+                        "route": "/az/kicik-meiset-texnikasi/tiftik-temizleyen",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "faq": [],
+                        "id": 86,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "sacqirxan",
+                        "title": "Saçqırxan",
+                        "route": "/az/kicik-meiset-texnikasi/sacqirxan",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 87,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "uzqirxan-ve-trimmer",
+                        "title": "Üzqırxan və trimmer",
+                        "route": "/az/kicik-meiset-texnikasi/uzqirxan-ve-trimmer",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 88,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "uz-temizleyen-masajor",
+                        "title": "Üz təmizləyən masajor",
+                        "route": "/az/kicik-meiset-texnikasi/uz-temizleyen-masajor",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 97,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "elektrik-dis-fircasi",
+                        "title": "Elektrik diş fırçası",
+                        "route": "/az/kicik-meiset-texnikasi/elektrik-dis-fircasi",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 89,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": true,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "qizdirici",
+                        "title": "Qızdırıcı",
+                        "route": "/az/kicik-meiset-texnikasi/qizdirici",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 90,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": true,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "epilyator",
+                        "title": "Epilyator",
+                        "route": "/az/kicik-meiset-texnikasi/epilyator",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 91,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": true,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "fritoz",
+                        "title": "Fritoz",
+                        "route": "/az/kicik-meiset-texnikasi/fritoz",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "faq": [],
+                        "id": 92,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": true,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "isidici-ventilyator",
+                        "title": "İsidici ventilyator",
+                        "route": "/az/kicik-meiset-texnikasi/isidici-ventilyator",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "faq": [],
+                        "id": 93,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 67,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            67
+                        ],
+                        "childrenIds": [],
+                        "name": "tikis-masini",
+                        "title": "Tikiş maşını",
+                        "route": "/az/kicik-meiset-texnikasi/tikis-masini",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 96,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "parentId": 0,
+                "new": false,
+                "status": "on",
+                "parentIds": [],
+                "childrenIds": [],
+                "name": "elektron-vape",
+                "title": "Elektron vape",
+                "faq": [],
+                "route": "/az/elektron-vape",
+                "banner": {
+                    "image": "",
+                    "title": "",
+                    "desc": "",
+                    "route": ""
+                },
+                "id": 117,
+                "products": 0,
+                "hasHome": false,
+                "subType": "default",
+                "topBrands": [],
+                "children": []
+            },
+            {
+                "parentId": 0,
+                "status": "on",
+                "parentIds": [],
+                "childrenIds": [
+                    99,
+                    42,
+                    43,
+                    48,
+                    56,
+                    21
+                ],
+                "name": "diger",
+                "title": "Digər",
+                "route": "/az/diger",
+                "banner": {
+                    "image": "",
+                    "title": "",
+                    "desc": "",
+                    "route": ""
+                },
+                "new": false,
+                "faq": [],
+                "id": 41,
+                "products": 0,
+                "hasHome": false,
+                "subType": "default",
+                "topBrands": [],
+                "children": [
+                    {
+                        "parentId": 41,
+                        "new": false,
+                        "status": "on",
+                        "parentIds": [
+                            41
+                        ],
+                        "childrenIds": [],
+                        "name": "hovuzlar",
+                        "title": "Hovuzlar",
+                        "route": "/az/diger/hovuzlar",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "id": 99,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 41,
+                        "status": "on",
+                        "parentIds": [
+                            41
+                        ],
+                        "childrenIds": [],
+                        "name": "hava-nemlendiriciler",
+                        "title": "Hava nəmləndiricilər",
+                        "route": "/az/diger/hava-nemlendiriciler",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 42,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 41,
+                        "status": "on",
+                        "parentIds": [
+                            41
+                        ],
+                        "childrenIds": [],
+                        "name": "cantalar",
+                        "title": "Çantalar",
+                        "route": "/az/diger/cantalar",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 43,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 41,
+                        "status": "on",
+                        "parentIds": [
+                            41
+                        ],
+                        "childrenIds": [],
+                        "name": "led-isiqlar",
+                        "title": "LED işıqlar",
+                        "route": "/az/diger/led-isiqlar",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 48,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 41,
+                        "status": "on",
+                        "parentIds": [
+                            41
+                        ],
+                        "childrenIds": [],
+                        "name": "oturuculer",
+                        "title": "Ötürücülər (Perexodnik)",
+                        "route": "/az/diger/oturuculer",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 56,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    },
+                    {
+                        "parentId": 41,
+                        "status": "on",
+                        "parentIds": [
+                            41
+                        ],
+                        "childrenIds": [],
+                        "name": "oyun-ucun",
+                        "title": "Oyun üçün",
+                        "route": "/az/diger/oyun-ucun",
+                        "banner": {
+                            "image": "",
+                            "title": "",
+                            "desc": "",
+                            "route": ""
+                        },
+                        "new": false,
+                        "id": 21,
+                        "products": 0,
+                        "hasHome": false,
+                        "subType": "default",
+                        "topBrands": [],
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "parentId": 0,
+                "new": false,
+                "status": "on",
+                "parentIds": [],
+                "childrenIds": [],
+                "name": "hediyye-kartlari",
+                "title": "Hədiyyə kartları",
+                "route": "/az/hediyye-kartlari",
+                "banner": {
+                    "image": "",
+                    "title": "",
+                    "desc": "",
+                    "route": ""
+                },
+                "faq": [
+                    {
+                        "question": {
+                            "az": "Smart saatda NFC özəlliyi mövcuddur?",
+                            "en": "Smart saatda NFC özəlliyi mövcuddur?",
+                            "ru": "Smart saatda NFC özəlliyi mövcuddur?"
+                        },
+                        "answer": {
+                            "az": "Smart saatda NFC özəlliyi mövcuddur?",
+                            "en": "Smart saatda NFC özəlliyi mövcuddur?",
+                            "ru": "Smart saatda NFC özəlliyi mövcuddur?"
+                        }
+                    }
+                ],
+                "id": 107,
+                "products": 0,
+                "hasHome": false,
+                "subType": "default",
+                "topBrands": [],
+                "children": []
+            }
+        ]
+    }
+}
+    ],
+
+     "new": [
+    {
+    "ok": true,
+    "data": {
+  "items": [
+    {
+      "newIn": true,
+      "bestSeller": false,
+      "orangeStar": false,
+      "monoBrand": false,
+      "price": 34.9,
+      "priceOld": 0,
+      "priceInStore": false,
+      "cashDiscount": 0,
+      "discount": 0,
+      "specialDiscount": false,
+      "imageWithPad": false,
+      "outfitWithPad": false,
+      "qty": 10,
+      "title": "Mikser Ackiliss ACL.6695",
+      "faq": [],
+      "images": [
+        {
+          "source": "111344-5b76d287523c4b8c1f1660794b2c612a.jpg"
+        },
+        {
+          "source": "111344-1e728e46a24e120c0c9b1be90c0d9409.jpg"
+        },
+        {
+          "source": "111344-facec652649a0a21ae14f49632186cf4.jpg"
+        },
+        {
+          "source": "111344-3a1f035f64d42b31256f63371e3beee2.jpg"
+        },
+        {
+          "source": "111344-68cf4e3401dd364d811b796bf0129008.jpg"
+        }
+      ],
+      "route": "/az/products/mikser-ackiliss-acl6695-111344",
+      "desc": "",
+      "image": "111344-5b76d287523c4b8c1f1660794b2c612a.jpg",
+      "mannequins": "",
+      "outfit": "111344-1e728e46a24e120c0c9b1be90c0d9409.jpg",
+      "categories": [
+        {
+          "title": "Mikser",
+          "id": 74
+        }
+      ],
+      "brand": {
+        "status": "on",
+        "name": "ackiliss",
+        "title": "Ackiliss",
+        "titleIndex": "A00A02A15A13A17A13A24A24",
+        "route": "/az/brands/ackiliss",
+        "id": 93
+      },
+      "badges": [],
+      "giftProducts": [],
+      "id": 111344
+    },
+    {
+      "newIn": true,
+      "bestSeller": false,
+      "orangeStar": false,
+      "monoBrand": false,
+      "price": 94.9,
+      "priceOld": 0,
+      "priceInStore": false,
+      "cashDiscount": 0,
+      "discount": 0,
+      "specialDiscount": false,
+      "imageWithPad": false,
+      "outfitWithPad": false,
+      "qty": 10,
+      "title": "Izqara Akane A.561",
+      "faq": [],
+      "images": [
+        {
+          "source": "111383-570ee0f73b23150b28e5a8cd00d8646a.jpg"
+        },
+        {
+          "source": "111383-f442d5a6bae4837cb8f27063c84835e4.jpg"
+        },
+        {
+          "source": "111383-b6958c2e57ef2e0d20ab74674bab1e9b.jpg"
+        },
+        {
+          "source": "111383-ad6fd23aaa685475545dcdb59f8abbac.jpg"
+        },
+        {
+          "source": "111383-a4590c6b3f6d3bd44e37c4abe3e418b0.jpg"
+        },
+        {
+          "source": "111383-aa8cbf82130036b5e6a75434a3994504.jpeg"
+        }
+      ],
+      "route": "/az/products/product-111383",
+      "desc": "",
+      "image": "111383-570ee0f73b23150b28e5a8cd00d8646a.jpg",
+      "mannequins": "",
+      "outfit": "111383-f442d5a6bae4837cb8f27063c84835e4.jpg",
+      "categories": [
+        {
+          "title": "İzqara",
+          "id": 106
+        }
+      ],
+      "brand": {
+        "status": "on",
+        "name": "akane",
+        "title": "Akane",
+        "titleIndex": "A00A15A00A19A05",
+        "route": "/az/brands/akane",
+        "id": 92
+      },
+      "badges": [],
+      "giftProducts": [],
+      "id": 111383
+    },
+    {
+      "newIn": true,
+      "bestSeller": false,
+      "orangeStar": false,
+      "monoBrand": false,
+      "price": 29.9,
+      "priceOld": 0,
+      "priceInStore": false,
+      "cashDiscount": 0,
+      "discount": 0,
+      "specialDiscount": false,
+      "imageWithPad": false,
+      "outfitWithPad": false,
+      "qty": 10,
+      "title": "Çaydan 2.2L Ackiliss ACL.7813 şüşə",
+      "faq": [],
+      "images": [
+        {
+          "source": "111340-32fb6a2a78b10e57ecbb18f63a8ffd83.png"
+        },
+        {
+          "source": "111340-b26692c7b7fff65e9766ef6ec6fd42aa.jpg"
+        },
+        {
+          "source": "111340-6cbcce02768f4c96881f73575f3e0060.jpg"
+        },
+        {
+          "source": "111340-32b1d5477bcfd5d2968c6026e2ec3b5f.png"
+        },
+        {
+          "source": "111340-3b2aa18ac6d64f13b1df5480b054a0ad.png"
+        },
+        {
+          "source": "111340-58db5109c97073f55802f92184e4101e.jpeg"
+        }
+      ],
+      "route": "/az/products/product-111340",
+      "desc": "",
+      "image": "111340-32fb6a2a78b10e57ecbb18f63a8ffd83.png",
+      "mannequins": "",
+      "outfit": "111340-b26692c7b7fff65e9766ef6ec6fd42aa.jpg",
+      "categories": [
+        {
+          "title": "Çaydan",
+          "id": 68
+        }
+      ],
+      "brand": {
+        "status": "on",
+        "name": "ackiliss",
+        "title": "Ackiliss",
+        "titleIndex": "A00A02A15A13A17A13A24A24",
+        "route": "/az/brands/ackiliss",
+        "id": 93
+      },
+      "badges": [],
+      "giftProducts": [],
+      "id": 111340
+    },
+    {
+      "newIn": true,
+      "bestSeller": false,
+      "orangeStar": false,
+      "monoBrand": false,
+      "price": 64.9,
+      "priceOld": 0,
+      "priceInStore": false,
+      "cashDiscount": 0,
+      "discount": 0,
+      "specialDiscount": false,
+      "imageWithPad": false,
+      "outfitWithPad": false,
+      "qty": 10,
+      "title": "Əl tozsoranı Ackiliss ACL.8673W 2IN1",
+      "faq": [],
+      "images": [
+        {
+          "source": "111382-060895888d6afdcd28ac175cf6a73079.png"
+        },
+        {
+          "source": "111382-26129a4f07d3540be56d486ef62cb980.png"
+        },
+        {
+          "source": "111382-92c18125922c077032846c5a9a4ef83c.jpg"
+        },
+        {
+          "source": "111382-9a1a2db89f7bff36ac260b747606150f.jpg"
+        },
+        {
+          "source": "111382-ade6591edb2b27777fa19a64342e3547.jpeg"
+        }
+      ],
+      "route": "/az/products/el-tozsorani-ackiliss-acl8673w-2in1-111382",
+      "desc": "",
+      "image": "111382-060895888d6afdcd28ac175cf6a73079.png",
+      "mannequins": "",
+      "outfit": "111382-26129a4f07d3540be56d486ef62cb980.png",
+      "categories": [
+        {
+          "title": "Tozsoran",
+          "id": 94
+        }
+      ],
+      "brand": {
+        "status": "on",
+        "name": "ackiliss",
+        "title": "Ackiliss",
+        "titleIndex": "A00A02A15A13A17A13A24A24",
+        "route": "/az/brands/ackiliss",
+        "id": 93
+      },
+      "badges": [],
+      "giftProducts": [],
+      "id": 111382
+    },
+    {
+      "newIn": true,
+      "bestSeller": false,
+      "orangeStar": false,
+      "monoBrand": false,
+      "price": 129.9,
+      "priceOld": 0,
+      "priceInStore": false,
+      "cashDiscount": 0,
+      "discount": 0,
+      "specialDiscount": false,
+      "imageWithPad": false,
+      "outfitWithPad": false,
+      "qty": 10,
+      "title": "Ətçəkən Ackiliss ACL.3376",
+      "faq": [],
+      "images": [
+        {
+          "source": "111389-1e14ef1422d2becaaf08c81346aa22fa.jpeg"
+        }
+      ],
+      "route": "/az/products/product-111389",
+      "desc": "",
+      "image": "111389-1e14ef1422d2becaaf08c81346aa22fa.jpeg",
+      "mannequins": "",
+      "outfit": "",
+      "categories": [
+        {
+          "title": "Ətçəkən",
+          "id": 79
+        }
+      ],
+      "brand": {
+        "status": "on",
+        "name": "ackiliss",
+        "title": "Ackiliss",
+        "titleIndex": "A00A02A15A13A17A13A24A24",
+        "route": "/az/brands/ackiliss",
+        "id": 93
+      },
+      "badges": [],
+      "giftProducts": [],
+      "id": 111389
+    },
+    {
+      "newIn": true,
+      "bestSeller": false,
+      "orangeStar": false,
+      "monoBrand": false,
+      "price": 29.9,
+      "priceOld": 0,
+      "priceInStore": false,
+      "cashDiscount": 0,
+      "discount": 0,
+      "specialDiscount": false,
+      "imageWithPad": false,
+      "outfitWithPad": false,
+      "qty": 10,
+      "title": "Qulaqlıq BT 650 Mega render black",
+      "faq": [],
+      "images": [
+        {
+          "source": "111288-b0e903dcff9beed360c49aef878c06b6.png"
+        }
+      ],
+      "route": "/az/products/product-111288",
+      "desc": "",
+      "image": "111288-b0e903dcff9beed360c49aef878c06b6.png",
+      "mannequins": "",
+      "outfit": "",
+      "categories": [
+        {
+          "title": "Qulaqlıqlar",
+          "id": 10
+        },
+        {
+          "title": "Qulaqlıqlar",
+          "id": 32
+        }
+      ],
+      "brand": {
+        "status": "on",
+        "name": "superfon-mehsullari",
+        "title": "PRC",
+        "titleIndex": "A22A23A02",
+        "route": "/az/brands/superfon-mehsullari",
+        "id": 17
+      },
+      "badges": [],
+      "giftProducts": [],
+      "id": 111288
+    },
+    {
+      "newIn": true,
+      "bestSeller": false,
+      "orangeStar": false,
+      "monoBrand": false,
+      "price": 74.9,
+      "priceOld": 0,
+      "priceInStore": false,
+      "cashDiscount": 0,
+      "discount": 0,
+      "specialDiscount": false,
+      "imageWithPad": false,
+      "outfitWithPad": false,
+      "qty": 10,
+      "title": "Elektrikli manqal Ackiliss ACL.8612 V",
+      "faq": [],
+      "images": [
+        {
+          "source": "111384-473a4c6674eec27c1fe9afe08d366da1.jpeg"
+        },
+        {
+          "source": "111384-d0a1bbeb2f74085009b9e0b7357ead66.jpg"
+        }
+      ],
+      "route": "/az/products/product-111384",
+      "desc": "",
+      "image": "111384-473a4c6674eec27c1fe9afe08d366da1.jpeg",
+      "mannequins": "",
+      "outfit": "",
+      "categories": [
+        {
+          "title": "Elektrikli manqal",
+          "id": 105
+        }
+      ],
+      "brand": {
+        "status": "on",
+        "name": "ackiliss",
+        "title": "Ackiliss",
+        "titleIndex": "A00A02A15A13A17A13A24A24",
+        "route": "/az/brands/ackiliss",
+        "id": 93
+      },
+      "badges": [],
+      "giftProducts": [],
+      "id": 111384
+    },
+    {
+      "newIn": true,
+      "bestSeller": false,
+      "orangeStar": false,
+      "monoBrand": false,
+      "price": 79.9,
+      "priceOld": 0,
+      "priceInStore": false,
+      "cashDiscount": 0,
+      "discount": 0,
+      "specialDiscount": false,
+      "imageWithPad": false,
+      "outfitWithPad": false,
+      "qty": 10,
+      "title": "Izqara Ackiliss ACL.2682",
+      "faq": [],
+      "images": [
+        {
+          "source": "111373-1db4b72ba3179636636ca68c17bac2b0.jpg"
+        },
+        {
+          "source": "111373-6a89a6836630ddc62a33b5f67bfa2534.jpg"
+        },
+        {
+          "source": "111373-3b83c17c37b4f8790af057b40e05d58c.jpg"
+        },
+        {
+          "source": "111373-b59e44173fdae57e3c1e110b34a24bf1.jpg"
+        },
+        {
+          "source": "111373-361b06ab089ec70ef8671c4cb1534b06.jpg"
+        }
+      ],
+      "route": "/az/products/izqara-ackiliss-acl2682-111373",
+      "desc": "",
+      "image": "111373-1db4b72ba3179636636ca68c17bac2b0.jpg",
+      "mannequins": "",
+      "outfit": "111373-6a89a6836630ddc62a33b5f67bfa2534.jpg",
+      "categories": [
+        {
+          "title": "İzqara",
+          "id": 106
+        }
+      ],
+      "brand": {
+        "status": "on",
+        "name": "ackiliss",
+        "title": "Ackiliss",
+        "titleIndex": "A00A02A15A13A17A13A24A24",
+        "route": "/az/brands/ackiliss",
+        "id": 93
+      },
+      "badges": [],
+      "giftProducts": [],
+      "id": 111373
+    },
+    {
+      "newIn": true,
+      "bestSeller": false,
+      "orangeStar": false,
+      "monoBrand": false,
+      "price": 34.5,
+      "priceOld": 0,
+      "priceInStore": false,
+      "cashDiscount": 0,
+      "discount": 0,
+      "specialDiscount": false,
+      "imageWithPad": false,
+      "outfitWithPad": false,
+      "qty": 10,
+      "title": "TWS CHW-K41A Labubu brown",
+      "faq": [],
+      "images": [
+        {
+          "source": "111283-a8fef3f5a0f8f71334bc0ccb3f4d95c5.png"
+        },
+        {
+          "source": "111283-07bd150735a4dc13761bef312fb8f65e.jpg"
+        }
+      ],
+      "route": "/az/products/product-111283",
+      "desc": "",
+      "image": "111283-a8fef3f5a0f8f71334bc0ccb3f4d95c5.png",
+      "mannequins": "",
+      "outfit": "",
+      "categories": [
+        {
+          "title": "Qulaqlıqlar",
+          "id": 10
+        },
+        {
+          "title": "Qulaqlıqlar",
+          "id": 32
+        }
+      ],
+      "brand": {
+        "status": "on",
+        "name": "superfon-mehsullari",
+        "title": "PRC",
+        "titleIndex": "A22A23A02",
+        "route": "/az/brands/superfon-mehsullari",
+        "id": 17
+      },
+      "badges": [],
+      "giftProducts": [],
+      "id": 111283
+    },
+    {
+      "newIn": true,
+      "bestSeller": false,
+      "orangeStar": false,
+      "monoBrand": false,
+      "price": 19.9,
+      "priceOld": 0,
+      "priceInStore": false,
+      "cashDiscount": 0,
+      "discount": 0,
+      "specialDiscount": false,
+      "imageWithPad": false,
+      "outfitWithPad": false,
+      "qty": 10,
+      "title": "Çaydan 2L Ackiliss ACL.7201B şüşə",
+      "faq": [],
+      "images": [
+        {
+          "source": "111415-c4e027b9c759bb560a2378224a9de5be.jpg"
+        },
+        {
+          "source": "111415-5276b2626a69dfaa9798b7f9f59be4ed.jpg"
+        },
+        {
+          "source": "111415-2866653a9478bfd6b7d64da961e4b8cf.jpg"
+        },
+        {
+          "source": "111415-b20e0150359d84c34125d936551e9db6.jpg"
+        },
+        {
+          "source": "111415-f84ebf46863c59924998d509c92c11d9.jpg"
+        },
+        {
+          "source": "111415-5356f39dcc7e481e36ee6585c0f20080.jpg"
+        }
+      ],
+      "route": "/az/products/product-111415",
+      "desc": "",
+      "image": "111415-c4e027b9c759bb560a2378224a9de5be.jpg",
+      "mannequins": "",
+      "outfit": "111415-5276b2626a69dfaa9798b7f9f59be4ed.jpg",
+      "categories": [
+        {
+          "title": "Çaydan",
+          "id": 68
+        }
+      ],
+      "brand": {
+        "status": "on",
+        "name": "ackiliss",
+        "title": "Ackiliss",
+        "titleIndex": "A00A02A15A13A17A13A24A24",
+        "route": "/az/brands/ackiliss",
+        "id": 93
+      },
+      "badges": [],
+      "giftProducts": [],
+      "id": 111415
+    },
+    {
+      "newIn": true,
+      "bestSeller": false,
+      "orangeStar": false,
+      "monoBrand": false,
+      "price": 44.9,
+      "priceOld": 0,
+      "priceInStore": false,
+      "cashDiscount": 0,
+      "discount": 0,
+      "specialDiscount": false,
+      "imageWithPad": false,
+      "outfitWithPad": false,
+      "qty": 10,
+      "title": "Blender stasionar 1.5L Ackiliss ACL.295 2IN1 şüşə",
+      "faq": [],
+      "images": [
+        {
+          "source": "111392-0bfcc9780ec9006e6805bc825f93e3d7.jpg"
+        },
+        {
+          "source": "111392-4f4a15c7db3ea500b2ed4ec32fb49c81.jpg"
+        },
+        {
+          "source": "111392-c9f92ee66098ffbe307bf3931234de34.jpg"
+        },
+        {
+          "source": "111392-af28d13d88b1deff46b55977b3bb5684.jpg"
+        },
+        {
+          "source": "111392-542f1c3a68eb9fa3c946290ffb96ff93.jpg"
+        },
+        {
+          "source": "111392-491876dcd9be0058c3d4fae2b0e8ec81.jpg"
+        }
+      ],
+      "route": "/az/products/product-111392",
+      "desc": "",
+      "image": "111392-0bfcc9780ec9006e6805bc825f93e3d7.jpg",
+      "mannequins": "",
+      "outfit": "111392-4f4a15c7db3ea500b2ed4ec32fb49c81.jpg",
+      "categories": [
+        {
+          "title": "Blender",
+          "id": 70
+        }
+      ],
+      "brand": {
+        "status": "on",
+        "name": "ackiliss",
+        "title": "Ackiliss",
+        "titleIndex": "A00A02A15A13A17A13A24A24",
+        "route": "/az/brands/ackiliss",
+        "id": 93
+      },
+      "badges": [],
+      "giftProducts": [],
+      "id": 111392
+    },
+    {
+      "newIn": true,
+      "bestSeller": false,
+      "orangeStar": false,
+      "monoBrand": false,
+      "price": 64.9,
+      "priceOld": 0,
+      "priceInStore": false,
+      "cashDiscount": 0,
+      "discount": 0,
+      "specialDiscount": false,
+      "imageWithPad": false,
+      "outfitWithPad": false,
+      "qty": 10,
+      "title": "Əl tozsoranı Ackiliss ACL.8673B 2IN1",
+      "faq": [],
+      "images": [
+        {
+          "source": "111376-5a90d649d8bf30d52573dd7ad1c7e051.png"
+        },
+        {
+          "source": "111376-689e48225a0fa5899a0c779ec49ec219.png"
+        },
+        {
+          "source": "111376-8e30839fd9f717ffa3fe8833dcedab0a.webp"
+        },
+        {
+          "source": "111376-e4d0975b86cef94e4a5e407271507407.png"
+        },
+        {
+          "source": "111376-bbb628a43ae26d23fa17a0455ba9dc53.png"
+        },
+        {
+          "source": "111376-915aee79510b6bfab7bd5810473d8391.jpeg"
+        }
+      ],
+      "route": "/az/products/el-tozsorani-ackiliss-acl8673b-2in1-111376",
+      "desc": "",
+      "image": "111376-5a90d649d8bf30d52573dd7ad1c7e051.png",
+      "mannequins": "",
+      "outfit": "111376-689e48225a0fa5899a0c779ec49ec219.png",
+      "categories": [
+        {
+          "title": "Tozsoran",
+          "id": 94
+        }
+      ],
+      "brand": {
+        "status": "on",
+        "name": "ackiliss",
+        "title": "Ackiliss",
+        "titleIndex": "A00A02A15A13A17A13A24A24",
+        "route": "/az/brands/ackiliss",
+        "id": 93
+      },
+      "badges": [],
+      "giftProducts": [],
+      "id": 111376
+    },
+    {
+      "newIn": true,
+      "bestSeller": false,
+      "orangeStar": false,
+      "monoBrand": false,
+      "price": 29.9,
+      "priceOld": 0,
+      "priceInStore": false,
+      "cashDiscount": 0,
+      "discount": 0,
+      "specialDiscount": false,
+      "imageWithPad": false,
+      "outfitWithPad": false,
+      "qty": 10,
+      "title": "TWS CH-AH101 Labubu brown",
+      "faq": [],
+      "images": [
+        {
+          "source": "111298-907565b6000bb116adcfef3badf37c80.png"
+        }
+      ],
+      "route": "/az/products/tws-ch-ah101-labubu-brown-111298",
+      "desc": "",
+      "image": "111298-907565b6000bb116adcfef3badf37c80.png",
+      "mannequins": "",
+      "outfit": "",
+      "categories": [
+        {
+          "title": "Qulaqlıqlar",
+          "id": 10
+        },
+        {
+          "title": "Qulaqlıqlar",
+          "id": 32
+        }
+      ],
+      "brand": {
+        "status": "on",
+        "name": "superfon-mehsullari",
+        "title": "PRC",
+        "titleIndex": "A22A23A02",
+        "route": "/az/brands/superfon-mehsullari",
+        "id": 17
+      },
+      "badges": [],
+      "giftProducts": [],
+      "id": 111298
+    },
+    {
+      "newIn": true,
+      "bestSeller": false,
+      "orangeStar": false,
+      "monoBrand": false,
+      "price": 29.9,
+      "priceOld": 0,
+      "priceInStore": false,
+      "cashDiscount": 0,
+      "discount": 0,
+      "specialDiscount": false,
+      "imageWithPad": false,
+      "outfitWithPad": false,
+      "qty": 10,
+      "title": "Qulaqlıq  BT 650 MY Melody pink",
+      "faq": [],
+      "images": [
+        {
+          "source": "111287-61d67e3aa8b66538e3fc1b7d6f49f483.png"
+        }
+      ],
+      "route": "/az/products/product-111287",
+      "desc": "",
+      "image": "111287-61d67e3aa8b66538e3fc1b7d6f49f483.png",
+      "mannequins": "",
+      "outfit": "",
+      "categories": [
+        {
+          "title": "Qulaqlıqlar",
+          "id": 10
+        },
+        {
+          "title": "Qulaqlıqlar",
+          "id": 32
+        }
+      ],
+      "brand": {
+        "status": "on",
+        "name": "superfon-mehsullari",
+        "title": "PRC",
+        "titleIndex": "A22A23A02",
+        "route": "/az/brands/superfon-mehsullari",
+        "id": 17
+      },
+      "badges": [],
+      "giftProducts": [],
+      "id": 111287
+    },
+    {
+      "newIn": true,
+      "bestSeller": false,
+      "orangeStar": false,
+      "monoBrand": false,
+      "price": 39.9,
+      "priceOld": 0,
+      "priceInStore": false,
+      "cashDiscount": 0,
+      "discount": 0,
+      "specialDiscount": false,
+      "imageWithPad": false,
+      "outfitWithPad": false,
+      "qty": 10,
+      "title": "TWS display airmax white",
+      "faq": [],
+      "images": [
+        {
+          "source": "111301-39fa0542cfda3f2d385a53b1f90cb22e.png"
+        }
+      ],
+      "route": "/az/products/product-111301",
+      "desc": "",
+      "image": "111301-39fa0542cfda3f2d385a53b1f90cb22e.png",
+      "mannequins": "",
+      "outfit": "",
+      "categories": [
+        {
+          "title": "Qulaqlıqlar",
+          "id": 10
+        },
+        {
+          "title": "Qulaqlıqlar",
+          "id": 32
+        }
+      ],
+      "brand": {
+        "status": "on",
+        "name": "superfon-mehsullari",
+        "title": "PRC",
+        "titleIndex": "A22A23A02",
+        "route": "/az/brands/superfon-mehsullari",
+        "id": 17
+      },
+      "badges": [],
+      "giftProducts": [],
+      "id": 111301
+    },
+    {
+      "newIn": true,
+      "bestSeller": false,
+      "orangeStar": false,
+      "monoBrand": false,
+      "price": 26.9,
+      "priceOld": 0,
+      "priceInStore": false,
+      "cashDiscount": 0,
+      "discount": 0,
+      "specialDiscount": false,
+      "imageWithPad": false,
+      "outfitWithPad": false,
+      "qty": 10,
+      "title": "Toster Ackiliss ACL.263",
+      "faq": [],
+      "images": [
+        {
+          "source": "111350-57e61d80f3a3540ede3379cca74f5d47.jpg"
+        },
+        {
+          "source": "111350-7054571c4f860894df62720c343be28b.jpg"
+        },
+        {
+          "source": "111350-7804937497488a7f4c7142aaff15b6a3.jpg"
+        },
+        {
+          "source": "111350-3ccbcd20566c235ae0c9b892babcd25e.jpg"
+        },
+        {
+          "source": "111350-017ce72dcb28639e3c21ff508c481b5f.jpeg"
+        }
+      ],
+      "route": "/az/products/product-111350",
+      "desc": "",
+      "image": "111350-57e61d80f3a3540ede3379cca74f5d47.jpg",
+      "mannequins": "",
+      "outfit": "111350-7054571c4f860894df62720c343be28b.jpg",
+      "categories": [
+        {
+          "title": "Toster",
+          "id": 75
+        }
+      ],
+      "brand": {
+        "status": "on",
+        "name": "ackiliss",
+        "title": "Ackiliss",
+        "titleIndex": "A00A02A15A13A17A13A24A24",
+        "route": "/az/brands/ackiliss",
+        "id": 93
+      },
+      "badges": [],
+      "giftProducts": [],
+      "id": 111350
+    },
+    {
+      "newIn": true,
+      "bestSeller": false,
+      "orangeStar": false,
+      "monoBrand": false,
+      "price": 29.9,
+      "priceOld": 0,
+      "priceInStore": false,
+      "cashDiscount": 0,
+      "discount": 0,
+      "specialDiscount": false,
+      "imageWithPad": false,
+      "outfitWithPad": false,
+      "qty": 10,
+      "title": "TWS CH-AH101 Labubu pink",
+      "faq": [],
+      "images": [
+        {
+          "source": "111297-fa814f4bc36eb717686c82427b9a8c87.png"
+        }
+      ],
+      "route": "/az/products/tws-ch-ah101-labubu-pink-111297",
+      "desc": "",
+      "image": "111297-fa814f4bc36eb717686c82427b9a8c87.png",
+      "mannequins": "",
+      "outfit": "",
+      "categories": [
+        {
+          "title": "Qulaqlıqlar",
+          "id": 10
+        },
+        {
+          "title": "Qulaqlıqlar",
+          "id": 32
+        }
+      ],
+      "brand": {
+        "status": "on",
+        "name": "superfon-mehsullari",
+        "title": "PRC",
+        "titleIndex": "A22A23A02",
+        "route": "/az/brands/superfon-mehsullari",
+        "id": 17
+      },
+      "badges": [],
+      "giftProducts": [],
+      "id": 111297
+    },
+    {
+      "newIn": true,
+      "bestSeller": false,
+      "orangeStar": false,
+      "monoBrand": false,
+      "price": 144.9,
+      "priceOld": 0,
+      "priceInStore": false,
+      "cashDiscount": 0,
+      "discount": 0,
+      "specialDiscount": false,
+      "imageWithPad": false,
+      "outfitWithPad": false,
+      "qty": 10,
+      "title": "Şirəçəkən Akane A.2831 Snek",
+      "faq": [],
+      "images": [
+        {
+          "source": "111380-7008b0d9e2f7c1b2c5f4ef505958000f.jpg"
+        }
+      ],
+      "route": "/az/products/product-111380",
+      "desc": "",
+      "image": "111380-7008b0d9e2f7c1b2c5f4ef505958000f.jpg",
+      "mannequins": "",
+      "outfit": "",
+      "categories": [
+        {
+          "title": "Şirəçəkən",
+          "id": 71
+        }
+      ],
+      "brand": {
+        "status": "on",
+        "name": "akane",
+        "title": "Akane",
+        "titleIndex": "A00A15A00A19A05",
+        "route": "/az/brands/akane",
+        "id": 92
+      },
+      "badges": [],
+      "giftProducts": [],
+      "id": 111380
+    },
+    {
+      "newIn": true,
+      "bestSeller": false,
+      "orangeStar": false,
+      "monoBrand": false,
+      "price": 34.5,
+      "priceOld": 0,
+      "priceInStore": false,
+      "cashDiscount": 0,
+      "discount": 0,
+      "specialDiscount": false,
+      "imageWithPad": false,
+      "outfitWithPad": false,
+      "qty": 10,
+      "title": "TWS CHW-K41A Labubu pink",
+      "faq": [],
+      "images": [
+        {
+          "source": "111282-b32dd7cddf6974bf90b204dfdd0e9b19.jpg"
+        },
+        {
+          "source": "111282-253de1b587bf98ec1169285ea6b5c52e.jpg"
+        }
+      ],
+      "route": "/az/products/product-111282",
+      "desc": "",
+      "image": "111282-b32dd7cddf6974bf90b204dfdd0e9b19.jpg",
+      "mannequins": "",
+      "outfit": "",
+      "categories": [
+        {
+          "title": "Qulaqlıqlar",
+          "id": 10
+        },
+        {
+          "title": "Qulaqlıqlar",
+          "id": 32
+        }
+      ],
+      "brand": {
+        "status": "on",
+        "name": "superfon-mehsullari",
+        "title": "PRC",
+        "titleIndex": "A22A23A02",
+        "route": "/az/brands/superfon-mehsullari",
+        "id": 17
+      },
+      "badges": [],
+      "giftProducts": [],
+      "id": 111282
+    },
+    {
+      "newIn": true,
+      "bestSeller": false,
+      "orangeStar": false,
+      "monoBrand": false,
+      "price": 34.5,
+      "priceOld": 0,
+      "priceInStore": false,
+      "cashDiscount": 0,
+      "discount": 0,
+      "specialDiscount": false,
+      "imageWithPad": false,
+      "outfitWithPad": false,
+      "qty": 10,
+      "title": "TWS CHW-K41A Labubu purple",
+      "faq": [],
+      "images": [
+        {
+          "source": "111284-6eb55feb76c2dc68fd9dc365d2191667.png"
+        },
+        {
+          "source": "111284-45bc80b6c5d848fbee04ea426f624b91.jpg"
+        }
+      ],
+      "route": "/az/products/product-111284",
+      "desc": "",
+      "image": "111284-6eb55feb76c2dc68fd9dc365d2191667.png",
+      "mannequins": "",
+      "outfit": "",
+      "categories": [
+        {
+          "title": "Qulaqlıqlar",
+          "id": 10
+        },
+        {
+          "title": "Qulaqlıqlar",
+          "id": 32
+        }
+      ],
+      "brand": {
+        "status": "on",
+        "name": "superfon-mehsullari",
+        "title": "PRC",
+        "titleIndex": "A22A23A02",
+        "route": "/az/brands/superfon-mehsullari",
+        "id": 17
+      },
+      "badges": [],
+      "giftProducts": [],
+      "id": 111284
+    }
+  ],
+  "pagination": {
+    "count": 30,
+    "limit": 90,
+    "pages": 1,
+    "current": 1
+  },
+  "filter": {
+    "filter_brand": 0,
+    "filter_category": 0,
+    "filter_collection": 0,
+    "filter_campaign": 0,
+    "filter_mainCategory": 0,
+    "filter_newin": true,
+    "filter_bestseller": false,
+    "filter_orangeStar": false,
+    "filter_discount": false,
+    "filter_specialdiscount": false,
+    "filter_monoBrand": false,
+    "filter_sizes": "",
+    "filter_prices_min": 0,
+    "filter_prices_max": 0,
+    "filter_status": "on",
+    "filter_qty": true
+  }
+}
+}
+    ],
+
+     "bestsellers": [
+        {
+    "ok": true,
+    "data": {
+        "items": [
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 46.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Simsiz adapter Magsafe 3-ü 1-də C300",
+                "desc": "Telefon doldurma: 15W\nSaat doldurma: 3W\nQulaqlıq doldurma: 5W",
+                "images": [
+                    {
+                        "source": "101751-8eyMTo5hyGor1OEM.jpg"
+                    },
+                    {
+                        "source": "101751-9022b64fd9a3f290953b2521db7903ac.jpeg"
+                    }
+                ],
+                "route": "/az/products/simsiz-adapter-magsafe-3--1-d-c300-101751",
+                "image": "101751-8eyMTo5hyGor1OEM.jpg",
+                "discount": 0,
+                "mannequins": "",
+                "outfit": "101751-9022b64fd9a3f290953b2521db7903ac.jpeg",
+                "qty": 10,
+                "specialDiscount": false,
+                "faq": [],
+                "bestSeller": true,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Adapterlər",
+                        "id": 23
+                    },
+                    {
+                        "title": "Adapter",
+                        "id": 54
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101751
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 42.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom JR-ZS212 Holder with Wireless Charger",
+                "desc": "Müasir və erqonomik dizayn\nQI texnologiyalı simsiz 15W sürətli enerji\nSabit və güclü telefon tutma dəstəyi",
+                "images": [
+                    {
+                        "source": "101142-bHWWrg5AgSdO6OOc.jpg"
+                    },
+                    {
+                        "source": "101142-db1c3a8d14c7aa6a26a548760308ac60.jpg"
+                    },
+                    {
+                        "source": "101142-b04e7769cdb6e8daeb232f4c7c569c4b.jpg"
+                    },
+                    {
+                        "source": "101142-28db257edb0c1a6b6d0b8b1b0a013495.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-jr-zs212-holder-with-wireless-charger-101142",
+                "image": "101142-bHWWrg5AgSdO6OOc.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101142-db1c3a8d14c7aa6a26a548760308ac60.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Holderlər",
+                        "id": 22
+                    },
+                    {
+                        "title": "Holderlər",
+                        "id": 35
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101142
+            },
+            {
+                "newIn": false,
+                "bestSeller": true,
+                "monoBrand": false,
+                "price": 46.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat HK8 Pro Max Gold orange",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105783-548e0dbc64d3cb2b12ba620885cface0.jpg"
+                    },
+                    {
+                        "source": "105783-d355f751a3890bea74f804d89392e368.jpg"
+                    },
+                    {
+                        "source": "105783-322ec56e8165782617812cc515aa82e0.jpg"
+                    },
+                    {
+                        "source": "105783-537dedfbfc2f022559a3748fbfbe06c6.jpg"
+                    },
+                    {
+                        "source": "105783-53c3bffd42e415455025248ddedad647.jpg"
+                    },
+                    {
+                        "source": "105783-d2671b53f096bb43aa13c25c06da5948.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-hk8-pro-max-gold-orange-105783",
+                "desc": "2.12'' yüksək keyfiyyətli AMOLED ekran\nİstifadə müddəti: 3-4 gün\nChatGPT və bir çox funksiyası mövcuddur",
+                "image": "105783-548e0dbc64d3cb2b12ba620885cface0.jpg",
+                "mannequins": "",
+                "outfit": "105783-d355f751a3890bea74f804d89392e368.jpg",
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105783
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 16.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Qulaqlıq Abingo S500i",
+                "desc": "Abingo S500i Qulaqlıq\nSimli bağlantı\nNövü - Qulaq içi",
+                "images": [
+                    {
+                        "source": "101303-yg11TZhlGQkyFTJ7.jpg"
+                    },
+                    {
+                        "source": "101303-ca9ec5992eb4de55c39c92acc53e7542.jpg"
+                    }
+                ],
+                "route": "/az/products/qulaqliq-abingo-s500i-101303",
+                "image": "101303-yg11TZhlGQkyFTJ7.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101303-ca9ec5992eb4de55c39c92acc53e7542.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Qulaqlıqlar",
+                        "id": 10
+                    },
+                    {
+                        "title": "Qulaqlıqlar",
+                        "id": 32
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101303
+            },
+            {
+                "newIn": false,
+                "bestSeller": true,
+                "monoBrand": false,
+                "price": 44.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "specialDiscount": false,
+                "title": "Holder Joyroom JR-ZS241 dashboard",
+                "desc": "",
+                "qty": 10,
+                "image": "101865-e6ceadf9244ec3c3439198d8e208a743.jpg",
+                "outfit": "101865-0f8291a5c15c0a812c44d290d9234769.jpg",
+                "mannequins": "",
+                "images": [
+                    {
+                        "source": "101865-e6ceadf9244ec3c3439198d8e208a743.jpg"
+                    },
+                    {
+                        "source": "101865-0f8291a5c15c0a812c44d290d9234769.jpg"
+                    },
+                    {
+                        "source": "101865-67bc46a4e98084fc5c5db28f26ddae39.jpg"
+                    },
+                    {
+                        "source": "101865-3a66f6e156748d6c9a142025f85eba89.jpg"
+                    }
+                ],
+                "discount": 0,
+                "faq": [],
+                "route": "/az/products/holder-joyroom-zs241-101865",
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Holderlər",
+                        "id": 22
+                    },
+                    {
+                        "title": "Holderlər",
+                        "id": 35
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101865
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 11.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom JR-OK2 holder",
+                "desc": "Qabaq ş&uuml;şə və panel &uuml;&ccedil;&uuml;n uyğndur360 dərəcə fırlanmaTəkəlli istifadə imkanı",
+                "images": [
+                    {
+                        "source": "101135-pZgiYfWiC9kgcvyF.jpg"
+                    },
+                    {
+                        "source": "101135-199be611ba802f5a98338d4bc81ba994.jpg"
+                    },
+                    {
+                        "source": "101135-38a42e87fe7541cff5ee19acba9c483e.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-jr-ok2-holder-101135",
+                "image": "101135-pZgiYfWiC9kgcvyF.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101135-199be611ba802f5a98338d4bc81ba994.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Holderlər",
+                        "id": 22
+                    },
+                    {
+                        "title": "Holderlər",
+                        "id": 35
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101135
+            },
+            {
+                "newIn": false,
+                "bestSeller": true,
+                "monoBrand": false,
+                "price": 29.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "specialDiscount": false,
+                "title": "Powerbank Joyroom T012 10000 mAh",
+                "desc": "LED işıqlar göstəricisi\nYüksək keyfiyyətli ABS və plastik material\n2 USB çıxışı mövcuddur",
+                "qty": 10,
+                "image": "101869-0f72c2deeb9fdd4d4830349b79e5d320.jpg",
+                "outfit": "101869-de3a851761b2803e2ad9e9aed20613de.jpg",
+                "mannequins": "",
+                "images": [
+                    {
+                        "source": "101869-0f72c2deeb9fdd4d4830349b79e5d320.jpg"
+                    },
+                    {
+                        "source": "101869-de3a851761b2803e2ad9e9aed20613de.jpg"
+                    },
+                    {
+                        "source": "101869-f6b1629816935efb9dfd5625acf71a22.jpg"
+                    },
+                    {
+                        "source": "101869-ea967a4590a4953cfbaa56c220c710aa.jpg"
+                    },
+                    {
+                        "source": "101869-2237dc5518e1c6bcb3bcedf21673df80.jpg"
+                    }
+                ],
+                "discount": 0,
+                "faq": [],
+                "route": "/az/products/powerbank-joyroom-t012-10000-mah-101869",
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Powerbanklar",
+                        "id": 2
+                    },
+                    {
+                        "title": "Poverbanklar",
+                        "id": 55
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101869
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 12.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom JR-C08 Dual Ports Car Charger + Micro USB Black",
+                "desc": "Joyroom JR-C08 Dual Ports Car Charger + Micro USB Black",
+                "images": [
+                    {
+                        "source": "101363-srThvCppYHQIDeU4.jpg"
+                    },
+                    {
+                        "source": "101363-7e64de1e7576c304707a58b5baa28627.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-jr-c08-dual-ports-car-charger-+-micro-usb-black-101363",
+                "image": "101363-srThvCppYHQIDeU4.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101363-7e64de1e7576c304707a58b5baa28627.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Avtomobil Adapterləri",
+                        "id": 36
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101363
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 12.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom JR-ZS198 air vent holder",
+                "desc": "",
+                "images": [
+                    {
+                        "source": "101138-f6rTWk2HmDuAAw1u.jpg"
+                    },
+                    {
+                        "source": "101138-413dff3ff851395deb998ab06b6477a3.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-jr-zs198-air-vent-holder-101138",
+                "image": "101138-f6rTWk2HmDuAAw1u.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101138-413dff3ff851395deb998ab06b6477a3.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Holderlər",
+                        "id": 22
+                    },
+                    {
+                        "title": "Holderlər",
+                        "id": 35
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101138
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 13.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom JR-OK3 holder",
+                "desc": "",
+                "images": [
+                    {
+                        "source": "101136-e33ca254e999612e98f3da7f40492dd5.jpg"
+                    },
+                    {
+                        "source": "101136-sg9zd5i2DPTv7s1T.jpg"
+                    },
+                    {
+                        "source": "101136-273db3ad5d8c046ef8be476703811e9b.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-jr-ok3-holder-101136",
+                "image": "101136-e33ca254e999612e98f3da7f40492dd5.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101136-sg9zd5i2DPTv7s1T.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Holderlər",
+                        "id": 22
+                    },
+                    {
+                        "title": "Holderlər",
+                        "id": 35
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101136
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 29.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Powerbank Remax RPP259 20000mAh",
+                "desc": "Tutum: 20000mAh\nGiriş: TYPE-C / Micro (5V-2A)\nÇıxış: 2xUSB (5V-2A)",
+                "images": [
+                    {
+                        "source": "101749-5a8de68f6d8251d92e3e3546ac55d619.jpeg"
+                    },
+                    {
+                        "source": "101749-185e9d2f9054a15cd996b5334107f468.jpeg"
+                    },
+                    {
+                        "source": "101749-f32dcd12856d9f992640cd6e676dd76d.jpg"
+                    }
+                ],
+                "route": "/az/products/powerbank-remax-rpp259-20000mah-101749",
+                "image": "101749-5a8de68f6d8251d92e3e3546ac55d619.jpeg",
+                "discount": 0,
+                "mannequins": "",
+                "outfit": "101749-185e9d2f9054a15cd996b5334107f468.jpeg",
+                "qty": 10,
+                "specialDiscount": false,
+                "faq": [],
+                "bestSeller": true,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Powerbanklar",
+                        "id": 2
+                    },
+                    {
+                        "title": "Poverbanklar",
+                        "id": 55
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "remax",
+                    "title": "Remax",
+                    "titleIndex": "A23A05A18A00A11",
+                    "route": "/az/brands/remax",
+                    "id": 23
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101749
+            },
+            {
+                "newIn": false,
+                "bestSeller": true,
+                "monoBrand": false,
+                "price": 17.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "specialDiscount": false,
+                "title": "Holder Joyroom ZS255 yapışan",
+                "desc": "4,7-6,5 düymlük telefon ölçüsünə uyğundur\nKompakt və yığcam ölçü\nSabit və möhkəm telefon tutuşu",
+                "qty": 10,
+                "image": "101866-ba398a16dbe2ff788ca3f47d1800d884.jpg",
+                "outfit": "",
+                "mannequins": "",
+                "images": [
+                    {
+                        "source": "101866-ba398a16dbe2ff788ca3f47d1800d884.jpg"
+                    },
+                    {
+                        "source": "101866-522b8c1f3e1bee75934047746bdfcd65.jpg"
+                    }
+                ],
+                "discount": 0,
+                "faq": [],
+                "route": "/az/products/holder-joyroom-zs255-yapisan-101866",
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Holderlər",
+                        "id": 22
+                    },
+                    {
+                        "title": "Holderlər",
+                        "id": 35
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101866
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 6.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom S-1021X1 Lightning maqnitli naqil",
+                "desc": "Joyroom S-1021X1 lightning maqnitli",
+                "images": [
+                    {
+                        "source": "101204-dkM4GkA4JaFcwyn5.jpg"
+                    },
+                    {
+                        "source": "101204-7e03edc80fe70a29370e41bb75dad8ef.jpg"
+                    },
+                    {
+                        "source": "101204-b1e8c0f937ee2116eb6f7c7b7a5737da.jpg"
+                    },
+                    {
+                        "source": "101204-0df34980c886e8b90571660503cbeca9.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-s-1021x1-lightning-maqnitli-naqil-101204",
+                "image": "101204-dkM4GkA4JaFcwyn5.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101204-7e03edc80fe70a29370e41bb75dad8ef.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "USB naqillər",
+                        "id": 33
+                    },
+                    {
+                        "title": "USB Naqillər",
+                        "id": 53
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101204
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 39.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Powerbank Joyroom QP182 10000mAh",
+                "desc": "10000mAh yüksək batareya tutumu\n18W sürətli enerji yığma\n1 ədəd USB çıxışı mövcuddur",
+                "images": [
+                    {
+                        "source": "101073-vbdlQ2JrjS7Hs9AI.jpg"
+                    },
+                    {
+                        "source": "101073-1d22e409bd92900c90525dc1ab96249b.jpg"
+                    },
+                    {
+                        "source": "101073-400b3d0fe9dd7faf4eefbbe7c6c3ba13.jpg"
+                    }
+                ],
+                "route": "/az/products/powerbank-joyroom-qp182-10000mah-101073",
+                "image": "101073-vbdlQ2JrjS7Hs9AI.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101073-1d22e409bd92900c90525dc1ab96249b.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Powerbanklar",
+                        "id": 2
+                    },
+                    {
+                        "title": "Poverbanklar",
+                        "id": 55
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101073
+            },
+            {
+                "newIn": false,
+                "bestSeller": true,
+                "monoBrand": false,
+                "price": 11.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "specialDiscount": false,
+                "title": "Stilus qələm Joyroom DR01",
+                "desc": "Silikon ucluqları sayəsində cihazınızı cızmayacaq\nRəsm və yazma üçün uyğun",
+                "qty": 10,
+                "image": "101868-7b61258fd731d40f49132239c99ac453.jpg",
+                "outfit": "101868-32a61bade041c16e5caef75466ef6c32.jpg",
+                "mannequins": "",
+                "images": [
+                    {
+                        "source": "101868-7b61258fd731d40f49132239c99ac453.jpg"
+                    },
+                    {
+                        "source": "101868-32a61bade041c16e5caef75466ef6c32.jpg"
+                    },
+                    {
+                        "source": "101868-a67ecfccdacabaf81c4d0a06ef65b813.jpg"
+                    },
+                    {
+                        "source": "101868-7aa541bbe6564d315ce6349247bf3c0e.jpg"
+                    },
+                    {
+                        "source": "101868-5f5ee6d6de42e87825407f7097b258e7.jpg"
+                    },
+                    {
+                        "source": "101868-dc118eb6711c5d14ca5618f4fe93d5c2.jpg"
+                    }
+                ],
+                "discount": 0,
+                "faq": [],
+                "route": "/az/products/stilus-qelem-joyroom-dr01-101868",
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101868
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 18.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Qulaqlıq Pro 12 Qara",
+                "desc": "Pro 12 Qulaqlıq\nBluetooth bağlantılı\nNövü - Qulaq içi",
+                "images": [
+                    {
+                        "source": "101513-b5413a8f2b3a2bb2b4f1d20e2ce107d9.jpg"
+                    },
+                    {
+                        "source": "101513-huAcUqF3QGZUwsnK.jpg"
+                    }
+                ],
+                "route": "/az/products/qulaqliq-pro-12-qara-101513",
+                "image": "101513-b5413a8f2b3a2bb2b4f1d20e2ce107d9.jpg",
+                "discount": 0,
+                "mannequins": "",
+                "outfit": "101513-huAcUqF3QGZUwsnK.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "faq": [],
+                "bestSeller": true,
+                "imageWithPad": false,
+                "outfitWithPad": true,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Qulaqlıqlar",
+                        "id": 10
+                    },
+                    {
+                        "title": "Qulaqlıqlar",
+                        "id": 32
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101513
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 15,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "AnyCast M4 Plus Wireless HDMI",
+                "desc": "",
+                "images": [
+                    {
+                        "source": "101318-YUiCVSr1t3fJu68A.jpg"
+                    },
+                    {
+                        "source": "101318-2d3b7da66a3d7499a23b75aa01073e76.jpg"
+                    }
+                ],
+                "route": "/az/products/anycast-m4-plus-wireless-hdmi-101318",
+                "image": "101318-YUiCVSr1t3fJu68A.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101318-2d3b7da66a3d7499a23b75aa01073e76.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "TV Boxlar",
+                        "id": 30
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101318
+            },
+            {
+                "newIn": false,
+                "bestSeller": true,
+                "monoBrand": false,
+                "price": 29.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "route": "/az/products/powerbank-joyroom-t012-10000-mah-101869-102444",
+                "title": "Powerbank Joyroom T012 10000 mAh",
+                "desc": "LED işıqlar göstəricisi\nYüksək keyfiyyətli ABS və plastik material\n2 USB çıxışı mövcuddur",
+                "qty": 10,
+                "outfit": "",
+                "mannequins": "",
+                "discount": 0,
+                "faq": [],
+                "images": [
+                    {
+                        "source": "102444-1809f0375ac5752fee411f38f80171d9.jpg"
+                    }
+                ],
+                "image": "102444-1809f0375ac5752fee411f38f80171d9.jpg",
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Powerbanklar",
+                        "id": 2
+                    },
+                    {
+                        "title": "Poverbanklar",
+                        "id": 55
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 102444
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 14.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom JR-ZS198 dashboard holder",
+                "desc": "",
+                "images": [
+                    {
+                        "source": "101139-UOFUd2GI6JyGTnMC.jpg"
+                    },
+                    {
+                        "source": "101139-8c7c184a2fb5f778bebf9d1abd5a9c71.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-jr-zs198-dashboard-holder-101139",
+                "image": "101139-UOFUd2GI6JyGTnMC.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101139-8c7c184a2fb5f778bebf9d1abd5a9c71.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Holderlər",
+                        "id": 22
+                    },
+                    {
+                        "title": "Holderlər",
+                        "id": 35
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101139
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 7.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom C-M216 Dual Ports Car Charger + Micro Cable Black",
+                "desc": "Joyroom C-M216 Dual Ports Car Charger + Micro Cable Black",
+                "images": [
+                    {
+                        "source": "101317-MMYp7hTA5Fse9vsl.jpg"
+                    },
+                    {
+                        "source": "101317-53b7f939f5f319ecfbadfdf4e48c115f.jpg"
+                    },
+                    {
+                        "source": "101317-f26abe0658a77ba26d282c4c96730940.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-c-m216-dual-ports-car-charger-+-micro-cable-black-101317",
+                "image": "101317-MMYp7hTA5Fse9vsl.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101317-53b7f939f5f319ecfbadfdf4e48c115f.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Avtomobil Adapterləri",
+                        "id": 36
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101317
+            }
+        ],
+        "pagination": {
+            "count": 48,
+            "limit": 90,
+            "pages": 1,
+            "current": 1
+        },
+        "filter": {
+            "filter_brand": 0,
+            "filter_category": 0,
+            "filter_collection": 0,
+            "filter_campaign": 0,
+            "filter_mainCategory": 0,
+            "filter_newin": false,
+            "filter_bestseller": true,
+            "filter_orangeStar": false,
+            "filter_discount": false,
+            "filter_specialdiscount": false,
+            "filter_monoBrand": false,
+            "filter_sizes": "",
+            "filter_prices_min": 0,
+            "filter_prices_max": 0,
+            "filter_status": "on",
+            "filter_qty": true
+        }
+    }
+}
+    ],
+
+
+        "video":[
+        {
+    "ok": true,
+    "data": {
+        "items": [
+        {
+            "title": "Məktəb günləri",
+            "desc": "",
+            "videoId": "OSv56cnOGcw",
+            "id": 7,
+            "img": "https://i.ytimg.com/vi/OSv56cnOGcw/hqdefault.jpg"
+        },
+        {
+            "title": "Super Çarx",
+            "desc": "",
+            "videoId": "xAuIf4wzArA",
+            "id": 6,
+            "img": "https://i.ytimg.com/vi/xAuIf4wzArA/hqdefault.jpg"
+
+        },
+        {
+            "title": "Nərimanov filialının açılışından görüntülər",
+            "desc": "",
+            "videoId": "5XDAnZJLF98",
+            "id": 5,
+            "img": "https://i.ytimg.com/vi/5XDAnZJLF98/hqdefault.jpg"
+        },
+        {
+            "title": "Superfon-da super məlumat vaxtıdır",
+            "desc": "",
+            "videoId": "5dCFh3tacwY",
+            "id": 4,
+            "img": "https://i.ytimg.com/vi/5dCFh3tacwY/hqdefault.jpg"
+        },
+        {
+            "title": "Superfon-da icmal vaxtıdır",
+            "desc": "",
+            "videoId": "sr9M9ZE_xxU",
+            "id": 3,
+            "img": "https://i.ytimg.com/vi/sr9M9ZE_xxU/hqdefault.jpg"
+        },
+        {
+            "title": "Sənin üçün yeniləndik",
+            "desc": "",
+            "videoId": "UkVYWcyYBnk",
+            "id": 2,
+            "img": "https://i.ytimg.com/vi/UkVYWcyYBnk/hqdefault.jpg"
+        },
+        {
+            "title": "Superfonda qiymətlər həyəcanlandırır",
+            "desc": "",
+            "videoId": "dcFzFrfEvjU",
+            "id": 1,
+            "img": "https://i.ytimg.com/vi/dcFzFrfEvjU/hqdefault.jpg"
+        }
+        ]
+    }
+    }
+
+        ],
+
+        
+        "tags":[
+            {
+    "ok": true,
+    "data": {
+        "items": [
+            {
+                "title": "Apple",
+                "route": "/az/brands/apple",
+                "id": 1
+            },
+            {
+                "title": "Xiaomi",
+                "route": "/az/brands/xiaomi",
+                "id": 2
+            },
+            {
+                "title": "Keyslər",
+                "route": "/az/mobil-aksesuarlar/keysler",
+                "id": 8
+            },
+            {
+                "title": "Qulaqlıqlar",
+                "route": "/az/mobil-aksesuarlar/qulaqliqlar",
+                "id": 5
+            },
+            {
+                "title": "Mobil aksesuarlar",
+                "route": "az/mobil-aksesuarlar",
+                "id": 11
+            },
+            {
+                "title": "Oyun üçün",
+                "route": "/az/diger/oyun-ucun",
+                "id": 4
+            },
+            {
+                "title": "Powerbanklar",
+                "route": "/az/mobil-aksesuarlar/powerbanklar",
+                "id": 7
+            },
+            {
+                "title": "Samsung",
+                "route": "/az/brands/samsung",
+                "id": 10
+            },
+            {
+                "title": "Səsgücləndiricilər",
+                "route": "/az/audio-ve-tv-aksesuarlar/sesguclendiriciler",
+                "id": 3
+            },
+            {
+                "title": "Smart saatlar",
+                "route": "/az/saatlar/smart-saatlar",
+                "id": 6
+            },
+            {
+                "title": "TV bokslar",
+                "route": "/az/audio-ve-tv-aksesuarlar/tv-boxlar",
+                "id": 9
+            }
+        ]
+    }
+}
+
+        ],
+
+        "newfilter":[
+            {
+  "ok": true,
+  "data": {
+    "filters": {
+      "cats": {
+        "type": "category",
+        "title": "Kateqoriyalar",
+        "items": [
+          {
+            "title": "Kiçik məişət texnikası",
+            "route": "/az/kicik-meiset-texnikasi",
+            "id": 67,
+            "children": [
+              {
+                "title": "Blender",
+                "route": "/az/kicik-meiset-texnikasi/blender",
+                "id": 70
+              },
+              {
+                "title": "Çaydan",
+                "route": "/az/kicik-meiset-texnikasi/caydan",
+                "id": 68
+              },
+              {
+                "title": "Elektrikli manqal",
+                "route": "/az/kicik-meiset-texnikasi/elektrikli-manqal",
+                "id": 105
+              },
+              {
+                "title": "Ətçəkən",
+                "route": "/az/kicik-meiset-texnikasi/etceken",
+                "id": 79
+              },
+              {
+                "title": "İzqara",
+                "route": "/az/kicik-meiset-texnikasi/izqara",
+                "id": 106
+              },
+              {
+                "title": "Meyvə və tərəvəz qurudan",
+                "route": "/az/kicik-meiset-texnikasi/meyve-ve-terevez-qurudan",
+                "id": 111
+              },
+              {
+                "title": "Mikser",
+                "route": "/az/kicik-meiset-texnikasi/mikser",
+                "id": 74
+              },
+              {
+                "title": "Şirəçəkən",
+                "route": "/az/kicik-meiset-texnikasi/sireceken",
+                "id": 71
+              },
+              {
+                "title": "Toster",
+                "route": "/az/kicik-meiset-texnikasi/toster",
+                "id": 75
+              },
+              {
+                "title": "Tozsoran",
+                "route": "/az/kicik-meiset-texnikasi/tozsoran",
+                "id": 94
+              }
+            ]
+          },
+          {
+            "title": "Mobil Aksesuarlar",
+            "route": "/az/mobil-aksesuarlar",
+            "id": 1,
+            "children": [
+              {
+                "title": "Qulaqlıqlar",
+                "route": "/az/mobil-aksesuarlar/qulaqliqlar",
+                "id": 10
+              }
+            ]
+          }
+        ]
+      },
+      "brands": {
+        "type": "checkbox",
+        "title": "Brendlər",
+        "search": false,
+        "scrolled": true,
+        "items": [
+          {
+            "title": "Ackiliss",
+            "total": 14,
+            "id": 93
+          },
+          {
+            "title": "Akane",
+            "total": 5,
+            "id": 92
+          },
+          {
+            "title": "PRC",
+            "total": 10,
+            "id": 17
+          }
+        ]
+      },
+      "prices": {
+        "type": "price",
+        "title": "Qiymət",
+        "min": "20",
+        "max": "145",
+        "current": 0,
+        "intervals": [
+          {
+            "id": "20-50",
+            "title": "20 - 50 azn",
+            "min": "20",
+            "max": 50
+          },
+          {
+            "id": "50-100",
+            "title": "50 - 100 azn",
+            "min": 50,
+            "max": 100
+          },
+          {
+            "id": "100-145",
+            "title": "100 - 145 azn",
+            "min": 100,
+            "max": "145"
+          }
+        ]
+      }
+    },
+    "selected": []
+  }
+}
+        ]
+
+
+  
+    }
