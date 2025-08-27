@@ -4568,14 +4568,16 @@
             "desc": "",
             "videoId": "OSv56cnOGcw",
             "id": 7,
-            "img": "https://i.ytimg.com/vi/OSv56cnOGcw/hqdefault.jpg"
-        },
+            "img": "https://i.ytimg.com/vi/OSv56cnOGcw/hqdefault.jpg",
+            "link":"https://youtu.be/OSv56cnOGcw"
+        },  
         {
             "title": "Super Çarx",
             "desc": "",
             "videoId": "xAuIf4wzArA",
             "id": 6,
-            "img": "https://i.ytimg.com/vi/xAuIf4wzArA/hqdefault.jpg"
+            "img": "https://i.ytimg.com/vi/xAuIf4wzArA/hqdefault.jpg",
+            "link":"https://youtu.be/xAuIf4wzArA"
 
         },
         {
@@ -4583,35 +4585,40 @@
             "desc": "",
             "videoId": "5XDAnZJLF98",
             "id": 5,
-            "img": "https://i.ytimg.com/vi/5XDAnZJLF98/hqdefault.jpg"
+            "img": "https://i.ytimg.com/vi/5XDAnZJLF98/hqdefault.jpg",
+            "link":"https://youtu.be/5XDAnZJLF98"
         },
         {
             "title": "Superfon-da super məlumat vaxtıdır",
             "desc": "",
             "videoId": "5dCFh3tacwY",
             "id": 4,
-            "img": "https://i.ytimg.com/vi/5dCFh3tacwY/hqdefault.jpg"
+            "img": "https://i.ytimg.com/vi/5dCFh3tacwY/hqdefault.jpg",
+            "link":"https://youtu.be/5dCFh3tacwY"
         },
         {
             "title": "Superfon-da icmal vaxtıdır",
             "desc": "",
             "videoId": "sr9M9ZE_xxU",
             "id": 3,
-            "img": "https://i.ytimg.com/vi/sr9M9ZE_xxU/hqdefault.jpg"
+            "img": "https://i.ytimg.com/vi/sr9M9ZE_xxU/hqdefault.jpg",
+            "link":"https://youtu.be/sr9M9ZE_xxU"
         },
         {
             "title": "Sənin üçün yeniləndik",
             "desc": "",
             "videoId": "UkVYWcyYBnk",
             "id": 2,
-            "img": "https://i.ytimg.com/vi/UkVYWcyYBnk/hqdefault.jpg"
+            "img": "https://i.ytimg.com/vi/UkVYWcyYBnk/hqdefault.jpg",
+            "link":"https://youtu.be/UkVYWcyYBnk"
         },
         {
             "title": "Superfonda qiymətlər həyəcanlandırır",
             "desc": "",
             "videoId": "dcFzFrfEvjU",
             "id": 1,
-            "img": "https://i.ytimg.com/vi/dcFzFrfEvjU/hqdefault.jpg"
+            "img": "https://i.ytimg.com/vi/dcFzFrfEvjU/hqdefault.jpg",
+             "link":"https://youtu.be/dcFzFrfEvjU"
         }
         ]
     }
