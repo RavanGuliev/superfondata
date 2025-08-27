@@ -4827,6 +4827,88 @@
     "selected": []
   }
 }
+        ],
+        
+        "ourstores":[
+            {
+    "ok": true,
+    "data": {
+        "items": [
+            {
+                "latitude": 40.376504,
+                "longitude": 49.848957,
+                "zoom": 1,
+                "status": "on",
+                "title": "28 May mağazası",
+                "address": "Nəsimi ray., Azadlıq pr. 18",
+                "mobiles": [
+                    {
+                        "mobile": "+994 51 240 50 75"
+                    }
+                ],
+                "city": {
+                    "title": "Bakı",
+                    "id": 1
+                },
+                "id": 14
+            },
+            {
+                "latitude": 40.396549,
+                "longitude": 49.953152,
+                "zoom": 1,
+                "status": "on",
+                "title": "Xalqlar mağazası",
+                "address": "Qara Qarayev pr. 126",
+                "mobiles": [
+                    {
+                        "mobile": "+994 51 205 88 15"
+                    }
+                ],
+                "city": {
+                    "title": "Bakı",
+                    "id": 1
+                },
+                "id": 16
+            },
+            {
+                "status": "on",
+                "title": "Gəncə Univermaq mağazası",
+                "address": "Mərkəzi univermaq, 1-ci mərtəbə",
+                "mobiles": [
+                    {
+                        "mobile": "+994 51 201 55 60"
+                    }
+                ],
+                "latitude": 40.6821408,
+                "longitude": 46.3613354,
+                "zoom": 15,
+                "city": {
+                    "title": "Gəncə",
+                    "id": 5
+                },
+                "id": 12
+            },
+            {
+                "status": "on",
+                "title": "Mingəçevir mağazası",
+                "address": "Heydər Əliyev prospekti 42",
+                "mobiles": [
+                    {
+                        "mobile": "+994 51 201 55 92"
+                    }
+                ],
+                "latitude": 40.7692937,
+                "longitude": 47.0537182,
+                "zoom": 15,
+                "city": {
+                    "title": "Mingəçevir",
+                    "id": 4
+                },
+                "id": 11
+            }
+        ]
+    }
+}
         ]
 
 
