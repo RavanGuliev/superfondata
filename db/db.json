@@ -14,6 +14,7 @@
                     8
                 ],
                 "name": "telefon-ve-plansetler",
+                "icon":"<CiMobile4 />",
                 "title": "Telefon və planşetlər",
                 "route": "/az/telefon-ve-plansetler",
                 "banner": {

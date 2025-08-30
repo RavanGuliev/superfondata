@@ -16,7 +16,9 @@
   ],
   "author": "Ivo Culic",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "react-icons": "^5.5.0"
+  },
   "devDependencies": {
     "json-server": "^0.17.1"
   }
