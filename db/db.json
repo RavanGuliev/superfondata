@@ -14,7 +14,6 @@
                     8
                 ],
                 "name": "telefon-ve-plansetler",
-                "icon":"<CiMobile4 />",
                 "title": "Telefon və planşetlər",
                 "route": "/az/telefon-ve-plansetler",
                 "banner": {
@@ -4910,7 +4909,4951 @@
         ]
     }
 }
+        ],
+
+        "watch":[
+            {
+    "ok": true,
+    "data": {
+        "items": [
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 74.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat HK10 Pro-Z Black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110903-63c4635f498bb0ce8948b756bead85ef.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saat-hk10-pro-z-black-110903",
+                "desc": "Süni intellekt xüsusiyyətləri: ChatGPT Fərdiləşdirilmiş saat rəsmləri\nSəsli tərcümə köməkçisi",
+                "image": "110903-63c4635f498bb0ce8948b756bead85ef.webp",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110903
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 59.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat P100 2 watch black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110901-ddcd0dc6ff9ad7fc5eb749cf987417f5.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-p100-2-watch-black-110901",
+                "desc": "",
+                "image": "110901-ddcd0dc6ff9ad7fc5eb749cf987417f5.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110901
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 39.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat KW36 Max 7+2 Black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110899-fcfc6159b27ebae5868fc07710f4a927.jpg"
+                    },
+                    {
+                        "source": "110899-db30132f24a82b9d87df3fe1c1a250ca.jpg"
+                    },
+                    {
+                        "source": "110899-1da0c38993cdb60607b8e17e6838ddc1.jpg"
+                    },
+                    {
+                        "source": "110899-6b9f353fddfff404f37075eba55fa216.jpg"
+                    },
+                    {
+                        "source": "110899-6fd34d957880828a14dab50d9ece143d.jpg"
+                    }
+                ],
+                "route": "/az/products/product-110899",
+                "desc": "",
+                "image": "110899-fcfc6159b27ebae5868fc07710f4a927.jpg",
+                "mannequins": "",
+                "outfit": "110899-db30132f24a82b9d87df3fe1c1a250ca.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110899
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 84.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Euroacs S-Vibe 3 AMOLED",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110879-6703fe650727811d2c2a46cb31725fcf.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-euroacs-s-vibe-3-amoled-110879",
+                "desc": "",
+                "image": "110879-6703fe650727811d2c2a46cb31725fcf.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "euroacs",
+                    "title": "Euroacs",
+                    "titleIndex": "A05A27A23A20A00A02A24",
+                    "route": "/az/brands/euroacs",
+                    "id": 30
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110879
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 89.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Euroacs S-Vibe 2 AMOLED",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110878-05afff7ae293eb8f4ad0efb2f8d069df.png"
+                    },
+                    {
+                        "source": "110878-ec861cba37b0755d2c75195e80eb23c5.png"
+                    }
+                ],
+                "route": "/az/products/smart-saat-euroacs-s-vibe-2-amoled-110878",
+                "desc": "",
+                "image": "110878-05afff7ae293eb8f4ad0efb2f8d069df.png",
+                "mannequins": "",
+                "outfit": "110878-ec861cba37b0755d2c75195e80eb23c5.png",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "euroacs",
+                    "title": "Euroacs",
+                    "titleIndex": "A05A27A23A20A00A02A24",
+                    "route": "/az/brands/euroacs",
+                    "id": 30
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110878
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 39.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat WS-80 ULTRA 2 black 7+2",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110786-ed34d041635f60557fe2bea116249d7b.webp"
+                    }
+                ],
+                "route": "/az/products/product-110786",
+                "desc": "",
+                "image": "110786-ed34d041635f60557fe2bea116249d7b.webp",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "wisme",
+                    "title": "WISME",
+                    "titleIndex": "WA12A24A18A05",
+                    "route": "/az/brands/wisme",
+                    "id": 80
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110786
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 42.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat V59 4in1 oyun hədiyyə qutusu ilə",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110705-817a0db97762ec8766e0fe9e2a468607.webp"
+                    },
+                    {
+                        "source": "110705-cfd4ffbcdbf0a02391a77c926a847a69.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saat-v59-4in1-oyun-hediyye-qutusu-ile-110705",
+                "desc": "",
+                "image": "110705-817a0db97762ec8766e0fe9e2a468607.webp",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110705
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 39.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat WISME X19 ULTRA3 5+2 BLACK",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110575-644a3e027f7e952263a78820dd85e6dc.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saat-wisme-x19-ultra3-5+2-black-110575",
+                "desc": "",
+                "image": "110575-644a3e027f7e952263a78820dd85e6dc.webp",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "wisme",
+                    "title": "WISME",
+                    "titleIndex": "WA12A24A18A05",
+                    "route": "/az/brands/wisme",
+                    "id": 80
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110575
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 45.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Wisme X18 mini 3+2 black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110574-f364c69f81623a3a1f39c6ed37ea35a3.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saaat-wisme-x18-mini-3+2-black-110574",
+                "desc": "",
+                "image": "110574-f364c69f81623a3a1f39c6ed37ea35a3.webp",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "wisme",
+                    "title": "WISME",
+                    "titleIndex": "WA12A24A18A05",
+                    "route": "/az/brands/wisme",
+                    "id": 80
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110574
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 39.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Wisme X16 Mini pink 5+1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110573-3e437755643196cdfe7dda4a95cd4597.webp"
+                    },
+                    {
+                        "source": "110573-de52cf5c576e1b5feb5d378e7f4b7637.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-wisme-x16-mini-pink-5+1-110573",
+                "desc": "",
+                "image": "110573-3e437755643196cdfe7dda4a95cd4597.webp",
+                "mannequins": "",
+                "outfit": "110573-de52cf5c576e1b5feb5d378e7f4b7637.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "wisme",
+                    "title": "WISME",
+                    "titleIndex": "WA12A24A18A05",
+                    "route": "/az/brands/wisme",
+                    "id": 80
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110573
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 54.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Euroacs S-Vibe",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110467-141d0c8d4d162d9b972106114b1c7bef.png"
+                    },
+                    {
+                        "source": "110467-921b25f1aac149aefe6f41d1ac0495b0.png"
+                    }
+                ],
+                "route": "/az/products/smart-saat-euroacs-s-vibe-110467",
+                "desc": "AI ağıllı səs köməkçisi",
+                "image": "110467-141d0c8d4d162d9b972106114b1c7bef.png",
+                "mannequins": "",
+                "outfit": "110467-921b25f1aac149aefe6f41d1ac0495b0.png",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "euroacs",
+                    "title": "Euroacs",
+                    "titleIndex": "A05A27A23A20A00A02A24",
+                    "route": "/az/brands/euroacs",
+                    "id": 30
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110467
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 109.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Joyroom JR-FC2 Pro Moonlight Silver",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110449-92fa638dbdc33f3ed5ee451c9a32a8fc.webp"
+                    },
+                    {
+                        "source": "110449-67035b6ef51710113290c4976293f1e0.webp"
+                    },
+                    {
+                        "source": "110449-ecd8c23181b62d031f6e0864ae5fafb4.webp"
+                    },
+                    {
+                        "source": "110449-5264376a588ca48b2fcbafd258083659.webp"
+                    },
+                    {
+                        "source": "110449-f89f9afa6a75ab602e961b20353bd41a.webp"
+                    },
+                    {
+                        "source": "110449-671f706ff798d20b67ed0e26f305e9ea.webp"
+                    },
+                    {
+                        "source": "110449-d83cf84e326dbe67825ddd83ad14cfcb.webp"
+                    },
+                    {
+                        "source": "110449-d28e37479d3b9d49d2b66d01dc385991.webp"
+                    },
+                    {
+                        "source": "110449-ce366c41710581a80c6e0bf6546844e5.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saat-joyroom-jr-fc2-pro-moonlight-silver-110449",
+                "desc": "",
+                "image": "110449-92fa638dbdc33f3ed5ee451c9a32a8fc.webp",
+                "mannequins": "",
+                "outfit": "110449-67035b6ef51710113290c4976293f1e0.webp",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110449
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 109.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Joyroom JR-FC2 Pro Space Grey",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110446-c55738e992552e9c2c4eab5588c76f37.webp"
+                    },
+                    {
+                        "source": "110446-fd30703a152a89584a6a578a0d52cea7.webp"
+                    },
+                    {
+                        "source": "110446-ffc16d786a356de113d49f0380f61ba0.webp"
+                    },
+                    {
+                        "source": "110446-532071bd69cb8b3f51e68cd6583b6203.webp"
+                    },
+                    {
+                        "source": "110446-07a320a874561d7dc931574730c6b9a9.webp"
+                    },
+                    {
+                        "source": "110446-9feccf03c0e6cc18a73f4084dfc5d341.webp"
+                    },
+                    {
+                        "source": "110446-db1bb4b359ecdcf5fccff3c55bcb7306.webp"
+                    },
+                    {
+                        "source": "110446-d0521c5335301e5273f958d167e78939.webp"
+                    },
+                    {
+                        "source": "110446-e302f4a750c56e215a45aec8775e9554.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saat-joyroom-jr-fc2-pro-space-grey-110446",
+                "desc": "",
+                "image": "110446-c55738e992552e9c2c4eab5588c76f37.webp",
+                "mannequins": "",
+                "outfit": "110446-532071bd69cb8b3f51e68cd6583b6203.webp",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110446
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 49.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saaat HK10 Ultra AMOLED Black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110336-9cbbad1ae8429d65fa62191aa64af6eb.webp"
+                    },
+                    {
+                        "source": "110336-ad3c86f6c33c34076448b8141c5a4c55.png"
+                    }
+                ],
+                "route": "/az/products/smart-saaat-hk10-ultra-amoled-black-110336",
+                "desc": "",
+                "image": "110336-9cbbad1ae8429d65fa62191aa64af6eb.webp",
+                "mannequins": "",
+                "outfit": "110336-ad3c86f6c33c34076448b8141c5a4c55.png",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110336
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 49.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat WS-X12 Series 10 Black 3+1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110334-7b6e7632cd17982788d4cfb11d9ae158.webp"
+                    },
+                    {
+                        "source": "110334-0a0251835a3554b15b9ea0bbe35fb7f4.jpg"
+                    },
+                    {
+                        "source": "110334-3845cd7a0f2bd5c9e48342e793f150aa.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-ws-x12-series-10-black-3+1-110334",
+                "desc": "",
+                "image": "110334-7b6e7632cd17982788d4cfb11d9ae158.webp",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "wisme",
+                    "title": "WISME",
+                    "titleIndex": "WA12A24A18A05",
+                    "route": "/az/brands/wisme",
+                    "id": 80
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110334
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 49.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat HK10 Pro AMOLED Black",
+                "faq": [
+                    {
+                        "_id": "678a2fe1d11d3310b17293e2",
+                        "question": {
+                            "az": "Smart saatda NFC özəlliyi mövcuddur?",
+                            "en": "Does the smartwatch have NFC?",
+                            "ru": "Есть ли у смарт-часов NFC?"
+                        },
+                        "answer": {
+                            "az": "xeyr, mövcud deyil",
+                            "en": "no, it doesn't exist",
+                            "ru": "нет, его не существует"
+                        }
+                    }
+                ],
+                "images": [
+                    {
+                        "source": "110324-0b8101d992c470a40a7502edd2029fba.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-hk10-pro-amoled-black-110324",
+                "desc": "",
+                "image": "110324-0b8101d992c470a40a7502edd2029fba.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110324
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 34.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat i20 Ultra Max 3 suit black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110098-64201083c8adb043b45bd92b2541ee02.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-i20-ultra-max-3-suit-black-110098",
+                "desc": "",
+                "image": "110098-64201083c8adb043b45bd92b2541ee02.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110098
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 79.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat DT Series 10 AMOLED Black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110097-6a35b07343941801ec83380e66938e03.jpg"
+                    },
+                    {
+                        "source": "110097-5a11e4438373080376b9acee21a87ef2.webp"
+                    },
+                    {
+                        "source": "110097-6d8209b5202d511e6e88e3450784f774.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-dt-series-10-amoled-black-110097",
+                "desc": "",
+                "image": "110097-6a35b07343941801ec83380e66938e03.jpg",
+                "mannequins": "",
+                "outfit": "110097-6d8209b5202d511e6e88e3450784f774.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110097
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 19.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat T series 10 gold 2in1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110096-1a6bb87ab42b2efa68f884e64dbc7f6b.jpg"
+                    },
+                    {
+                        "source": "110096-215f807c079db14bbc8d65f1cc834947.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-t-series-10-gold-2in1-110096",
+                "desc": "",
+                "image": "110096-1a6bb87ab42b2efa68f884e64dbc7f6b.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110096
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 17.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat T series 10 black 2in1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110095-f3c2a16bc89aadf54f5c37b659f925d5.jpg"
+                    },
+                    {
+                        "source": "110095-9599fd2997379ea89013343031963109.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-t-series-10-black-2in1-110095",
+                "desc": "",
+                "image": "110095-f3c2a16bc89aadf54f5c37b659f925d5.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110095
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 19.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat T series 10 silver 2in1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110094-8fd5a4937fcb09e6b6bc5b7a33a2b9ac.jpg"
+                    },
+                    {
+                        "source": "110094-4722448384ab557884bd1a589116a0cd.jpg"
+                    },
+                    {
+                        "source": "110094-8fcc8d6affb3443581f748be3f9728d6.jpeg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-t-series-10-silver-2in1-110094",
+                "desc": "",
+                "image": "110094-8fd5a4937fcb09e6b6bc5b7a33a2b9ac.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110094
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 84.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat DT Series 10 AMOLED Silver",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110093-da4e4afb8b958d9a86b2ad73b556c0bb.jpg"
+                    },
+                    {
+                        "source": "110093-79b6e7f76c02e2407cde03d121f4eb47.jpg"
+                    },
+                    {
+                        "source": "110093-3c1cfcbb58f130789ee7277f24078a93.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saat-dt-series-10-amoled-silver-110093",
+                "desc": "",
+                "image": "110093-da4e4afb8b958d9a86b2ad73b556c0bb.jpg",
+                "mannequins": "",
+                "outfit": "110093-79b6e7f76c02e2407cde03d121f4eb47.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110093
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 32.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat HY Classic 6 Black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110092-1c7358d34055ee6821ba419d4faf51a1.jpg"
+                    },
+                    {
+                        "source": "110092-b19342ad02cc33cb848abab499983272.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-hy-classic-6-black-110092",
+                "desc": "",
+                "image": "110092-1c7358d34055ee6821ba419d4faf51a1.jpg",
+                "mannequins": "",
+                "outfit": "110092-b19342ad02cc33cb848abab499983272.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110092
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 18.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat HW10 Pro AMOLED Black 2in1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110091-c7a485ffcfbc89e36fcf58a3ce0d2156.jpg"
+                    },
+                    {
+                        "source": "110091-3d5223a06d750a9b6cee95bd5aa3777e.jpg"
+                    },
+                    {
+                        "source": "110091-0b2524440027f4292c89c0822668ce1c.webp"
+                    },
+                    {
+                        "source": "110091-4602bf8786f44aba0748e905b26e3065.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saat-hw10-pro-amoled-black-2in1-110091",
+                "desc": "",
+                "image": "110091-c7a485ffcfbc89e36fcf58a3ce0d2156.jpg",
+                "mannequins": "",
+                "outfit": "110091-3d5223a06d750a9b6cee95bd5aa3777e.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110091
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 22.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Foni FN-W9 series black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110090-de027b2b4ca81e8ff9d363c216179960.png"
+                    },
+                    {
+                        "source": "110090-793d4cdb9970d2f8f7656d2e667fc074.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-foni-fn-w9-series-black-110090",
+                "desc": "",
+                "image": "110090-de027b2b4ca81e8ff9d363c216179960.png",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "foni",
+                    "title": "Foni",
+                    "titleIndex": "A07A20A19A13",
+                    "route": "/az/brands/foni",
+                    "id": 46
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110090
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 46.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat WISME 7 Ultra Silver",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "110001-d5f06a0820be23e21d8105599534e436.jpg"
+                    },
+                    {
+                        "source": "110001-78a73d00a8b4bed17d3d787ec7b2a9cf.jpg"
+                    },
+                    {
+                        "source": "110001-72a5fe63b1cbfb6b7083fb441f93e7f6.jpg"
+                    },
+                    {
+                        "source": "110001-1988c03723916aba0019b1728c808295.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-wisme-7-ultra-silver-110001",
+                "desc": "",
+                "image": "110001-d5f06a0820be23e21d8105599534e436.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 110001
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 46.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat WISME 7 Ultra Black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "109793-e7e9d17a698fcd615e006cf4516e5724.jpg"
+                    },
+                    {
+                        "source": "109793-fdba092f5b511620e4400657051076ce.jpg"
+                    },
+                    {
+                        "source": "109793-0e912feb7c5af73f6a1b7eec0491566c.jpg"
+                    },
+                    {
+                        "source": "109793-594888a6c791959171e3700fbef2082f.jpg"
+                    },
+                    {
+                        "source": "109793-5c5ba04ce8d06227a9f753b8c4e95a1a.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-wisme-7-ultra-black-109793",
+                "desc": "",
+                "image": "109793-e7e9d17a698fcd615e006cf4516e5724.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 109793
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 34.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat FN-W101 Ultra 10in1 Black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "109772-e245978f5d6d6a74643185efb12573d6.webp"
+                    },
+                    {
+                        "source": "109772-7fddcd0db1e64a089be953f670e6f403.jpg"
+                    },
+                    {
+                        "source": "109772-9d4d2487854c677198b360c972e57920.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-fn-w101-ultra-10in1-black-109772",
+                "desc": "",
+                "image": "109772-e245978f5d6d6a74643185efb12573d6.webp",
+                "mannequins": "",
+                "outfit": "109772-7fddcd0db1e64a089be953f670e6f403.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "foni",
+                    "title": "Foni",
+                    "titleIndex": "A07A20A19A13",
+                    "route": "/az/brands/foni",
+                    "id": 46
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 109772
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 22.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Foni FN-W95 Ultra Black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "109771-49cac0ba6407d67cb3db15841e9e2c45.webp"
+                    },
+                    {
+                        "source": "109771-707f334f7f3a96d15cc343130e1c0619.jpg"
+                    },
+                    {
+                        "source": "109771-fc3e562f1674d36c37d17dba60467414.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-foni-fn-w95-ultra-black-109771",
+                "desc": "",
+                "image": "109771-49cac0ba6407d67cb3db15841e9e2c45.webp",
+                "mannequins": "",
+                "outfit": "109771-fc3e562f1674d36c37d17dba60467414.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "foni",
+                    "title": "Foni",
+                    "titleIndex": "A07A20A19A13",
+                    "route": "/az/brands/foni",
+                    "id": 46
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 109771
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 41.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat WS-25 Mini black 4+1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "109738-fdd91c1b908c484e05f9a3bd772b8e1f.jpg"
+                    },
+                    {
+                        "source": "109738-f34893fa6ece78728df6820f2fd73325.jpg"
+                    },
+                    {
+                        "source": "109738-918f4c6fda692f15a57b46f6382643d4.jpg"
+                    },
+                    {
+                        "source": "109738-cd01adf8e6c46122de145c01847a5df0.jpg"
+                    },
+                    {
+                        "source": "109738-2f206f05c381098fc382e48d598b52a2.jpg"
+                    },
+                    {
+                        "source": "109738-be94fb368faa99f7a7c65d40063b9ec6.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-ws-25-mini-black-4+1-109738",
+                "desc": "",
+                "image": "109738-fdd91c1b908c484e05f9a3bd772b8e1f.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 109738
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 39.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat WS-65 Max Raund Black 7+1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "109737-1685ed7ec7c262b9c7c63899463e0efc.webp"
+                    },
+                    {
+                        "source": "109737-df885e0d6bedf7183f76fef07c1164ca.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-ws-65-max-raund-black-7+1-109737",
+                "desc": "",
+                "image": "109737-1685ed7ec7c262b9c7c63899463e0efc.webp",
+                "mannequins": "",
+                "outfit": "109737-df885e0d6bedf7183f76fef07c1164ca.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 109737
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 18.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat WS-72 Max Luxury Gold 3+1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "109736-a549521bb6103a6dce86dcf1d52f9274.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saat-ws-72-max-luxury-gold-3+1-109736",
+                "desc": "",
+                "image": "109736-a549521bb6103a6dce86dcf1d52f9274.webp",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 109736
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 39.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat WS-65 Max Raund Silver 7+1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "109733-832cd7613499d17744827311d2ade2ca.jpg"
+                    },
+                    {
+                        "source": "109733-dc21e9395d0943513dcbd8f650cd02cb.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-ws-65-max-raund-silver-7+1-109733",
+                "desc": "",
+                "image": "109733-832cd7613499d17744827311d2ade2ca.jpg",
+                "mannequins": "",
+                "outfit": "109733-dc21e9395d0943513dcbd8f650cd02cb.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 109733
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 84.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Joyroom JR-FT3S",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108945-288435c99c1e29b8bb8f07bb38ffd1df.webp"
+                    },
+                    {
+                        "source": "108945-3b07deeb7f732984f1b40c7cb1cadd81.webp"
+                    },
+                    {
+                        "source": "108945-6da12c4b089f7415fac216947446f1c1.jpg"
+                    },
+                    {
+                        "source": "108945-06e9f468ccb19ef2f9eedcf16da70fb9.jpg"
+                    },
+                    {
+                        "source": "108945-4ebd7ef5214435d89bcea7c494e73b4b.jpg"
+                    },
+                    {
+                        "source": "108945-1f274eccef564808c6a851760a88f04b.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saat-joyroom-jr-ft3s-108945",
+                "desc": "10m-ə qədər suda 30 dəqiqə istifadə imkanı\n93 növ idman rejimi\nTipik istifadə müddəti: təxminən 8-10 gün",
+                "image": "108945-288435c99c1e29b8bb8f07bb38ffd1df.webp",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108945
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 26.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat WS-6 Black 7+2",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108907-b1707e1efb6c18f047e8d31416067ccb.jpg"
+                    },
+                    {
+                        "source": "108907-04cc87ef86ccb33f3638c25fc24ace07.jpg"
+                    },
+                    {
+                        "source": "108907-145ef0175980397e4e8aa408f6348d33.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-ws-6-black-7+2-108907",
+                "desc": "",
+                "image": "108907-b1707e1efb6c18f047e8d31416067ccb.jpg",
+                "mannequins": "",
+                "outfit": "108907-04cc87ef86ccb33f3638c25fc24ace07.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "wisme",
+                    "title": "WISME",
+                    "titleIndex": "WA12A24A18A05",
+                    "route": "/az/brands/wisme",
+                    "id": 80
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108907
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 32.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat WS-66 Ultra Black 7 kəmər",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108904-7a5a32f2d8de94e362a30c2de857a438.jpeg"
+                    }
+                ],
+                "route": "/az/products/product-108904",
+                "desc": "Qoşulma proqramı: Fere Fit\n7-15 gün arası istifadə müddəti\nEkran növü: IPS",
+                "image": "108904-7a5a32f2d8de94e362a30c2de857a438.jpeg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108904
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 26.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": true,
+                "qty": 10,
+                "title": "Smart saat KW22 Ultra 2 Black 7+2 H",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108903-f3584cb3906e9b07deced0e60cd10595.webp"
+                    },
+                    {
+                        "source": "108903-b12b821e62bd1c30b01bfd666173032f.jpg"
+                    },
+                    {
+                        "source": "108903-70ceb58e8798cffa614048fb60577891.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-kw22-ultra-2-black-7+2-h-108903",
+                "desc": "",
+                "image": "108903-f3584cb3906e9b07deced0e60cd10595.webp",
+                "mannequins": "",
+                "outfit": "108903-b12b821e62bd1c30b01bfd666173032f.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108903
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 41.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat WS-25 mini pink 4+1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108901-54add1a4c0f9db07fd9170413e3612f0.jpg"
+                    },
+                    {
+                        "source": "108901-2a12fd6d2a9b9c43ec82abd962fa66ca.jpg"
+                    },
+                    {
+                        "source": "108901-0f8577dc852a36eecae6a4ca336fc334.jpg"
+                    },
+                    {
+                        "source": "108901-66e749f4bbadfcf714a7ac35a7c507c6.jpg"
+                    },
+                    {
+                        "source": "108901-d69add85c3333ac802160437fcb057df.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-ws-25-mini-pink-4+1-108901",
+                "desc": "",
+                "image": "108901-54add1a4c0f9db07fd9170413e3612f0.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108901
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 49.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat HK9 Ultra AMOLED Orange",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108890-1ee1be1e0ab69665dad0361fcfacbd3d.png"
+                    },
+                    {
+                        "source": "108890-1aed7a64d46191d0ab023752f1357b0d.webp"
+                    },
+                    {
+                        "source": "108890-39946346d702b30787af594a5a84e553.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saat-hk9-ultra-amoled-orange-108890",
+                "desc": "Mobil telefon axtarış funksiyası\nChat GPT ,oturaq xatırlatma, gələn zəng xatırlatma, səsli köməkçi və s. funksiyalar mövcuddur",
+                "image": "108890-1ee1be1e0ab69665dad0361fcfacbd3d.png",
+                "mannequins": "",
+                "outfit": "108890-1aed7a64d46191d0ab023752f1357b0d.webp",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108890
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 46.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": true,
+                "qty": 10,
+                "title": "Smart saat HK9 Pro Max AMOLED titanium",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108883-32d127e2a338157b2a65de42f8c4e218.jpg"
+                    },
+                    {
+                        "source": "108883-f0453581c8f960b5ab3e790ecbb43700.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-hk9-pro-max-amoled-titanium-108883",
+                "desc": "",
+                "image": "108883-32d127e2a338157b2a65de42f8c4e218.jpg",
+                "mannequins": "",
+                "outfit": "108883-f0453581c8f960b5ab3e790ecbb43700.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108883
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 28.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat KW02 Ultra Gold 11+1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108880-421937223285ce943951625ab1ed79ac.jpg"
+                    },
+                    {
+                        "source": "108880-9a6c83b0872c955b134519341c6201eb.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saat-kw02-ultra-gold-11+1-108880",
+                "desc": "",
+                "image": "108880-421937223285ce943951625ab1ed79ac.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108880
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 26.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Z93 Pro Black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108875-ce1264ade73dcb6810725cdf0c3d6f76.jpg"
+                    },
+                    {
+                        "source": "108875-5745723d5330098917ef9a4d23704f8e.jpg"
+                    },
+                    {
+                        "source": "108875-7a5f87756bf1ef545026017e8c12194f.jpg"
+                    },
+                    {
+                        "source": "108875-4907430c4ffda43419eea6e3f6a325bc.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-z93-pro-black-108875",
+                "desc": "Normal istifadə: 7 gün\nDaimi istifadə: 3 gün",
+                "image": "108875-ce1264ade73dcb6810725cdf0c3d6f76.jpg",
+                "mannequins": "",
+                "outfit": "108875-5745723d5330098917ef9a4d23704f8e.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108875
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 39.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat WS-19 Gold AMOLED",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108847-f38dbb9444235d8a1e5bc35bd8724c5d.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saat-ws-19-gold-amoled-108847",
+                "desc": "",
+                "image": "108847-f38dbb9444235d8a1e5bc35bd8724c5d.webp",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108847
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 39.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat WS-19 Black AMOLED",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108846-f603d898d88ee44c1a179d4870b021ad.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saat-ws-19-black-amoled-108846",
+                "desc": "",
+                "image": "108846-f603d898d88ee44c1a179d4870b021ad.webp",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108846
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 49.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Uşaq üçün smart saat Foni FW-E03 qara",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108792-156609e9346dbcfaac05da0262fdb73d.jpg"
+                    }
+                ],
+                "route": "/az/products/usaq-ucun-smart-saat-foni-fw-e03-qara-108792",
+                "desc": "SIМ-kart: Micro SIM card 2G\nGPS: 850/900/1800/1900MHz (2G)\nSOS düyməsi ilə valideynə SMS göndərmək var",
+                "image": "108792-156609e9346dbcfaac05da0262fdb73d.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "foni",
+                    "title": "Foni",
+                    "titleIndex": "A07A20A19A13",
+                    "route": "/az/brands/foni",
+                    "id": 46
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108792
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 49.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Uşaq üçün smart saat Foni FW-E03 çəhrayı",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108791-b563b82608b2bca05f4b74391baf3c77.jpg"
+                    }
+                ],
+                "route": "/az/products/usaq-ucun-smart-saat-foni-fw-e03-cehrayi-108791",
+                "desc": "SIМ-kart: Micro SIM card 2G\nGPS: 850/900/1800/1900MHz (2G)\nSOS düyməsi ilə valideynə SMS göndərmək var",
+                "image": "108791-b563b82608b2bca05f4b74391baf3c77.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "foni",
+                    "title": "Foni",
+                    "titleIndex": "A07A20A19A13",
+                    "route": "/az/brands/foni",
+                    "id": 46
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108791
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 49.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Uşaq üçün smart saat Foni FW-E03 mavi",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108790-524dbbbe93dfee25c356777bd81f72e3.jpg"
+                    }
+                ],
+                "route": "/az/products/usaq-ucun-smart-saat-foni-fw-e03-mavi-108790",
+                "desc": "SIМ-kart: Micro SIM card 2G\nGPS: 850/900/1800/1900MHz (2G)\nSOS düyməsi ilə valideynə SMS göndərmək var",
+                "image": "108790-524dbbbe93dfee25c356777bd81f72e3.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "foni",
+                    "title": "Foni",
+                    "titleIndex": "A07A20A19A13",
+                    "route": "/az/brands/foni",
+                    "id": 46
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108790
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 22.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat X90 Ultra Gold 2in1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108664-e93ddad3687b521daff45e9112d757bd.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-x90-ultra-gold-2in1-108664",
+                "desc": "",
+                "image": "108664-e93ddad3687b521daff45e9112d757bd.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108664
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 20.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat KW7 Max Black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108661-da1124f53ab2d8ce6bc899cdcb247994.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-kw7-max-black-108661",
+                "desc": "",
+                "image": "108661-da1124f53ab2d8ce6bc899cdcb247994.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108661
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 19.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat KW-8 Ultra 2 Black 7+1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108659-964de589b52bf5e58b2292614b03c3e5.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-kw-8-ultra-2-black-7+1-108659",
+                "desc": "",
+                "image": "108659-964de589b52bf5e58b2292614b03c3e5.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108659
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 32.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat WS-26 Black 3+1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108656-257a17d834f4511df79a5ff3edfb506a.jpg"
+                    },
+                    {
+                        "source": "108656-44e7c05a06499cb87780babd3c444a50.webp"
+                    },
+                    {
+                        "source": "108656-362aa0a384dc5f6f09488bc996ff8510.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-ws-26-black-3+1-108656",
+                "desc": "",
+                "image": "108656-257a17d834f4511df79a5ff3edfb506a.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "wisme",
+                    "title": "WISME",
+                    "titleIndex": "WA12A24A18A05",
+                    "route": "/az/brands/wisme",
+                    "id": 80
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108656
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 20.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat KW6 Ultra 2 Black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108650-db01236a087e3079f30edf95ba6a97a2.webp"
+                    },
+                    {
+                        "source": "108650-fe77a09940b360b9f595502adcf0d526.jpg"
+                    },
+                    {
+                        "source": "108650-bc2d952f010a78d43d48a1df55314950.jpeg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-kw6-ultra-2-black-108650",
+                "desc": "",
+                "image": "108650-db01236a087e3079f30edf95ba6a97a2.webp",
+                "mannequins": "",
+                "outfit": "108650-fe77a09940b360b9f595502adcf0d526.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108650
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 139.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Joyroom JR-FV1 AMOLED Black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108590-6039a972a3f9c7efaaf5ca27e8e8a3fb.webp"
+                    },
+                    {
+                        "source": "108590-517c494509d73fe24fb51a8d930598b5.jpg"
+                    },
+                    {
+                        "source": "108590-beb676836421d0b4ee597e13b3b78060.jpg"
+                    },
+                    {
+                        "source": "108590-18c4a3719f396532d72cc1c8247c99d8.jpg"
+                    },
+                    {
+                        "source": "108590-2be997cbe9d5f579cb4d2db7f602d560.jpg"
+                    },
+                    {
+                        "source": "108590-c81d328e72d2d65e3ebcb9a05e6597ee.jpg"
+                    },
+                    {
+                        "source": "108590-552f02225236365e9397d91e3a704d91.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saat-joyroom-jr-fv1-amoled-black-108590",
+                "desc": "İstifadə müddəti: təxminən 20 gün\n110 növ idman proqramları\n10m dərinlikli suda 30 dəqiqə istifadə",
+                "image": "108590-6039a972a3f9c7efaaf5ca27e8e8a3fb.webp",
+                "mannequins": "",
+                "outfit": "108590-517c494509d73fe24fb51a8d930598b5.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108590
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 26.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat WS-9 Plus AMOLED 5+1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "108496-568a845d2febbdb20fb5bd622a9e094b.jpg"
+                    },
+                    {
+                        "source": "108496-218376d78d1a014f35ea0a770bd82afb.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-ws-9-plus-amoled-5+1-108496",
+                "desc": "",
+                "image": "108496-568a845d2febbdb20fb5bd622a9e094b.jpg",
+                "mannequins": "",
+                "outfit": "108496-218376d78d1a014f35ea0a770bd82afb.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "wisme",
+                    "title": "WISME",
+                    "titleIndex": "WA12A24A18A05",
+                    "route": "/az/brands/wisme",
+                    "id": 80
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 108496
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 89.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Joyroom JR-FT5 Silver",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "107671-e1ebbfa136ec3ec99b3eb8a408dc44dc.webp"
+                    },
+                    {
+                        "source": "107671-8d5a22adcde3582dad695421eaeeb35f.webp"
+                    },
+                    {
+                        "source": "107671-9c2b122449920a43c43c9dcd6603283c.webp"
+                    },
+                    {
+                        "source": "107671-b98a8d600a5713691ad657c4c844d78e.webp"
+                    },
+                    {
+                        "source": "107671-f5f7ceed53ac7c910146180cbac4b028.webp"
+                    },
+                    {
+                        "source": "107671-6543d8bd938e14bbfac90832f7d75e7b.webp"
+                    },
+                    {
+                        "source": "107671-8cbab730c374216c460bf86d89637c1c.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saat-joyroom-jr-ft5-silver-107671",
+                "desc": "80+ idman rejimi\n300mAh batareya tutumu ilə 7-10 gün istifadə imkanı\nIP68 toza və suyadavamlılıq",
+                "image": "107671-e1ebbfa136ec3ec99b3eb8a408dc44dc.webp",
+                "mannequins": "",
+                "outfit": "107671-8d5a22adcde3582dad695421eaeeb35f.webp",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 107671
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 20.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat KW-19 Max Black 2+1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "107475-7a5f18a32534cd9bdaaf627e47d94693.jpg"
+                    },
+                    {
+                        "source": "107475-33c18463a8103ff4ca4bbb2df4870bde.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saat-kw-19-max-black-2+1-107475",
+                "desc": "",
+                "image": "107475-7a5f18a32534cd9bdaaf627e47d94693.jpg",
+                "mannequins": "",
+                "outfit": "107475-33c18463a8103ff4ca4bbb2df4870bde.webp",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "keqiwear",
+                    "title": "Keqiwear",
+                    "titleIndex": "A15A05A16A13wA05A00A23",
+                    "route": "/az/brands/keqiwear",
+                    "id": 81
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 107475
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 59.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Euroacs PULSE 2 AMOLED",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "107422-51f81939e2632ad2d7eea43415de4784.jpg"
+                    },
+                    {
+                        "source": "107422-ba9ba09c227a457f7c5ec19456c69959.jpg"
+                    },
+                    {
+                        "source": "107422-d4554bd2764f29d9bc465bc0b7b553d3.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-euroacs-pulse-2-amoled-107422",
+                "desc": "",
+                "image": "107422-51f81939e2632ad2d7eea43415de4784.jpg",
+                "mannequins": "",
+                "outfit": "107422-ba9ba09c227a457f7c5ec19456c69959.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "euroacs",
+                    "title": "Euroacs",
+                    "titleIndex": "A05A27A23A20A00A02A24",
+                    "route": "/az/brands/euroacs",
+                    "id": 30
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 107422
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 24.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Euroacs E10 Ultra",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "107327-dc1895a3f38899c02ed46bdefe04b528.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-euroacs-e10-ultra-107327",
+                "desc": "",
+                "image": "107327-dc1895a3f38899c02ed46bdefe04b528.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "euroacs",
+                    "title": "Euroacs",
+                    "titleIndex": "A05A27A23A20A00A02A24",
+                    "route": "/az/brands/euroacs",
+                    "id": 30
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 107327
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 89.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Joyroom JR-FT5 Rose Gold",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "107204-0c303b67ec61bfb6bd8d95fef1334ecb.webp"
+                    },
+                    {
+                        "source": "107204-be645fd90b28ec90a5390d7874d59966.webp"
+                    },
+                    {
+                        "source": "107204-6ebeaedfcc0f7ec85d870ab3cb662da6.webp"
+                    },
+                    {
+                        "source": "107204-1d40bf2d0376a2cbe4e2c9578ea86b2f.webp"
+                    },
+                    {
+                        "source": "107204-97f27151cd7b1f70925198f909fa106d.webp"
+                    },
+                    {
+                        "source": "107204-28c588e5c2f0d4420326eea29b41fa3e.webp"
+                    },
+                    {
+                        "source": "107204-2f39e4381e393cfb677c9e414ce66318.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saat-joyroom-jr-ft5-rose-gold-107204",
+                "desc": "80+ idman rejimi\n300mAh batareya tutumu ilə 7-10 gün istifadə imkanı\nIP68 toza və suyadavamlılıq",
+                "image": "107204-0c303b67ec61bfb6bd8d95fef1334ecb.webp",
+                "mannequins": "",
+                "outfit": "107204-be645fd90b28ec90a5390d7874d59966.webp",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 107204
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 59.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Euroacs PULSE 1 AMOLED",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "106987-d78db3802469f60b6cb74a40582d6e4b.jpg"
+                    },
+                    {
+                        "source": "106987-b77f8d064b6a481978bf6670121ae530.jpg"
+                    },
+                    {
+                        "source": "106987-069e2e4fc4bacba2187d88697e8c6f92.jpg"
+                    },
+                    {
+                        "source": "106987-4f3ba5d69966ac7704aa661eb5a7ccfe.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-euroacs-pulse-1-amoled-106987",
+                "desc": "",
+                "image": "106987-d78db3802469f60b6cb74a40582d6e4b.jpg",
+                "mannequins": "",
+                "outfit": "106987-069e2e4fc4bacba2187d88697e8c6f92.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "euroacs",
+                    "title": "Euroacs",
+                    "titleIndex": "A05A27A23A20A00A02A24",
+                    "route": "/az/brands/euroacs",
+                    "id": 30
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 106987
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 24.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Euroacs E10",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "106914-173c60c6d3a126b4653687023729eea2.jpg"
+                    },
+                    {
+                        "source": "106914-83a120d235e272addc87b2b5d048890a.jpg"
+                    },
+                    {
+                        "source": "106914-d6d96c76374983521f90b63b353f34d1.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-euroacs-e10-106914",
+                "desc": "Qutu daxilində yaşıl və qara kəmərlər mövcuddur",
+                "image": "106914-173c60c6d3a126b4653687023729eea2.jpg",
+                "mannequins": "",
+                "outfit": "106914-d6d96c76374983521f90b63b353f34d1.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "euroacs",
+                    "title": "Euroacs",
+                    "titleIndex": "A05A27A23A20A00A02A24",
+                    "route": "/az/brands/euroacs",
+                    "id": 30
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 106914
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 59.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Euroacs ROUND-X AMOLED",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "106642-f5cc550bc174439e050ee2e403c30977.jpg"
+                    },
+                    {
+                        "source": "106642-84635f3e560081ca85bc7850a140f4a6.jpg"
+                    },
+                    {
+                        "source": "106642-a2a197cb198f8da386aef0db746f7110.jpg"
+                    },
+                    {
+                        "source": "106642-57d3d2dee560e4df00869ef12c40f37f.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-euroacs-round-x-amoled-106642",
+                "desc": "Bluetooth 5.2 sürətli və sabit qoşulma",
+                "image": "106642-f5cc550bc174439e050ee2e403c30977.jpg",
+                "mannequins": "",
+                "outfit": "106642-84635f3e560081ca85bc7850a140f4a6.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "euroacs",
+                    "title": "Euroacs",
+                    "titleIndex": "A05A27A23A20A00A02A24",
+                    "route": "/az/brands/euroacs",
+                    "id": 30
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 106642
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 19.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat WS-S9 Ultra Luxury gold",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "106399-44fec7c82089421b744fbcdf412ed348.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saat-ws-s9-ultra-luxury-gold-106399",
+                "desc": "",
+                "image": "106399-44fec7c82089421b744fbcdf412ed348.webp",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 106399
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 49.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat H900 Ultra 10 in 1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "106334-415c7387f30e91b82ba94eefdfb38fbb.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-h900-ultra-10-in-1-106334",
+                "desc": "Qutu daxilində fərqli 8 ədəd kəmər, silikon keys və ekran şüşəsi mövcuddur",
+                "image": "106334-415c7387f30e91b82ba94eefdfb38fbb.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 106334
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 115.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Joyroom JR-FT6",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "106329-887a27d088c292437c67e1777e98b1fd.jpg"
+                    },
+                    {
+                        "source": "106329-3e44d620837be3ed95f8915c125d6cf3.jpg"
+                    },
+                    {
+                        "source": "106329-41843dcb7bc489d9259cfe468b8fa7f3.jpg"
+                    },
+                    {
+                        "source": "106329-62193b1b391e6b971d732afdd4dbb3a7.jpg"
+                    },
+                    {
+                        "source": "106329-07439bd62736627e99003dfa21aeb07d.jpg"
+                    },
+                    {
+                        "source": "106329-666fa889c5644d69804187f410980146.jpg"
+                    },
+                    {
+                        "source": "106329-ad705262bde37b3255ba18caecd4f09f.jpg"
+                    },
+                    {
+                        "source": "106329-919a70ff28de6a2c22e527dd018d439b.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-joyroom-jr-ft6-106329",
+                "desc": "Tipik istifadə müddəti: 5-7 gün\nIP68 toza və suyadavamlılıq mövcuddur\nAğıllı saatda 107 idman rejimi vardır",
+                "image": "106329-887a27d088c292437c67e1777e98b1fd.jpg",
+                "mannequins": "",
+                "outfit": "106329-07439bd62736627e99003dfa21aeb07d.jpg",
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 106329
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 68.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Hello 3 Black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "106202-0737997cd28b9c1e94c6ab4ef23d4a1a.jpg"
+                    },
+                    {
+                        "source": "106202-7bdf3342908d341a429948a4469545b6.png"
+                    }
+                ],
+                "route": "/az/products/smart-saat-hello-3-black-106202",
+                "desc": "",
+                "image": "106202-0737997cd28b9c1e94c6ab4ef23d4a1a.jpg",
+                "mannequins": "",
+                "outfit": "106202-7bdf3342908d341a429948a4469545b6.png",
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 106202
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 26.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat JS9 Ultra Gold",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105927-4615f09e6562fce7807323db9c2e92ac.jpg"
+                    },
+                    {
+                        "source": "105927-75fda2907a3fd92d321109a49cb5466a.jpg"
+                    },
+                    {
+                        "source": "105927-51a62d4f0b6e05d8bec4245425fea9a5.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saat-js9-ultra-gold-105927",
+                "desc": "",
+                "image": "105927-4615f09e6562fce7807323db9c2e92ac.jpg",
+                "mannequins": "",
+                "outfit": "105927-75fda2907a3fd92d321109a49cb5466a.jpg",
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105927
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 26.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat JS9 Ultra Max Gold green",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105926-00b2b1fa94694b0e079aea76c6a33109.jpg"
+                    },
+                    {
+                        "source": "105926-5b1f71ccec26fc3e846177f84d63c9fe.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-js9-ultra-max-gold-green-105926",
+                "desc": "",
+                "image": "105926-00b2b1fa94694b0e079aea76c6a33109.jpg",
+                "mannequins": "",
+                "outfit": "105926-5b1f71ccec26fc3e846177f84d63c9fe.jpg",
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105926
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 39.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat HW5 Ultimate",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105925-ab1be48c916ac91c565b56f615b0f6c6.webp"
+                    }
+                ],
+                "route": "/az/products/smart-saat-hw5-ultimate-105925",
+                "desc": "",
+                "image": "105925-ab1be48c916ac91c565b56f615b0f6c6.webp",
+                "mannequins": "",
+                "outfit": "",
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105925
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 19.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat MTS4 Black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105924-44b9288e17c3b0a11f838b63a75c8ca7.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-mts4-black-105924",
+                "desc": "",
+                "image": "105924-44b9288e17c3b0a11f838b63a75c8ca7.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105924
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 39.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat HW9 Ultra Max Black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105914-b49199b369989af03de9858cc7efeafb.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-hw9-ultra-max-black-105914",
+                "desc": "",
+                "image": "105914-b49199b369989af03de9858cc7efeafb.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105914
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 22.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat M9",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105908-ce8f7adda2d5d481efdf95f012103e40.jpg"
+                    },
+                    {
+                        "source": "105908-e8c973fbe25ad40bca913556bc3baa2d.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-m9-105908",
+                "desc": "Bluetooth BT 3.0 versiyası\nSürətli və axıcı ekran \nYüksək batareya tutumu",
+                "image": "105908-ce8f7adda2d5d481efdf95f012103e40.jpg",
+                "mannequins": "",
+                "outfit": "105908-e8c973fbe25ad40bca913556bc3baa2d.jpg",
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105908
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 46.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat HK8 Pro Max Silver grey",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105796-62c498407a0f1ddf16b04bc9051edbab.jpg"
+                    },
+                    {
+                        "source": "105796-d85a8fea201102a282893c50fe1d8f88.jpg"
+                    },
+                    {
+                        "source": "105796-8b37a88ed6e18386431dac2bec9e689f.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-hk8-pro-max-silver-grey-105796",
+                "desc": "2.12'' yüksək keyfiyyətli AMOLED ekran\nİstifadə müddəti: 3-4 gün\nChatGPT və bir çox funksiyası mövcuddur",
+                "image": "105796-62c498407a0f1ddf16b04bc9051edbab.jpg",
+                "mannequins": "",
+                "outfit": "105796-d85a8fea201102a282893c50fe1d8f88.jpg",
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105796
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 46.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": true,
+                "qty": 10,
+                "title": "Smart saat HK8 Pro Max Silver black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105795-27e71d382c0fc743a3104cf065f5b6bf.jpg"
+                    },
+                    {
+                        "source": "105795-89f07f8c742f3a76ff20d81a90834416.jpg"
+                    },
+                    {
+                        "source": "105795-6e41304f218f138f75c560b41ca43978.jpg"
+                    },
+                    {
+                        "source": "105795-101f62de2ec0550f4d26a279ef64531f.jpg"
+                    },
+                    {
+                        "source": "105795-117c2653d5cf7c22bf16807e4fe6cebd.jpg"
+                    },
+                    {
+                        "source": "105795-ee153d42fc850558c7db2facad43a771.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-hk8-pro-max-silver-black-105795",
+                "desc": "2.12'' yüksək keyfiyyətli AMOLED ekran\nİstifadə müddəti: 3-4 gün\nChatGPT və bir çox funksiyası mövcuddur",
+                "image": "105795-27e71d382c0fc743a3104cf065f5b6bf.jpg",
+                "mannequins": "",
+                "outfit": "105795-89f07f8c742f3a76ff20d81a90834416.jpg",
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105795
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 15.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Zero Pro Black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105791-f2cc0ab4297cb7079e78c1854c77fb80.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-zero-pro-black-105791",
+                "cashDiscount": 0,
+                "desc": "",
+                "image": "105791-f2cc0ab4297cb7079e78c1854c77fb80.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105791
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 32.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat S6 Max",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105790-4d7e772b1326aa14613ae872077eedb6.jpg"
+                    },
+                    {
+                        "source": "105790-154bec79b51582707c54d88940a36f2e.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-s6-max-105790",
+                "cashDiscount": 0,
+                "desc": "",
+                "image": "105790-4d7e772b1326aa14613ae872077eedb6.jpg",
+                "mannequins": "",
+                "outfit": "105790-154bec79b51582707c54d88940a36f2e.jpg",
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105790
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 16.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat DT2 4in1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105787-e22997756285b985dacc89497edfba7e.webp"
+                    },
+                    {
+                        "source": "105787-bbf76f575507a1190ad880976739cd46.jpg"
+                    },
+                    {
+                        "source": "105787-1514f99936f4c5e0b1a42d918d34f3fa.jpg"
+                    },
+                    {
+                        "source": "105787-f1d8196ab82544add1e398b7522acf5e.jpeg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-dt2-4in1-105787",
+                "cashDiscount": 0,
+                "desc": "Dəstə 4 rəngli kəmər daxildir\nNəbzölçən, addımölçən və bir çox funksiyaları mövcuddur\nEkran növü: IPS",
+                "image": "105787-e22997756285b985dacc89497edfba7e.webp",
+                "mannequins": "",
+                "outfit": "",
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105787
+            },
+            {
+                "newIn": false,
+                "bestSeller": true,
+                "monoBrand": false,
+                "price": 46.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat HK8 Pro Max Gold orange",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105783-548e0dbc64d3cb2b12ba620885cface0.jpg"
+                    },
+                    {
+                        "source": "105783-d355f751a3890bea74f804d89392e368.jpg"
+                    },
+                    {
+                        "source": "105783-322ec56e8165782617812cc515aa82e0.jpg"
+                    },
+                    {
+                        "source": "105783-537dedfbfc2f022559a3748fbfbe06c6.jpg"
+                    },
+                    {
+                        "source": "105783-53c3bffd42e415455025248ddedad647.jpg"
+                    },
+                    {
+                        "source": "105783-d2671b53f096bb43aa13c25c06da5948.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-hk8-pro-max-gold-orange-105783",
+                "desc": "2.12'' yüksək keyfiyyətli AMOLED ekran\nİstifadə müddəti: 3-4 gün\nChatGPT və bir çox funksiyası mövcuddur",
+                "image": "105783-548e0dbc64d3cb2b12ba620885cface0.jpg",
+                "mannequins": "",
+                "outfit": "105783-d355f751a3890bea74f804d89392e368.jpg",
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105783
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 26.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat CX8 Ultra silver",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105559-410e0021c8c2f2aa65dbb71bd0e7b278.jpg"
+                    },
+                    {
+                        "source": "105559-5e342de76f7ccec5438304cf5b5353cc.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-cx8-ultra-silver-105559",
+                "desc": "",
+                "image": "105559-410e0021c8c2f2aa65dbb71bd0e7b278.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105559
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 26.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat CX8 Ultra black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105551-bb62a3316dc6cb4e964814bfa99007e8.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-cx8-ultra-black-105551",
+                "desc": "",
+                "image": "105551-bb62a3316dc6cb4e964814bfa99007e8.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105551
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 19.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": true,
+                "outfitWithPad": true,
+                "qty": 10,
+                "title": "Smart saat Euroacs E9 Ultra Gold",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105355-67a7eed03d2c58ef22a9338852e6b099.jpg"
+                    },
+                    {
+                        "source": "105355-6889cb72679dc0f86413001fcef43c1e.jpg"
+                    },
+                    {
+                        "source": "105355-cdb121683a6a6d99288294ecd5ae452b.jpg"
+                    },
+                    {
+                        "source": "105355-ebefbc3b5d4811de3f3c858e6da7ef09.jpg"
+                    },
+                    {
+                        "source": "105355-502deeb1ce9699d789e49e7261f47b91.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-euroacs-e9-ultra-gold-105355",
+                "desc": "Qutu içərisinə qara, narıncı və yaşıl kəmər daxildir\nSiren funksiyası ilə 180 metr məsafəyə qədər səs ötürmə",
+                "image": "105355-67a7eed03d2c58ef22a9338852e6b099.jpg",
+                "mannequins": "",
+                "outfit": "105355-6889cb72679dc0f86413001fcef43c1e.jpg",
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "euroacs",
+                    "title": "Euroacs",
+                    "titleIndex": "A05A27A23A20A00A02A24",
+                    "route": "/az/brands/euroacs",
+                    "id": 30
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105355
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 32.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat JLV68 Louis Vuitton Black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105301-77d5a82baabb99e4238dea48bdcad0c3.jpg"
+                    },
+                    {
+                        "source": "105301-60ae7fd33d2b0cc44dddf60811824a0a.jpg"
+                    },
+                    {
+                        "source": "105301-a40d4c599839ead7b495859239b305fd.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-jlv68-louis-vuitton-black-105301",
+                "desc": "15 növ fərqli idman rejimi\nUnikal və erqonomik dizayn\nQan təzyiqi, ürək döyüntüsünü ölçmə və bir çox funksiyalar mövcuddur",
+                "image": "105301-77d5a82baabb99e4238dea48bdcad0c3.jpg",
+                "mannequins": "",
+                "outfit": "105301-60ae7fd33d2b0cc44dddf60811824a0a.jpg",
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105301
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 30.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat JS59 Max Black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105284-7f98270881a55246eba21a0b1d8ab413.jpg"
+                    },
+                    {
+                        "source": "105284-04bff06701327af0b62e8614734fe6be.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-js59-max-black-105284",
+                "cashDiscount": 0,
+                "desc": "",
+                "image": "105284-7f98270881a55246eba21a0b1d8ab413.jpg",
+                "mannequins": "",
+                "outfit": "105284-04bff06701327af0b62e8614734fe6be.jpg",
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105284
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 32.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat JLV68 Louis Vuitton Gold",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105275-f8e6c89d1daf725221c9ae1924eb8d63.jpg"
+                    },
+                    {
+                        "source": "105275-919148189ab6cf04c507f56c90676fd7.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-jlv68-louis-vuitton-gold-105275",
+                "desc": "15 növ fərqli idman rejimi\nUnikal və erqonomik dizayn\nQan təzyiqi, ürək döyüntüsünü ölçmə və bir çox funksiyalar mövcuddur",
+                "image": "105275-f8e6c89d1daf725221c9ae1924eb8d63.jpg",
+                "mannequins": "",
+                "outfit": "105275-919148189ab6cf04c507f56c90676fd7.jpg",
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105275
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 32.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat H9 Ultra Gold",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105269-77663cd7a1bcbeba2d59aa24b4611460.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-h9-ultra-gold-105269",
+                "desc": "Paslanmaz polad kəmər\n2.01'' IPS-ekran növü\nİdman rejimləri, nəbzölçən və bir çox funksiyalar mövcuddur",
+                "image": "105269-77663cd7a1bcbeba2d59aa24b4611460.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105269
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 19.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat ZORDAI ZD8 Ultra+ Orange-grey",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105122-84a207e5d8a2a87eb43cdb0f6271bfaa.jpg"
+                    },
+                    {
+                        "source": "105122-9389e1a555ea69321e0306256ca09018.jpg"
+                    },
+                    {
+                        "source": "105122-6721b1877dcc5ae728cb83c467833483.jpg"
+                    },
+                    {
+                        "source": "105122-99ac3245646b749ae220624d0408895f.jpg"
+                    },
+                    {
+                        "source": "105122-498c8f001e70388b7450296802b1538a.jpg"
+                    },
+                    {
+                        "source": "105122-f1e6519cb3a71a818b34f3ae59a84524.jpg"
+                    },
+                    {
+                        "source": "105122-836931c4e2788f0d384cc7ea10b0b3c0.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-zordai-zd8-ultra+-orange-grey-105122",
+                "desc": "500+ ekran rəsmləri mövcuddur\nIP68 suya və toza davamlıdır\nƏlavə olaraq 1 ədəd narıncı və boz kəmər",
+                "image": "105122-84a207e5d8a2a87eb43cdb0f6271bfaa.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105122
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 19.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat ZORDAI ZD2 Black Black + brown",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105119-be934e889cca69987421646d0b380b2a.jpg"
+                    },
+                    {
+                        "source": "105119-72fce56c0f1b20f8572ca4736cdfe0a7.jpg"
+                    },
+                    {
+                        "source": "105119-bed905281571175178f13d3f6027a02c.jpg"
+                    },
+                    {
+                        "source": "105119-7ab86801eabb38061015d8509b8d9a54.jpg"
+                    },
+                    {
+                        "source": "105119-5ec43905b3ecf5e42f86afd465e4f996.jpg"
+                    },
+                    {
+                        "source": "105119-f27a25e45fa1ba32784124e414f2372b.jpg"
+                    },
+                    {
+                        "source": "105119-2c65fc4a72f7baa512b1494aae244b9e.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-zordai-zd2-black-black-+-brown-105119",
+                "desc": "Qara və qəhvəyi rəng kəmərlər qutu içərisində mövcuddur",
+                "image": "105119-be934e889cca69987421646d0b380b2a.jpg",
+                "mannequins": "",
+                "outfit": "105119-5ec43905b3ecf5e42f86afd465e4f996.jpg",
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105119
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 19.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat ZORDAI ZD8 Ultra+ Black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105115-f7c76b6e939215b29993f22133eed1e6.jpg"
+                    },
+                    {
+                        "source": "105115-d50a6c2f2a06e3b7a205d5d7354eecfa.jpg"
+                    },
+                    {
+                        "source": "105115-f8256013ce6d3b1fc40b7b2fe8dc8439.jpg"
+                    },
+                    {
+                        "source": "105115-0b7d517fa73d044dff5984640707b41e.jpg"
+                    },
+                    {
+                        "source": "105115-660201350d8cff0e40c546f651a53761.jpg"
+                    },
+                    {
+                        "source": "105115-c30ad7c649814bff1457dcddc8bf6080.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-zordai-zd8-ultra+-black-105115",
+                "desc": "500+ ekran rəsmləri mövcuddur\nIP68 suya və toza davamlıdır\nƏlavə olaraq 1 ədəd qara və narıncı kəmər",
+                "image": "105115-f7c76b6e939215b29993f22133eed1e6.jpg",
+                "mannequins": "",
+                "outfit": "105115-660201350d8cff0e40c546f651a53761.jpg",
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105115
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 19.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat ZORDAI ZD3 Pro Black",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105111-edc58c1a27ded209d27d89c78ea470ed.jpg"
+                    },
+                    {
+                        "source": "105111-71fa7f5f31613a59d21d0766385becc2.jpg"
+                    },
+                    {
+                        "source": "105111-b70847c245be8a46ca33594aa52b6805.jpg"
+                    },
+                    {
+                        "source": "105111-1b528c11033e0a5b624c19a1832df2d8.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-zordai-zd3-pro-black-105111",
+                "desc": "200+ divar kağızı şəkilləri",
+                "image": "105111-edc58c1a27ded209d27d89c78ea470ed.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105111
+            },
+            {
+                "newIn": false,
+                "bestSeller": false,
+                "monoBrand": false,
+                "price": 109.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Smart saat Joyroom JR-FC2",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "105093-ba3da179c5f869d78959c5b6d740842e.jpg"
+                    },
+                    {
+                        "source": "105093-4a8f77df9d7ecabf233e1da42787fa9c.jpg"
+                    },
+                    {
+                        "source": "105093-d5d9c82ef514e73459ae0aa1e2610f05.jpg"
+                    },
+                    {
+                        "source": "105093-909f2be41e258f1d806b9c0d3cf4bcd3.jpg"
+                    },
+                    {
+                        "source": "105093-2d0e7cfc18308b49a100d9eed0a19e33.jpg"
+                    },
+                    {
+                        "source": "105093-3b4657bdeb8656c307f2d9942a526f0b.jpg"
+                    },
+                    {
+                        "source": "105093-c571d5f441e4ebf663232bb2b443137f.jpg"
+                    },
+                    {
+                        "source": "105093-17e935e63f36b6e79c7c8491c0b2d4b4.jpg"
+                    },
+                    {
+                        "source": "105093-00b2f0b55e937149512157523e6554e4.jpg"
+                    },
+                    {
+                        "source": "105093-9b712870beb523adb7bdc16dfb5cdb27.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-joyroom-jr-fc2-105093",
+                "desc": "107+ idman rejimi\nIP68 toza və suya davamlı (1m dərinlikdə 30 dəqiqə istifadə)\nZənglərə cavab vermək və zəng etmək funksiyası",
+                "image": "105093-ba3da179c5f869d78959c5b6d740842e.jpg",
+                "mannequins": "",
+                "outfit": "105093-c571d5f441e4ebf663232bb2b443137f.jpg",
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105093
+            }
+        ],
+        "pagination": {
+            "count": 121,
+            "limit": 90,
+            "pages": 2,
+            "current": 1
+        },
+        "filter": {
+            "filter_brand": 0,
+            "filter_category": 60,
+            "filter_collection": 0,
+            "filter_campaign": 0,
+            "filter_mainCategory": 0,
+            "filter_newin": false,
+            "filter_bestseller": false,
+            "filter_orangeStar": false,
+            "filter_discount": false,
+            "filter_specialdiscount": false,
+            "filter_monoBrand": false,
+            "filter_sizes": "",
+            "filter_prices_min": 0,
+            "filter_prices_max": 0,
+            "filter_status": "on",
+            "filter_qty": true
+        }
+    }
+}
+        ],
+        "watchfilter":[
+            {
+    "ok": true,
+    "data": {
+        "filters": {
+            "cats": {
+                "type": "category",
+                "title": "Kateqoriyalar",
+                "items": [
+                    {
+                        "title": "Klassik saatlar",
+                        "route": "/az/saatlar/klassik-saatlar",
+                        "id": 65
+                    },
+                    {
+                        "title": "Smart saatlar",
+                        "route": "/az/saatlar/smart-saatlar",
+                        "id": 11
+                    }
+                ]
+            },
+            "brands": {
+                "type": "checkbox",
+                "title": "Brendlər",
+                "search": true,
+                "scrolled": true,
+                "items": [
+                    {
+                        "title": "CASIO",
+                        "total": 55,
+                        "id": 35
+                    },
+                    {
+                        "title": "CURREN",
+                        "total": 28,
+                        "id": 37
+                    },
+                    {
+                        "title": "DANIEL KLEIN",
+                        "total": 70,
+                        "id": 38
+                    },
+                    {
+                        "title": "Euroacs",
+                        "total": 29,
+                        "id": 30
+                    },
+                    {
+                        "title": "Foni",
+                        "total": 13,
+                        "id": 46
+                    },
+                    {
+                        "title": "Xiaomi",
+                        "total": 1,
+                        "id": 3
+                    },
+                    {
+                        "title": "XO",
+                        "total": 9,
+                        "id": 58
+                    },
+                    {
+                        "title": "Joyroom",
+                        "total": 14,
+                        "id": 4
+                    },
+                    {
+                        "title": "Keqiwear",
+                        "total": 1,
+                        "id": 81
+                    },
+                    {
+                        "title": "NAVIFORCE",
+                        "total": 2,
+                        "id": 36
+                    },
+                    {
+                        "title": "PRC",
+                        "total": 330,
+                        "id": 17
+                    },
+                    {
+                        "title": "Santa Barbara Polo",
+                        "total": 10,
+                        "id": 34
+                    },
+                    {
+                        "title": "WISME",
+                        "total": 8,
+                        "id": 80
+                    }
+                ]
+            },
+            "prices": {
+                "type": "price",
+                "title": "Qiymət",
+                "min": "0",
+                "max": "200",
+                "current": 0,
+                "intervals": [
+                    {
+                        "id": "0-50",
+                        "title": "0 - 50 azn",
+                        "min": "0",
+                        "max": 50
+                    },
+                    {
+                        "id": "50-100",
+                        "title": "50 - 100 azn",
+                        "min": 50,
+                        "max": 100
+                    },
+                    {
+                        "id": "100-200",
+                        "title": "100 - 200 azn",
+                        "min": 100,
+                        "max": "200"
+                    }
+                ]
+            },
+            "brand": {
+                "type": "checkbox",
+                "title": "Brend",
+                "search": false,
+                "scrolled": true,
+                "items": [
+                    {
+                        "id": 81,
+                        "color": null,
+                        "code": null,
+                        "title": "PRC",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 1127,
+                        "color": null,
+                        "code": null,
+                        "title": "WISME",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 94,
+                        "color": null,
+                        "code": null,
+                        "title": "Joyroom",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 137,
+                        "color": null,
+                        "code": null,
+                        "title": "Euroacs",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 90,
+                        "color": null,
+                        "code": null,
+                        "title": "Xiaomi",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 221,
+                        "color": null,
+                        "code": null,
+                        "title": "XO",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 1128,
+                        "color": null,
+                        "code": null,
+                        "title": "Keqiwear",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 158,
+                        "color": null,
+                        "code": null,
+                        "title": "NAVIFORCE",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 160,
+                        "color": null,
+                        "code": null,
+                        "title": "DANIEL KLEIN",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 156,
+                        "color": null,
+                        "code": null,
+                        "title": "Santa Barbara Polo",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 157,
+                        "color": null,
+                        "code": null,
+                        "title": "CASIO",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 159,
+                        "color": null,
+                        "code": null,
+                        "title": "CURREN",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 181,
+                        "color": null,
+                        "code": null,
+                        "title": "Foni",
+                        "custom": false,
+                        "multiLang": false
+                    }
+                ]
+            },
+            "Cins uyğunluğu": {
+                "type": "checkbox",
+                "title": "Cins uyğunluğu",
+                "search": false,
+                "scrolled": true,
+                "items": [
+                    {
+                        "id": 165,
+                        "color": null,
+                        "code": null,
+                        "title": "Kişi",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 166,
+                        "color": null,
+                        "code": null,
+                        "title": "Qadın",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 167,
+                        "color": null,
+                        "code": null,
+                        "title": "Unisex",
+                        "custom": false,
+                        "multiLang": false
+                    }
+                ]
+            },
+            "color": {
+                "type": "color",
+                "title": "Rəng",
+                "search": false,
+                "scrolled": true,
+                "items": [
+                    {
+                        "id": 4,
+                        "color": "white",
+                        "code": "#ffffff",
+                        "title": "Ağ",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 24,
+                        "color": "Bej",
+                        "code": "#F5F5DC",
+                        "title": "Bej",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 3,
+                        "color": "Boz",
+                        "code": "#71797E",
+                        "title": "Boz",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 13,
+                        "color": "Göy",
+                        "code": "#0000FF",
+                        "title": "Göy",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 16,
+                        "color": "Gümüşü",
+                        "code": "#C0C0C0",
+                        "title": "Gümüşü",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 27,
+                        "color": "Mavi",
+                        "code": "#ADD8E6",
+                        "title": "Mavi",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 18,
+                        "color": "Narıncı",
+                        "code": "#FF6E00",
+                        "title": "Narıncı",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 10,
+                        "color": "Qara",
+                        "code": "#000000",
+                        "title": "Qara",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 5,
+                        "color": "Qırmızı",
+                        "code": "#FF0000",
+                        "title": "Qırmızı",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 14,
+                        "color": "Qızılı",
+                        "code": "#FFD700",
+                        "title": "Qızılı",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 21,
+                        "color": "brown",
+                        "code": "#9e4d0b",
+                        "title": "Qəhvəyi",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 9,
+                        "color": "Sarı",
+                        "code": "#FFFF00",
+                        "title": "Sarı",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 2,
+                        "color": "Yaşıl",
+                        "code": "#05b523",
+                        "title": "Yaşıl",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 17,
+                        "color": "Çəhrayı",
+                        "code": "#FFC0CB",
+                        "title": "Çəhrayı",
+                        "custom": false,
+                        "multiLang": false
+                    },
+                    {
+                        "id": 25,
+                        "color": "rosegold",
+                        "code": "#DCAE96",
+                        "title": "Çəhrayı-qızılı",
+                        "custom": false,
+                        "multiLang": false
+                    }
+                ]
+            }
+        },
+        "selected": []
+    }
+}
         ]
+
+
+
+
 
 
   
