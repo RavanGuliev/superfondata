@@ -3681,106 +3681,46 @@
     ],
 
      "bestsellers": [
-        {
+       {
     "ok": true,
     "data": {
         "items": [
             {
                 "newIn": false,
+                "bestSeller": true,
                 "monoBrand": false,
-                "price": 46.9,
+                "price": 74.9,
                 "priceOld": 0,
                 "priceInStore": false,
-                "title": "Simsiz adapter Magsafe 3-ü 1-də C300",
-                "desc": "Telefon doldurma: 15W\nSaat doldurma: 3W\nQulaqlıq doldurma: 5W",
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "MacBook Hub Joyroom S-H121 J-Cube 8in1",
+                "faq": [],
                 "images": [
                     {
-                        "source": "101751-8eyMTo5hyGor1OEM.jpg"
+                        "source": "106016-fcb57de5f8514291bad0416c63164b13.webp"
                     },
                     {
-                        "source": "101751-9022b64fd9a3f290953b2521db7903ac.jpeg"
+                        "source": "106016-af1fc823a99fcec2d4b856208b5783e6.jpg"
+                    },
+                    {
+                        "source": "106016-e3ecaef5153883e3a9ef2b3f74c2fc70.jpeg"
+                    },
+                    {
+                        "source": "106016-2cde797283d4db609b6efa6b6a13a702.jpeg"
                     }
                 ],
-                "route": "/az/products/simsiz-adapter-magsafe-3--1-d-c300-101751",
-                "image": "101751-8eyMTo5hyGor1OEM.jpg",
-                "discount": 0,
+                "route": "/az/products/macbook-hub-joyroom-s-h121-j-cube-8in1-106016",
+                "desc": "",
+                "image": "106016-fcb57de5f8514291bad0416c63164b13.webp",
                 "mannequins": "",
-                "outfit": "101751-9022b64fd9a3f290953b2521db7903ac.jpeg",
-                "qty": 10,
-                "specialDiscount": false,
-                "faq": [],
-                "bestSeller": true,
-                "imageWithPad": false,
-                "outfitWithPad": false,
-                "cashDiscount": 0,
+                "outfit": "",
                 "orangeStar": false,
-                "categories": [
-                    {
-                        "title": "Adapterlər",
-                        "id": 23
-                    },
-                    {
-                        "title": "Adapter",
-                        "id": 54
-                    }
-                ],
-                "brand": {
-                    "status": "on",
-                    "name": "superfon-mehsullari",
-                    "title": "PRC",
-                    "titleIndex": "A22A23A02",
-                    "route": "/az/brands/superfon-mehsullari",
-                    "id": 17
-                },
-                "badges": [],
-                "giftProducts": [],
-                "id": 101751
-            },
-            {
-                "newIn": false,
-                "monoBrand": false,
-                "price": 42.9,
-                "priceOld": 0,
-                "priceInStore": false,
-                "title": "Joyroom JR-ZS212 Holder with Wireless Charger",
-                "desc": "Müasir və erqonomik dizayn\nQI texnologiyalı simsiz 15W sürətli enerji\nSabit və güclü telefon tutma dəstəyi",
-                "images": [
-                    {
-                        "source": "101142-bHWWrg5AgSdO6OOc.jpg"
-                    },
-                    {
-                        "source": "101142-db1c3a8d14c7aa6a26a548760308ac60.jpg"
-                    },
-                    {
-                        "source": "101142-b04e7769cdb6e8daeb232f4c7c569c4b.jpg"
-                    },
-                    {
-                        "source": "101142-28db257edb0c1a6b6d0b8b1b0a013495.jpg"
-                    }
-                ],
-                "route": "/az/products/joyroom-jr-zs212-holder-with-wireless-charger-101142",
-                "image": "101142-bHWWrg5AgSdO6OOc.jpg",
-                "discount": 0,
-                "faq": [],
-                "mannequins": "",
-                "outfit": "101142-db1c3a8d14c7aa6a26a548760308ac60.jpg",
-                "qty": 10,
-                "specialDiscount": false,
-                "bestSeller": true,
-                "imageWithPad": false,
-                "outfitWithPad": false,
-                "cashDiscount": 0,
-                "orangeStar": false,
-                "categories": [
-                    {
-                        "title": "Holderlər",
-                        "id": 22
-                    },
-                    {
-                        "title": "Holderlər",
-                        "id": 35
-                    }
-                ],
+                "categories": [],
                 "brand": {
                     "status": "on",
                     "name": "joyroom",
@@ -3791,7 +3731,7 @@
                 },
                 "badges": [],
                 "giftProducts": [],
-                "id": 101142
+                "id": 106016
             },
             {
                 "newIn": false,
@@ -3854,31 +3794,91 @@
             },
             {
                 "newIn": false,
+                "bestSeller": true,
                 "monoBrand": false,
-                "price": 16.9,
+                "price": 19.9,
                 "priceOld": 0,
                 "priceInStore": false,
-                "title": "Qulaqlıq Abingo S500i",
-                "desc": "Abingo S500i Qulaqlıq\nSimli bağlantı\nNövü - Qulaq içi",
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Holder simsiz şarjlı Air C16 black",
+                "faq": [],
                 "images": [
                     {
-                        "source": "101303-yg11TZhlGQkyFTJ7.jpg"
+                        "source": "105379-e75af652cbb64928ba091a1d1bbb14a7.jpg"
                     },
                     {
-                        "source": "101303-ca9ec5992eb4de55c39c92acc53e7542.jpg"
+                        "source": "105379-0e22e741cc1cf872c6d064098f04039d.jpg"
+                    },
+                    {
+                        "source": "105379-4911abc1c258906eac0630b52f9acd86.jpg"
                     }
                 ],
-                "route": "/az/products/qulaqliq-abingo-s500i-101303",
-                "image": "101303-yg11TZhlGQkyFTJ7.jpg",
-                "discount": 0,
-                "faq": [],
+                "route": "/az/products/holder-simsiz-sarjli-air-c16-black-105379",
+                "cashDiscount": 0,
+                "desc": "15W simsiz maqnit enerji yığma gücü\nPortativ və modern dizayn\nHolder növü: keçirməli",
+                "image": "105379-e75af652cbb64928ba091a1d1bbb14a7.jpg",
                 "mannequins": "",
-                "outfit": "101303-ca9ec5992eb4de55c39c92acc53e7542.jpg",
-                "qty": 10,
-                "specialDiscount": false,
+                "outfit": "105379-0e22e741cc1cf872c6d064098f04039d.jpg",
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Holderlər",
+                        "id": 22
+                    },
+                    {
+                        "title": "Holderlər",
+                        "id": 35
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 105379
+            },
+            {
+                "newIn": false,
                 "bestSeller": true,
+                "monoBrand": false,
+                "price": 19.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
                 "imageWithPad": true,
                 "outfitWithPad": false,
+                "route": "/az/products/qulaqliq-jbl-jr310-green-103191",
+                "title": "Qulaqlıq JBL JR310 Green",
+                "desc": "Komfortlu qulaq yastıqları\nQatlana bilən dizayn\n80 dB səs gurluğu",
+                "mannequins": "",
+                "outfit": "103191-85de8b7bd78e99dc2324190d17f64175.jpg",
+                "qty": 10,
+                "faq": [],
+                "images": [
+                    {
+                        "source": "103191-6dd1db60c52e48ae31c22eab09025d46.jpg"
+                    },
+                    {
+                        "source": "103191-85de8b7bd78e99dc2324190d17f64175.jpg"
+                    },
+                    {
+                        "source": "103191-f816d9e0f095a85020feaec4e1121239.jpg"
+                    },
+                    {
+                        "source": "103191-44b47e9995a3ee7e06ce0a2dd07a9d67.jpg"
+                    }
+                ],
+                "image": "103191-6dd1db60c52e48ae31c22eab09025d46.jpg",
                 "cashDiscount": 0,
                 "orangeStar": false,
                 "categories": [
@@ -3893,59 +3893,164 @@
                 ],
                 "brand": {
                     "status": "on",
-                    "name": "superfon-mehsullari",
-                    "title": "PRC",
-                    "titleIndex": "A22A23A02",
-                    "route": "/az/brands/superfon-mehsullari",
-                    "id": 17
+                    "name": "jbl-a-klass",
+                    "title": "JBL klas",
+                    "titleIndex": "A14A01A17 A15A17A00A24",
+                    "route": "/az/brands/jbl-a-klass",
+                    "id": 12
                 },
                 "badges": [],
                 "giftProducts": [],
-                "id": 101303
+                "id": 103191
             },
             {
                 "newIn": false,
                 "bestSeller": true,
                 "monoBrand": false,
-                "price": 44.9,
+                "price": 14.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": true,
+                "route": "/az/products/holder-dashboard-joyroom-jr-zs205-maqnetik-103152",
+                "title": "Holder dashboard Joyroom JR-ZS205 maqnetik",
+                "desc": "360 dərəcə fırlanma \nMöhkəm telefon tutuşu, sabit və təhlükəsizdir\nNövü: Yapışan",
+                "mannequins": "",
+                "outfit": "103152-c154a86930fae3e2f5107680589bc75a.jpg",
+                "qty": 10,
+                "faq": [],
+                "images": [
+                    {
+                        "source": "103152-203d331f662892396bee409288fd1361.jpg"
+                    },
+                    {
+                        "source": "103152-c154a86930fae3e2f5107680589bc75a.jpg"
+                    },
+                    {
+                        "source": "103152-a2e90d986fa5cd9324d2083f41783410.jpg"
+                    }
+                ],
+                "image": "103152-203d331f662892396bee409288fd1361.jpg",
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Holderlər",
+                        "id": 22
+                    },
+                    {
+                        "title": "Holderlər",
+                        "id": 35
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 103152
+            },
+            {
+                "newIn": false,
+                "bestSeller": true,
+                "monoBrand": false,
+                "price": 29.9,
                 "priceOld": 0,
                 "priceInStore": false,
                 "specialDiscount": false,
-                "title": "Holder Joyroom JR-ZS241 dashboard",
-                "desc": "",
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "route": "/az/products/powerbank-joyroom-t012-10000-mah-101869-102444",
+                "title": "Powerbank Joyroom T012 10000 mAh",
+                "desc": "LED işıqlar göstəricisi\nYüksək keyfiyyətli ABS və plastik material\n2 USB çıxışı mövcuddur",
                 "qty": 10,
-                "image": "101865-e6ceadf9244ec3c3439198d8e208a743.jpg",
-                "outfit": "101865-0f8291a5c15c0a812c44d290d9234769.jpg",
+                "outfit": "",
+                "mannequins": "",
+                "discount": 0,
+                "faq": [],
+                "images": [
+                    {
+                        "source": "102444-1809f0375ac5752fee411f38f80171d9.jpg"
+                    }
+                ],
+                "image": "102444-1809f0375ac5752fee411f38f80171d9.jpg",
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Powerbanklar",
+                        "id": 2
+                    },
+                    {
+                        "title": "Poverbanklar",
+                        "id": 55
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 102444
+            },
+            {
+                "newIn": false,
+                "bestSeller": true,
+                "monoBrand": false,
+                "price": 74.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "specialDiscount": false,
+                "title": "Powerbank Joyroom JR-W020 10000mAh Black",
+                "desc": "15W sürətli enerji doldurma\nSimsiz enerji yığmanı dəstəkləyir\nYüngül və portativ dizayn",
+                "qty": 10,
+                "image": "101870-27bea572baf9ea03656262b9433bbc8a.jpg",
+                "outfit": "101870-f2aa642d8386cf89f9c9291a0a0a1830.webp",
                 "mannequins": "",
                 "images": [
                     {
-                        "source": "101865-e6ceadf9244ec3c3439198d8e208a743.jpg"
+                        "source": "101870-27bea572baf9ea03656262b9433bbc8a.jpg"
                     },
                     {
-                        "source": "101865-0f8291a5c15c0a812c44d290d9234769.jpg"
+                        "source": "101870-f2aa642d8386cf89f9c9291a0a0a1830.webp"
                     },
                     {
-                        "source": "101865-67bc46a4e98084fc5c5db28f26ddae39.jpg"
+                        "source": "101870-356744ea2658eef507e01423b12c25c3.webp"
                     },
                     {
-                        "source": "101865-3a66f6e156748d6c9a142025f85eba89.jpg"
+                        "source": "101870-143f63956da2dfb75f75c4b0cd13fd01.webp"
+                    },
+                    {
+                        "source": "101870-ae87a81aaa97aac7d5c8bfa536dff0c3.webp"
                     }
                 ],
                 "discount": 0,
                 "faq": [],
-                "route": "/az/products/holder-joyroom-zs241-101865",
+                "route": "/az/products/powerbank-joyroom-jr-w020-10000mah-black-101870",
                 "imageWithPad": false,
                 "outfitWithPad": false,
                 "cashDiscount": 0,
                 "orangeStar": false,
                 "categories": [
                     {
-                        "title": "Holderlər",
-                        "id": 22
+                        "title": "Powerbanklar",
+                        "id": 2
                     },
                     {
-                        "title": "Holderlər",
-                        "id": 35
+                        "title": "Poverbanklar",
+                        "id": 55
                     }
                 ],
                 "brand": {
@@ -3958,61 +4063,7 @@
                 },
                 "badges": [],
                 "giftProducts": [],
-                "id": 101865
-            },
-            {
-                "newIn": false,
-                "monoBrand": false,
-                "price": 11.9,
-                "priceOld": 0,
-                "priceInStore": false,
-                "title": "Joyroom JR-OK2 holder",
-                "desc": "Qabaq ş&uuml;şə və panel &uuml;&ccedil;&uuml;n uyğndur360 dərəcə fırlanmaTəkəlli istifadə imkanı",
-                "images": [
-                    {
-                        "source": "101135-pZgiYfWiC9kgcvyF.jpg"
-                    },
-                    {
-                        "source": "101135-199be611ba802f5a98338d4bc81ba994.jpg"
-                    },
-                    {
-                        "source": "101135-38a42e87fe7541cff5ee19acba9c483e.jpg"
-                    }
-                ],
-                "route": "/az/products/joyroom-jr-ok2-holder-101135",
-                "image": "101135-pZgiYfWiC9kgcvyF.jpg",
-                "discount": 0,
-                "faq": [],
-                "mannequins": "",
-                "outfit": "101135-199be611ba802f5a98338d4bc81ba994.jpg",
-                "qty": 10,
-                "specialDiscount": false,
-                "bestSeller": true,
-                "imageWithPad": true,
-                "outfitWithPad": false,
-                "cashDiscount": 0,
-                "orangeStar": false,
-                "categories": [
-                    {
-                        "title": "Holderlər",
-                        "id": 22
-                    },
-                    {
-                        "title": "Holderlər",
-                        "id": 35
-                    }
-                ],
-                "brand": {
-                    "status": "on",
-                    "name": "joyroom",
-                    "title": "Joyroom",
-                    "titleIndex": "A14A20A30A23A20A20A18",
-                    "route": "/az/brands/joyroom",
-                    "id": 4
-                },
-                "badges": [],
-                "giftProducts": [],
-                "id": 101135
+                "id": 101870
             },
             {
                 "newIn": false,
@@ -4076,6 +4127,770 @@
             },
             {
                 "newIn": false,
+                "bestSeller": true,
+                "monoBrand": false,
+                "price": 11.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "specialDiscount": false,
+                "title": "Stilus qələm Joyroom DR01",
+                "desc": "Silikon ucluqları sayəsində cihazınızı cızmayacaq\nRəsm və yazma üçün uyğun",
+                "qty": 10,
+                "image": "101868-7b61258fd731d40f49132239c99ac453.jpg",
+                "outfit": "101868-32a61bade041c16e5caef75466ef6c32.jpg",
+                "mannequins": "",
+                "images": [
+                    {
+                        "source": "101868-7b61258fd731d40f49132239c99ac453.jpg"
+                    },
+                    {
+                        "source": "101868-32a61bade041c16e5caef75466ef6c32.jpg"
+                    },
+                    {
+                        "source": "101868-a67ecfccdacabaf81c4d0a06ef65b813.jpg"
+                    },
+                    {
+                        "source": "101868-7aa541bbe6564d315ce6349247bf3c0e.jpg"
+                    },
+                    {
+                        "source": "101868-5f5ee6d6de42e87825407f7097b258e7.jpg"
+                    },
+                    {
+                        "source": "101868-dc118eb6711c5d14ca5618f4fe93d5c2.jpg"
+                    }
+                ],
+                "discount": 0,
+                "faq": [],
+                "route": "/az/products/stilus-qelem-joyroom-dr01-101868",
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101868
+            },
+            {
+                "newIn": false,
+                "bestSeller": true,
+                "monoBrand": false,
+                "price": 84.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "specialDiscount": false,
+                "title": "Smart Saat Joyroom FT1 Pro IP67 Suyadavamlı",
+                "desc": "Qan təzyiqi göstəricisi\n24 növ idman rejimi\nIP67 suyadavamlılıq",
+                "qty": 10,
+                "discount": 0,
+                "faq": [],
+                "images": [
+                    {
+                        "source": "101867-b1830a4d271549563930dd9948adff60.jpg"
+                    },
+                    {
+                        "source": "101867-295b8f853a0e0a021904aec09d446268.jpg"
+                    },
+                    {
+                        "source": "101867-9b5561e0ee77a8bc139dee76c08b71ac.jpg"
+                    },
+                    {
+                        "source": "101867-67bcf20e838868d42cfc1bd4f0e10909.jpg"
+                    }
+                ],
+                "route": "/az/products/smart-saat-joyroom-ft1-pro-ip67-suyadavamli-101867",
+                "image": "101867-b1830a4d271549563930dd9948adff60.jpg",
+                "mannequins": "",
+                "outfit": "101867-67bcf20e838868d42cfc1bd4f0e10909.jpg",
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Smart saatlar",
+                        "id": 11
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101867
+            },
+            {
+                "newIn": false,
+                "bestSeller": true,
+                "monoBrand": false,
+                "price": 17.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "specialDiscount": false,
+                "title": "Holder Joyroom ZS255 yapışan",
+                "desc": "4,7-6,5 düymlük telefon ölçüsünə uyğundur\nKompakt və yığcam ölçü\nSabit və möhkəm telefon tutuşu",
+                "qty": 10,
+                "image": "101866-ba398a16dbe2ff788ca3f47d1800d884.jpg",
+                "outfit": "",
+                "mannequins": "",
+                "images": [
+                    {
+                        "source": "101866-ba398a16dbe2ff788ca3f47d1800d884.jpg"
+                    },
+                    {
+                        "source": "101866-522b8c1f3e1bee75934047746bdfcd65.jpg"
+                    }
+                ],
+                "discount": 0,
+                "faq": [],
+                "route": "/az/products/holder-joyroom-zs255-yapisan-101866",
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Holderlər",
+                        "id": 22
+                    },
+                    {
+                        "title": "Holderlər",
+                        "id": 35
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101866
+            },
+            {
+                "newIn": false,
+                "bestSeller": true,
+                "monoBrand": false,
+                "price": 44.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "specialDiscount": false,
+                "title": "Holder Joyroom JR-ZS241 dashboard",
+                "desc": "",
+                "qty": 10,
+                "image": "101865-e6ceadf9244ec3c3439198d8e208a743.jpg",
+                "outfit": "101865-0f8291a5c15c0a812c44d290d9234769.jpg",
+                "mannequins": "",
+                "images": [
+                    {
+                        "source": "101865-e6ceadf9244ec3c3439198d8e208a743.jpg"
+                    },
+                    {
+                        "source": "101865-0f8291a5c15c0a812c44d290d9234769.jpg"
+                    },
+                    {
+                        "source": "101865-67bc46a4e98084fc5c5db28f26ddae39.jpg"
+                    },
+                    {
+                        "source": "101865-3a66f6e156748d6c9a142025f85eba89.jpg"
+                    }
+                ],
+                "discount": 0,
+                "faq": [],
+                "route": "/az/products/holder-joyroom-zs241-101865",
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Holderlər",
+                        "id": 22
+                    },
+                    {
+                        "title": "Holderlər",
+                        "id": 35
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101865
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 17.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "specialDiscount": false,
+                "title": "Qulaqlıq Recci J300",
+                "desc": "J300 qulaqlıq\nNövü - Qulaq içi\nAUX girişi ilə qoşulma",
+                "qty": 10,
+                "image": "101858-77e90461fd69c8f5080a4734f012b582.jpg",
+                "outfit": "101858-2979592c549706eb2499c6b1b7020b44.jpg",
+                "mannequins": "",
+                "images": [
+                    {
+                        "source": "101858-2979592c549706eb2499c6b1b7020b44.jpg"
+                    },
+                    {
+                        "source": "101858-77e90461fd69c8f5080a4734f012b582.jpg"
+                    }
+                ],
+                "discount": 0,
+                "faq": [],
+                "route": "/az/products/qulaqliq-recci-j300-101858",
+                "bestSeller": true,
+                "imageWithPad": false,
+                "outfitWithPad": true,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Qulaqlıqlar",
+                        "id": 10
+                    },
+                    {
+                        "title": "Qulaqlıqlar",
+                        "id": 32
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101858
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 49.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "specialDiscount": false,
+                "title": "Kin Vale 30000mAh V763",
+                "desc": "30000mAh yüksək batareya tutumu\nŞarj ömrünü göstərən led panel\nYüngül və portativ dizayn",
+                "qty": 10,
+                "image": "101856-4a9cc2302ba2c7a95dfb271553c47d75.jpg",
+                "outfit": "",
+                "mannequins": "",
+                "images": [
+                    {
+                        "source": "101856-4a9cc2302ba2c7a95dfb271553c47d75.jpg"
+                    }
+                ],
+                "discount": 0,
+                "faq": [],
+                "route": "/az/products/kin-vale-30000mah-v763-101856",
+                "bestSeller": true,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Powerbanklar",
+                        "id": 2
+                    },
+                    {
+                        "title": "Poverbanklar",
+                        "id": 55
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101856
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 46.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Simsiz adapter Magsafe 3-ü 1-də C300",
+                "desc": "Telefon doldurma: 15W\nSaat doldurma: 3W\nQulaqlıq doldurma: 5W",
+                "images": [
+                    {
+                        "source": "101751-8eyMTo5hyGor1OEM.jpg"
+                    },
+                    {
+                        "source": "101751-9022b64fd9a3f290953b2521db7903ac.jpeg"
+                    }
+                ],
+                "route": "/az/products/simsiz-adapter-magsafe-3--1-d-c300-101751",
+                "image": "101751-8eyMTo5hyGor1OEM.jpg",
+                "discount": 0,
+                "mannequins": "",
+                "outfit": "101751-9022b64fd9a3f290953b2521db7903ac.jpeg",
+                "qty": 10,
+                "specialDiscount": false,
+                "faq": [],
+                "bestSeller": true,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Adapterlər",
+                        "id": 23
+                    },
+                    {
+                        "title": "Adapter",
+                        "id": 54
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101751
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 29.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Powerbank Remax RPP259 20000mAh",
+                "desc": "Tutum: 20000mAh\nGiriş: TYPE-C / Micro (5V-2A)\nÇıxış: 2xUSB (5V-2A)",
+                "images": [
+                    {
+                        "source": "101749-5a8de68f6d8251d92e3e3546ac55d619.jpeg"
+                    },
+                    {
+                        "source": "101749-185e9d2f9054a15cd996b5334107f468.jpeg"
+                    },
+                    {
+                        "source": "101749-f32dcd12856d9f992640cd6e676dd76d.jpg"
+                    }
+                ],
+                "route": "/az/products/powerbank-remax-rpp259-20000mah-101749",
+                "image": "101749-5a8de68f6d8251d92e3e3546ac55d619.jpeg",
+                "discount": 0,
+                "mannequins": "",
+                "outfit": "101749-185e9d2f9054a15cd996b5334107f468.jpeg",
+                "qty": 10,
+                "specialDiscount": false,
+                "faq": [],
+                "bestSeller": true,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Powerbanklar",
+                        "id": 2
+                    },
+                    {
+                        "title": "Poverbanklar",
+                        "id": 55
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "remax",
+                    "title": "Remax",
+                    "titleIndex": "A23A05A18A00A11",
+                    "route": "/az/brands/remax",
+                    "id": 23
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101749
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 13.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Holder Air Joyroom JR-ZS205 maqnetik",
+                "desc": "360 dərəcə fırlanma\nMöhkəm telefon tutuşu, sabit və təhlükəsizdir\nNövü: Keçirməli",
+                "images": [
+                    {
+                        "source": "101622-lS2H2Vpsck6wDE6u.jpg"
+                    },
+                    {
+                        "source": "101622-c8b605c08af7d5d1ace3a75e9c6859da.jpg"
+                    }
+                ],
+                "route": "/az/products/holder-air-joyroom-jr-zs205-maqnetik-101622",
+                "image": "101622-lS2H2Vpsck6wDE6u.jpg",
+                "discount": 0,
+                "mannequins": "",
+                "outfit": "",
+                "qty": 10,
+                "specialDiscount": false,
+                "faq": [],
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Holderlər",
+                        "id": 22
+                    },
+                    {
+                        "title": "Holderlər",
+                        "id": 35
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101622
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 76.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom 7in1 H112 usb adapter",
+                "desc": "7-si 1-ində usb şunur adapter\n6 girişli USB adapter\nSD kart girişli",
+                "images": [
+                    {
+                        "source": "101586-6SQ5AurvTb9AXk0j.jpg"
+                    },
+                    {
+                        "source": "101586-dbb29c082c9137c728e18af8cb0ff48f.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-7in1-h112-usb-adapter-101586",
+                "image": "101586-6SQ5AurvTb9AXk0j.jpg",
+                "discount": 0,
+                "mannequins": "",
+                "outfit": "101586-dbb29c082c9137c728e18af8cb0ff48f.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "faq": [],
+                "bestSeller": true,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "USB naqillər",
+                        "id": 33
+                    },
+                    {
+                        "title": "USB Naqillər",
+                        "id": 53
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101586
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 18.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Qulaqlıq Pro 12 Qara",
+                "desc": "Pro 12 Qulaqlıq\nBluetooth bağlantılı\nNövü - Qulaq içi",
+                "images": [
+                    {
+                        "source": "101513-b5413a8f2b3a2bb2b4f1d20e2ce107d9.jpg"
+                    },
+                    {
+                        "source": "101513-huAcUqF3QGZUwsnK.jpg"
+                    }
+                ],
+                "route": "/az/products/qulaqliq-pro-12-qara-101513",
+                "image": "101513-b5413a8f2b3a2bb2b4f1d20e2ce107d9.jpg",
+                "discount": 0,
+                "mannequins": "",
+                "outfit": "101513-huAcUqF3QGZUwsnK.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "faq": [],
+                "bestSeller": true,
+                "imageWithPad": false,
+                "outfitWithPad": true,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Qulaqlıqlar",
+                        "id": 10
+                    },
+                    {
+                        "title": "Qulaqlıqlar",
+                        "id": 32
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101513
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 17.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Mikrofon Joyroom JR-LM1",
+                "desc": "",
+                "images": [
+                    {
+                        "source": "101502-t8IV5lLwzHhO1KMZ.jpg"
+                    },
+                    {
+                        "source": "101502-f7517cea84ebade60147720046d52ff1.jpg"
+                    }
+                ],
+                "route": "/az/products/mikrofon-joyroom-jr-lm1-101502",
+                "image": "101502-t8IV5lLwzHhO1KMZ.jpg",
+                "discount": 0,
+                "mannequins": "",
+                "outfit": "101502-f7517cea84ebade60147720046d52ff1.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "faq": [],
+                "bestSeller": true,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Mikrofonlar",
+                        "id": 29
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101502
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 40,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "UN-700 10\" Ştativli Led İşıq - 26sm",
+                "desc": "Tripodun hündürlüyü: 2,1 m-ə qədər\nTelefon tutucu diapazonu: 60-85 mm\nCərəyan gücü: 5V",
+                "images": [
+                    {
+                        "source": "101485-qwkLPSVgtRGXZLYB.jpg"
+                    },
+                    {
+                        "source": "101485-ea76e752831b6058a0b9818d1db6e47c.jpg"
+                    }
+                ],
+                "route": "/az/products/un-700-10-tativli-led-iq---26sm-101485",
+                "image": "101485-qwkLPSVgtRGXZLYB.jpg",
+                "discount": 0,
+                "mannequins": "",
+                "outfit": "101485-ea76e752831b6058a0b9818d1db6e47c.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "faq": [],
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "LED işıqlar",
+                        "id": 48
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101485
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 19.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Samsung 25W USB-C Adapter Black",
+                "desc": "",
+                "images": [
+                    {
+                        "source": "101460-iObYay1cle6QFWXJ.jpg"
+                    },
+                    {
+                        "source": "101460-aecb13acab4b21b3416795cc9ff43c5f.jpg"
+                    }
+                ],
+                "route": "/az/products/samsung-25w-usb-c-adapter-black-101460",
+                "image": "101460-iObYay1cle6QFWXJ.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101460-aecb13acab4b21b3416795cc9ff43c5f.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Adapterlər",
+                        "id": 23
+                    },
+                    {
+                        "title": "Adapter",
+                        "id": 54
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "samasung-a-klass",
+                    "title": "Samsung klas",
+                    "titleIndex": "A24A00A18A24A27A19A08 A15A17A00A24",
+                    "route": "/az/brands/samasung-a-klass",
+                    "id": 13
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101460
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 12.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom JR-C08 Dual Ports Car Charger + TYPE-C USB Black",
+                "desc": "",
+                "images": [
+                    {
+                        "source": "101364-n3UBbLLMv2grWAeM.jpg"
+                    },
+                    {
+                        "source": "101364-15735678fff7eddf659135cd73d9e95b.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-jr-c08-dual-ports-car-charger-+-type-c-usb-black-101364",
+                "image": "101364-n3UBbLLMv2grWAeM.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101364-15735678fff7eddf659135cd73d9e95b.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Avtomobil Adapterləri",
+                        "id": 36
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101364
+            },
+            {
+                "newIn": false,
                 "monoBrand": false,
                 "price": 12.9,
                 "priceOld": 0,
@@ -4120,6 +4935,880 @@
                 "badges": [],
                 "giftProducts": [],
                 "id": 101363
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 12.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom JR-C08 Dual Ports Car Charger + TYPE-C USB Gray",
+                "desc": "Joyroom JR-C08 Dual Ports Car Charger + Micro USB Gray",
+                "images": [
+                    {
+                        "source": "101362-0SEiAynCRWBocU1g.jpg"
+                    },
+                    {
+                        "source": "101362-ce8b3e4075b2e8fd429e2dbd53a09650.jpg"
+                    },
+                    {
+                        "source": "101362-130bb25f63c957972330e024a91a0139.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-jr-c08-dual-ports-car-charger-+-type-c-usb-gray-101362",
+                "image": "101362-0SEiAynCRWBocU1g.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101362-ce8b3e4075b2e8fd429e2dbd53a09650.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Avtomobil Adapterləri",
+                        "id": 36
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101362
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 12.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom JR-C08 Dual Ports Car Charger + Micro USB Gray",
+                "desc": "Joyroom JR-C08 Dual Ports Car Charger + Micro USB Gray",
+                "images": [
+                    {
+                        "source": "101361-lsRMMXFAVY1YSMBz.jpg"
+                    },
+                    {
+                        "source": "101361-ee31a86b94183ef183697d36600dcbb9.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-jr-c08-dual-ports-car-charger-+-micro-usb-gray-101361",
+                "image": "101361-lsRMMXFAVY1YSMBz.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101361-ee31a86b94183ef183697d36600dcbb9.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Avtomobil Adapterləri",
+                        "id": 36
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101361
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 19,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Oyun qulaqlığı SEZ-881",
+                "desc": "Bluetooth bağlantılı\nNövü - Oyun qulaqlığı\nİşləmə tezliyi : 20Hz-20kHz",
+                "images": [
+                    {
+                        "source": "101341-Jc3cSGqnOnXC99SX.jpg"
+                    },
+                    {
+                        "source": "101341-ff4d9c78c9fa48c1c703f5dc6b35d21e.jpeg"
+                    }
+                ],
+                "route": "/az/products/oyun-qulaqligi-sez-881-101341",
+                "image": "101341-Jc3cSGqnOnXC99SX.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101341-ff4d9c78c9fa48c1c703f5dc6b35d21e.jpeg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101341
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 29.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "FM modulyator Joyroom JR-CL02",
+                "desc": "Joyroom JR-CL02 FM Modulyator\nFM işləmə tezliyi: 87.5-108MHz",
+                "images": [
+                    {
+                        "source": "101340-gmOKqBPwsB1WycCA.jpg"
+                    },
+                    {
+                        "source": "101340-6729df8878c57cc5bc8dd3cb0fea2cad.jpg"
+                    },
+                    {
+                        "source": "101340-f3c24ac1d588716d5737c51e23fc3930.jpg"
+                    }
+                ],
+                "route": "/az/products/fm-modulyator-joyroom-jr-cl02-101340",
+                "image": "101340-gmOKqBPwsB1WycCA.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101340-6729df8878c57cc5bc8dd3cb0fea2cad.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "FM Modulyatorlar",
+                        "id": 25
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101340
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 15,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "AnyCast M4 Plus Wireless HDMI",
+                "desc": "",
+                "images": [
+                    {
+                        "source": "101318-YUiCVSr1t3fJu68A.jpg"
+                    },
+                    {
+                        "source": "101318-2d3b7da66a3d7499a23b75aa01073e76.jpg"
+                    }
+                ],
+                "route": "/az/products/anycast-m4-plus-wireless-hdmi-101318",
+                "image": "101318-YUiCVSr1t3fJu68A.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101318-2d3b7da66a3d7499a23b75aa01073e76.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "TV Boxlar",
+                        "id": 30
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101318
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 7.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom C-M216 Dual Ports Car Charger + Micro Cable Black",
+                "desc": "Joyroom C-M216 Dual Ports Car Charger + Micro Cable Black",
+                "images": [
+                    {
+                        "source": "101317-MMYp7hTA5Fse9vsl.jpg"
+                    },
+                    {
+                        "source": "101317-53b7f939f5f319ecfbadfdf4e48c115f.jpg"
+                    },
+                    {
+                        "source": "101317-f26abe0658a77ba26d282c4c96730940.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-c-m216-dual-ports-car-charger-+-micro-cable-black-101317",
+                "image": "101317-MMYp7hTA5Fse9vsl.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101317-53b7f939f5f319ecfbadfdf4e48c115f.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Avtomobil Adapterləri",
+                        "id": 36
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101317
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 16.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Qulaqlıq Abingo S500i",
+                "desc": "Abingo S500i Qulaqlıq\nSimli bağlantı\nNövü - Qulaq içi",
+                "images": [
+                    {
+                        "source": "101303-yg11TZhlGQkyFTJ7.jpg"
+                    },
+                    {
+                        "source": "101303-ca9ec5992eb4de55c39c92acc53e7542.jpg"
+                    }
+                ],
+                "route": "/az/products/qulaqliq-abingo-s500i-101303",
+                "image": "101303-yg11TZhlGQkyFTJ7.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101303-ca9ec5992eb4de55c39c92acc53e7542.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Qulaqlıqlar",
+                        "id": 10
+                    },
+                    {
+                        "title": "Qulaqlıqlar",
+                        "id": 32
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101303
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 19,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "AKZ GM-005 Gaming Headset",
+                "desc": "Qulaq üzəri\nOyun üçün ideal\nYüksək səs keyfiyyəti",
+                "images": [
+                    {
+                        "source": "101262-0VCQH14C1WCBfTcP.jpg"
+                    },
+                    {
+                        "source": "101262-966b2b9c574bdf1d2b3a83341fe5aaa7.jpg"
+                    },
+                    {
+                        "source": "101262-500a76df71bcb421c3e50e72c7e0017d.jpg"
+                    },
+                    {
+                        "source": "101262-db62239a76d1a0ac35c7bdc6fdfd3b73.jpg"
+                    }
+                ],
+                "route": "/az/products/akz-gm-005-gaming-headset-101262",
+                "image": "101262-0VCQH14C1WCBfTcP.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101262
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 6.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom S-1021X1 Lightning maqnitli naqil",
+                "desc": "Joyroom S-1021X1 lightning maqnitli",
+                "images": [
+                    {
+                        "source": "101204-dkM4GkA4JaFcwyn5.jpg"
+                    },
+                    {
+                        "source": "101204-7e03edc80fe70a29370e41bb75dad8ef.jpg"
+                    },
+                    {
+                        "source": "101204-b1e8c0f937ee2116eb6f7c7b7a5737da.jpg"
+                    },
+                    {
+                        "source": "101204-0df34980c886e8b90571660503cbeca9.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-s-1021x1-lightning-maqnitli-naqil-101204",
+                "image": "101204-dkM4GkA4JaFcwyn5.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101204-7e03edc80fe70a29370e41bb75dad8ef.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "USB naqillər",
+                        "id": 33
+                    },
+                    {
+                        "title": "USB Naqillər",
+                        "id": 53
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101204
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 59.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Powerbank Redmi 20000mAh (PB200LZM)",
+                "desc": "Litium-polimer tipli uzunömürlü batareya\n2 USB çıxışı mövcuddur\nŞarj ömrünü göstərən led işıqlar",
+                "images": [
+                    {
+                        "source": "101166-FkjyEtDOcSwlhU5z.jpg"
+                    },
+                    {
+                        "source": "101166-5da66e3caddb4e594033e075f02b84e6.jpg"
+                    },
+                    {
+                        "source": "101166-fa9731ce3cdafcdec45d9c978414f49c.jpg"
+                    }
+                ],
+                "route": "/az/products/powerbank-redmi-20000mah-pb200lzm-101166",
+                "image": "101166-FkjyEtDOcSwlhU5z.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101166-5da66e3caddb4e594033e075f02b84e6.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Powerbanklar",
+                        "id": 2
+                    },
+                    {
+                        "title": "Poverbanklar",
+                        "id": 55
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "xiaomi",
+                    "title": "Xiaomi",
+                    "titleIndex": "A11A13A00A20A18A13",
+                    "route": "/az/brands/xiaomi",
+                    "id": 3
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101166
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 39.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom D-M218 Ultra-thin 10000mAh Power Bank white",
+                "desc": "10000mAh Litium-polimer batareya növü\nBatareya ömrünü göstərən led panel\n2x USB çıxışı mövcuddur",
+                "images": [
+                    {
+                        "source": "101161-a337afa2899a2416c0162e004c09445a.jpg"
+                    },
+                    {
+                        "source": "101161-MYJwJm2wz9AzwGqG.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-d-m218-ultra-thin-10000mah-power-bank-white-101161",
+                "image": "101161-a337afa2899a2416c0162e004c09445a.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101161-MYJwJm2wz9AzwGqG.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": false,
+                "outfitWithPad": true,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Powerbanklar",
+                        "id": 2
+                    },
+                    {
+                        "title": "Poverbanklar",
+                        "id": 55
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101161
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 19.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Kin Vale KV-V77 10000mAh Power Bank ağ",
+                "desc": "",
+                "images": [
+                    {
+                        "source": "101157-69c3ce036658c906affed3eb4de3c7de.jpg"
+                    },
+                    {
+                        "source": "101157-4y3A9wl4SQQ646Tn.jpg"
+                    }
+                ],
+                "route": "/az/products/kin-vale-kv-v77-10000mah-power-bank-a-101157",
+                "image": "101157-69c3ce036658c906affed3eb4de3c7de.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101157-4y3A9wl4SQQ646Tn.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Powerbanklar",
+                        "id": 2
+                    },
+                    {
+                        "title": "Poverbanklar",
+                        "id": 55
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "superfon-mehsullari",
+                    "title": "PRC",
+                    "titleIndex": "A22A23A02",
+                    "route": "/az/brands/superfon-mehsullari",
+                    "id": 17
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101157
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 12.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom S-Y104 AUDIO 3.5mm to Lightning ötürücü",
+                "desc": "Sürətli enerji yığma\nOrijinal səslə dinləmək",
+                "images": [
+                    {
+                        "source": "101156-pW1Hez4UjRE0jGjs.jpg"
+                    },
+                    {
+                        "source": "101156-3782b489561bfcb3751c1f33f3ef7bdd.jpg"
+                    },
+                    {
+                        "source": "101156-51143ad1e70b3a71623716e3381b183e.jpg"
+                    },
+                    {
+                        "source": "101156-54423263c05f3245ce35b83b827af09f.jpg"
+                    },
+                    {
+                        "source": "101156-4bdf546f4fa25090a10fda4e1215689d.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-s-y104-audio-35mm-to-lightning-trc-101156",
+                "image": "101156-pW1Hez4UjRE0jGjs.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101156-3782b489561bfcb3751c1f33f3ef7bdd.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "USB naqillər",
+                        "id": 33
+                    },
+                    {
+                        "title": "USB Naqillər",
+                        "id": 53
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101156
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 9.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom S-Y104 Apple Dual Lightning ötürücü",
+                "desc": "Joyroom S-Y104 Apple Dual Lightning &ouml;t&uuml;r&uuml;c&uuml;&nbsp;",
+                "images": [
+                    {
+                        "source": "101155-5VY9zsh7Gv7JviEt.jpg"
+                    },
+                    {
+                        "source": "101155-88036e4967043e8b438cba39b3f406be.jpg"
+                    },
+                    {
+                        "source": "101155-3d84d8f285723211a279c41aa298da5c.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-s-y104-apple-dual-lightning-oturucu-101155",
+                "image": "101155-5VY9zsh7Gv7JviEt.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101155-88036e4967043e8b438cba39b3f406be.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "USB naqillər",
+                        "id": 33
+                    },
+                    {
+                        "title": "USB Naqillər",
+                        "id": 53
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101155
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 42.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom JR-ZS212 Holder with Wireless Charger",
+                "desc": "Müasir və erqonomik dizayn\nQI texnologiyalı simsiz 15W sürətli enerji\nSabit və güclü telefon tutma dəstəyi",
+                "images": [
+                    {
+                        "source": "101142-bHWWrg5AgSdO6OOc.jpg"
+                    },
+                    {
+                        "source": "101142-db1c3a8d14c7aa6a26a548760308ac60.jpg"
+                    },
+                    {
+                        "source": "101142-b04e7769cdb6e8daeb232f4c7c569c4b.jpg"
+                    },
+                    {
+                        "source": "101142-28db257edb0c1a6b6d0b8b1b0a013495.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-jr-zs212-holder-with-wireless-charger-101142",
+                "image": "101142-bHWWrg5AgSdO6OOc.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101142-db1c3a8d14c7aa6a26a548760308ac60.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Holderlər",
+                        "id": 22
+                    },
+                    {
+                        "title": "Holderlər",
+                        "id": 35
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101142
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 8.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom JR-ZS202 holder",
+                "desc": "Joyroom JR-ZS202 Holder",
+                "images": [
+                    {
+                        "source": "101141-XgsIQjr2a3PfCxC5.jpg"
+                    },
+                    {
+                        "source": "101141-7cef60f609011f53383c849ab2281858.jpg"
+                    },
+                    {
+                        "source": "101141-2852056590f47e7fa3d48fc1d8920a69.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-jr-zs202-holder-101141",
+                "image": "101141-XgsIQjr2a3PfCxC5.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101141-7cef60f609011f53383c849ab2281858.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Holderlər",
+                        "id": 22
+                    },
+                    {
+                        "title": "Holderlər",
+                        "id": 35
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101141
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 14.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom JR-ZS198 dashboard holder",
+                "desc": "",
+                "images": [
+                    {
+                        "source": "101139-UOFUd2GI6JyGTnMC.jpg"
+                    },
+                    {
+                        "source": "101139-8c7c184a2fb5f778bebf9d1abd5a9c71.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-jr-zs198-dashboard-holder-101139",
+                "image": "101139-UOFUd2GI6JyGTnMC.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101139-8c7c184a2fb5f778bebf9d1abd5a9c71.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Holderlər",
+                        "id": 22
+                    },
+                    {
+                        "title": "Holderlər",
+                        "id": 35
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101139
             },
             {
                 "newIn": false,
@@ -4229,82 +5918,31 @@
             {
                 "newIn": false,
                 "monoBrand": false,
-                "price": 29.9,
+                "price": 11.9,
                 "priceOld": 0,
                 "priceInStore": false,
-                "title": "Powerbank Remax RPP259 20000mAh",
-                "desc": "Tutum: 20000mAh\nGiriş: TYPE-C / Micro (5V-2A)\nÇıxış: 2xUSB (5V-2A)",
+                "title": "Joyroom JR-OK2 holder",
+                "desc": "Qabaq ş&uuml;şə və panel &uuml;&ccedil;&uuml;n uyğndur360 dərəcə fırlanmaTəkəlli istifadə imkanı",
                 "images": [
                     {
-                        "source": "101749-5a8de68f6d8251d92e3e3546ac55d619.jpeg"
+                        "source": "101135-pZgiYfWiC9kgcvyF.jpg"
                     },
                     {
-                        "source": "101749-185e9d2f9054a15cd996b5334107f468.jpeg"
+                        "source": "101135-199be611ba802f5a98338d4bc81ba994.jpg"
                     },
                     {
-                        "source": "101749-f32dcd12856d9f992640cd6e676dd76d.jpg"
+                        "source": "101135-38a42e87fe7541cff5ee19acba9c483e.jpg"
                     }
                 ],
-                "route": "/az/products/powerbank-remax-rpp259-20000mah-101749",
-                "image": "101749-5a8de68f6d8251d92e3e3546ac55d619.jpeg",
-                "discount": 0,
-                "mannequins": "",
-                "outfit": "101749-185e9d2f9054a15cd996b5334107f468.jpeg",
-                "qty": 10,
-                "specialDiscount": false,
-                "faq": [],
-                "bestSeller": true,
-                "imageWithPad": false,
-                "outfitWithPad": false,
-                "cashDiscount": 0,
-                "orangeStar": false,
-                "categories": [
-                    {
-                        "title": "Powerbanklar",
-                        "id": 2
-                    },
-                    {
-                        "title": "Poverbanklar",
-                        "id": 55
-                    }
-                ],
-                "brand": {
-                    "status": "on",
-                    "name": "remax",
-                    "title": "Remax",
-                    "titleIndex": "A23A05A18A00A11",
-                    "route": "/az/brands/remax",
-                    "id": 23
-                },
-                "badges": [],
-                "giftProducts": [],
-                "id": 101749
-            },
-            {
-                "newIn": false,
-                "bestSeller": true,
-                "monoBrand": false,
-                "price": 17.9,
-                "priceOld": 0,
-                "priceInStore": false,
-                "specialDiscount": false,
-                "title": "Holder Joyroom ZS255 yapışan",
-                "desc": "4,7-6,5 düymlük telefon ölçüsünə uyğundur\nKompakt və yığcam ölçü\nSabit və möhkəm telefon tutuşu",
-                "qty": 10,
-                "image": "101866-ba398a16dbe2ff788ca3f47d1800d884.jpg",
-                "outfit": "",
-                "mannequins": "",
-                "images": [
-                    {
-                        "source": "101866-ba398a16dbe2ff788ca3f47d1800d884.jpg"
-                    },
-                    {
-                        "source": "101866-522b8c1f3e1bee75934047746bdfcd65.jpg"
-                    }
-                ],
+                "route": "/az/products/joyroom-jr-ok2-holder-101135",
+                "image": "101135-pZgiYfWiC9kgcvyF.jpg",
                 "discount": 0,
                 "faq": [],
-                "route": "/az/products/holder-joyroom-zs255-yapisan-101866",
+                "mannequins": "",
+                "outfit": "101135-199be611ba802f5a98338d4bc81ba994.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
                 "imageWithPad": true,
                 "outfitWithPad": false,
                 "cashDiscount": 0,
@@ -4329,7 +5967,58 @@
                 },
                 "badges": [],
                 "giftProducts": [],
-                "id": 101866
+                "id": 101135
+            },
+            {
+                "newIn": false,
+                "monoBrand": false,
+                "price": 8.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "title": "Joyroom JR-OK1 holder",
+                "desc": "",
+                "images": [
+                    {
+                        "source": "101134-g9PHzkNE5bJX1GWW.jpg"
+                    },
+                    {
+                        "source": "101134-28318796fdb00e000b591956dde838ec.jpg"
+                    }
+                ],
+                "route": "/az/products/joyroom-jr-ok1-holder-101134",
+                "image": "101134-g9PHzkNE5bJX1GWW.jpg",
+                "discount": 0,
+                "faq": [],
+                "mannequins": "",
+                "outfit": "101134-28318796fdb00e000b591956dde838ec.jpg",
+                "qty": 10,
+                "specialDiscount": false,
+                "bestSeller": true,
+                "imageWithPad": true,
+                "outfitWithPad": false,
+                "cashDiscount": 0,
+                "orangeStar": false,
+                "categories": [
+                    {
+                        "title": "Holderlər",
+                        "id": 22
+                    },
+                    {
+                        "title": "Holderlər",
+                        "id": 35
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "joyroom",
+                    "title": "Joyroom",
+                    "titleIndex": "A14A20A30A23A20A20A18",
+                    "route": "/az/brands/joyroom",
+                    "id": 4
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 101134
             },
             {
                 "newIn": false,
@@ -4337,32 +6026,23 @@
                 "price": 6.9,
                 "priceOld": 0,
                 "priceInStore": false,
-                "title": "Joyroom S-1021X1 Lightning maqnitli naqil",
-                "desc": "Joyroom S-1021X1 lightning maqnitli",
+                "title": "Naqil Joyroom S-M412 Type-C to Type-C white",
+                "desc": "Kabel uzunluğu 1 m\n60w enerji ötürmə\nType-C to type-C",
                 "images": [
                     {
-                        "source": "101204-dkM4GkA4JaFcwyn5.jpg"
-                    },
-                    {
-                        "source": "101204-7e03edc80fe70a29370e41bb75dad8ef.jpg"
-                    },
-                    {
-                        "source": "101204-b1e8c0f937ee2116eb6f7c7b7a5737da.jpg"
-                    },
-                    {
-                        "source": "101204-0df34980c886e8b90571660503cbeca9.jpg"
+                        "source": "101113-3c751e92d1f5a7b588d97dcee96e35ea.jpg"
                     }
                 ],
-                "route": "/az/products/joyroom-s-1021x1-lightning-maqnitli-naqil-101204",
-                "image": "101204-dkM4GkA4JaFcwyn5.jpg",
+                "route": "/az/products/joyroom-s-m412-type-c-to-type-c-ag-naqil-101113",
+                "image": "101113-3c751e92d1f5a7b588d97dcee96e35ea.jpg",
                 "discount": 0,
                 "faq": [],
                 "mannequins": "",
-                "outfit": "101204-7e03edc80fe70a29370e41bb75dad8ef.jpg",
+                "outfit": "",
                 "qty": 10,
                 "specialDiscount": false,
                 "bestSeller": true,
-                "imageWithPad": true,
+                "imageWithPad": false,
                 "outfitWithPad": false,
                 "cashDiscount": 0,
                 "orangeStar": false,
@@ -4386,7 +6066,7 @@
                 },
                 "badges": [],
                 "giftProducts": [],
-                "id": 101204
+                "id": 101113
             },
             {
                 "newIn": false,
@@ -4441,311 +6121,10 @@
                 "badges": [],
                 "giftProducts": [],
                 "id": 101073
-            },
-            {
-                "newIn": false,
-                "bestSeller": true,
-                "monoBrand": false,
-                "price": 11.9,
-                "priceOld": 0,
-                "priceInStore": false,
-                "specialDiscount": false,
-                "title": "Stilus qələm Joyroom DR01",
-                "desc": "Silikon ucluqları sayəsində cihazınızı cızmayacaq\nRəsm və yazma üçün uyğun",
-                "qty": 10,
-                "image": "101868-7b61258fd731d40f49132239c99ac453.jpg",
-                "outfit": "101868-32a61bade041c16e5caef75466ef6c32.jpg",
-                "mannequins": "",
-                "images": [
-                    {
-                        "source": "101868-7b61258fd731d40f49132239c99ac453.jpg"
-                    },
-                    {
-                        "source": "101868-32a61bade041c16e5caef75466ef6c32.jpg"
-                    },
-                    {
-                        "source": "101868-a67ecfccdacabaf81c4d0a06ef65b813.jpg"
-                    },
-                    {
-                        "source": "101868-7aa541bbe6564d315ce6349247bf3c0e.jpg"
-                    },
-                    {
-                        "source": "101868-5f5ee6d6de42e87825407f7097b258e7.jpg"
-                    },
-                    {
-                        "source": "101868-dc118eb6711c5d14ca5618f4fe93d5c2.jpg"
-                    }
-                ],
-                "discount": 0,
-                "faq": [],
-                "route": "/az/products/stilus-qelem-joyroom-dr01-101868",
-                "imageWithPad": false,
-                "outfitWithPad": false,
-                "cashDiscount": 0,
-                "orangeStar": false,
-                "categories": [],
-                "brand": {
-                    "status": "on",
-                    "name": "joyroom",
-                    "title": "Joyroom",
-                    "titleIndex": "A14A20A30A23A20A20A18",
-                    "route": "/az/brands/joyroom",
-                    "id": 4
-                },
-                "badges": [],
-                "giftProducts": [],
-                "id": 101868
-            },
-            {
-                "newIn": false,
-                "monoBrand": false,
-                "price": 18.9,
-                "priceOld": 0,
-                "priceInStore": false,
-                "title": "Qulaqlıq Pro 12 Qara",
-                "desc": "Pro 12 Qulaqlıq\nBluetooth bağlantılı\nNövü - Qulaq içi",
-                "images": [
-                    {
-                        "source": "101513-b5413a8f2b3a2bb2b4f1d20e2ce107d9.jpg"
-                    },
-                    {
-                        "source": "101513-huAcUqF3QGZUwsnK.jpg"
-                    }
-                ],
-                "route": "/az/products/qulaqliq-pro-12-qara-101513",
-                "image": "101513-b5413a8f2b3a2bb2b4f1d20e2ce107d9.jpg",
-                "discount": 0,
-                "mannequins": "",
-                "outfit": "101513-huAcUqF3QGZUwsnK.jpg",
-                "qty": 10,
-                "specialDiscount": false,
-                "faq": [],
-                "bestSeller": true,
-                "imageWithPad": false,
-                "outfitWithPad": true,
-                "cashDiscount": 0,
-                "orangeStar": false,
-                "categories": [
-                    {
-                        "title": "Qulaqlıqlar",
-                        "id": 10
-                    },
-                    {
-                        "title": "Qulaqlıqlar",
-                        "id": 32
-                    }
-                ],
-                "brand": {
-                    "status": "on",
-                    "name": "superfon-mehsullari",
-                    "title": "PRC",
-                    "titleIndex": "A22A23A02",
-                    "route": "/az/brands/superfon-mehsullari",
-                    "id": 17
-                },
-                "badges": [],
-                "giftProducts": [],
-                "id": 101513
-            },
-            {
-                "newIn": false,
-                "monoBrand": false,
-                "price": 15,
-                "priceOld": 0,
-                "priceInStore": false,
-                "title": "AnyCast M4 Plus Wireless HDMI",
-                "desc": "",
-                "images": [
-                    {
-                        "source": "101318-YUiCVSr1t3fJu68A.jpg"
-                    },
-                    {
-                        "source": "101318-2d3b7da66a3d7499a23b75aa01073e76.jpg"
-                    }
-                ],
-                "route": "/az/products/anycast-m4-plus-wireless-hdmi-101318",
-                "image": "101318-YUiCVSr1t3fJu68A.jpg",
-                "discount": 0,
-                "faq": [],
-                "mannequins": "",
-                "outfit": "101318-2d3b7da66a3d7499a23b75aa01073e76.jpg",
-                "qty": 10,
-                "specialDiscount": false,
-                "bestSeller": true,
-                "imageWithPad": false,
-                "outfitWithPad": false,
-                "cashDiscount": 0,
-                "orangeStar": false,
-                "categories": [
-                    {
-                        "title": "TV Boxlar",
-                        "id": 30
-                    }
-                ],
-                "brand": {
-                    "status": "on",
-                    "name": "superfon-mehsullari",
-                    "title": "PRC",
-                    "titleIndex": "A22A23A02",
-                    "route": "/az/brands/superfon-mehsullari",
-                    "id": 17
-                },
-                "badges": [],
-                "giftProducts": [],
-                "id": 101318
-            },
-            {
-                "newIn": false,
-                "bestSeller": true,
-                "monoBrand": false,
-                "price": 29.9,
-                "priceOld": 0,
-                "priceInStore": false,
-                "specialDiscount": false,
-                "imageWithPad": false,
-                "outfitWithPad": false,
-                "route": "/az/products/powerbank-joyroom-t012-10000-mah-101869-102444",
-                "title": "Powerbank Joyroom T012 10000 mAh",
-                "desc": "LED işıqlar göstəricisi\nYüksək keyfiyyətli ABS və plastik material\n2 USB çıxışı mövcuddur",
-                "qty": 10,
-                "outfit": "",
-                "mannequins": "",
-                "discount": 0,
-                "faq": [],
-                "images": [
-                    {
-                        "source": "102444-1809f0375ac5752fee411f38f80171d9.jpg"
-                    }
-                ],
-                "image": "102444-1809f0375ac5752fee411f38f80171d9.jpg",
-                "cashDiscount": 0,
-                "orangeStar": false,
-                "categories": [
-                    {
-                        "title": "Powerbanklar",
-                        "id": 2
-                    },
-                    {
-                        "title": "Poverbanklar",
-                        "id": 55
-                    }
-                ],
-                "brand": {
-                    "status": "on",
-                    "name": "joyroom",
-                    "title": "Joyroom",
-                    "titleIndex": "A14A20A30A23A20A20A18",
-                    "route": "/az/brands/joyroom",
-                    "id": 4
-                },
-                "badges": [],
-                "giftProducts": [],
-                "id": 102444
-            },
-            {
-                "newIn": false,
-                "monoBrand": false,
-                "price": 14.9,
-                "priceOld": 0,
-                "priceInStore": false,
-                "title": "Joyroom JR-ZS198 dashboard holder",
-                "desc": "",
-                "images": [
-                    {
-                        "source": "101139-UOFUd2GI6JyGTnMC.jpg"
-                    },
-                    {
-                        "source": "101139-8c7c184a2fb5f778bebf9d1abd5a9c71.jpg"
-                    }
-                ],
-                "route": "/az/products/joyroom-jr-zs198-dashboard-holder-101139",
-                "image": "101139-UOFUd2GI6JyGTnMC.jpg",
-                "discount": 0,
-                "faq": [],
-                "mannequins": "",
-                "outfit": "101139-8c7c184a2fb5f778bebf9d1abd5a9c71.jpg",
-                "qty": 10,
-                "specialDiscount": false,
-                "bestSeller": true,
-                "imageWithPad": true,
-                "outfitWithPad": false,
-                "cashDiscount": 0,
-                "orangeStar": false,
-                "categories": [
-                    {
-                        "title": "Holderlər",
-                        "id": 22
-                    },
-                    {
-                        "title": "Holderlər",
-                        "id": 35
-                    }
-                ],
-                "brand": {
-                    "status": "on",
-                    "name": "joyroom",
-                    "title": "Joyroom",
-                    "titleIndex": "A14A20A30A23A20A20A18",
-                    "route": "/az/brands/joyroom",
-                    "id": 4
-                },
-                "badges": [],
-                "giftProducts": [],
-                "id": 101139
-            },
-            {
-                "newIn": false,
-                "monoBrand": false,
-                "price": 7.9,
-                "priceOld": 0,
-                "priceInStore": false,
-                "title": "Joyroom C-M216 Dual Ports Car Charger + Micro Cable Black",
-                "desc": "Joyroom C-M216 Dual Ports Car Charger + Micro Cable Black",
-                "images": [
-                    {
-                        "source": "101317-MMYp7hTA5Fse9vsl.jpg"
-                    },
-                    {
-                        "source": "101317-53b7f939f5f319ecfbadfdf4e48c115f.jpg"
-                    },
-                    {
-                        "source": "101317-f26abe0658a77ba26d282c4c96730940.jpg"
-                    }
-                ],
-                "route": "/az/products/joyroom-c-m216-dual-ports-car-charger-+-micro-cable-black-101317",
-                "image": "101317-MMYp7hTA5Fse9vsl.jpg",
-                "discount": 0,
-                "faq": [],
-                "mannequins": "",
-                "outfit": "101317-53b7f939f5f319ecfbadfdf4e48c115f.jpg",
-                "qty": 10,
-                "specialDiscount": false,
-                "bestSeller": true,
-                "imageWithPad": true,
-                "outfitWithPad": false,
-                "cashDiscount": 0,
-                "orangeStar": false,
-                "categories": [
-                    {
-                        "title": "Avtomobil Adapterləri",
-                        "id": 36
-                    }
-                ],
-                "brand": {
-                    "status": "on",
-                    "name": "superfon-mehsullari",
-                    "title": "PRC",
-                    "titleIndex": "A22A23A02",
-                    "route": "/az/brands/superfon-mehsullari",
-                    "id": 17
-                },
-                "badges": [],
-                "giftProducts": [],
-                "id": 101317
             }
         ],
         "pagination": {
-            "count": 48,
+            "count": 47,
             "limit": 90,
             "pages": 1,
             "current": 1
@@ -4768,6 +6147,961 @@
             "filter_status": "on",
             "filter_qty": true
         }
+    }
+}
+    ],
+
+    "bestfilter":[
+        {
+    "ok": true,
+    "data": {
+        "filters": {
+            "cats": {
+                "type": "category",
+                "title": "Kateqoriyalar",
+                "items": [
+                    {
+                        "title": "Audio və TV aksesuarlar",
+                        "route": "/az/audio-ve-tv-aksesuarlar",
+                        "id": 5,
+                        "children": [
+                            {
+                                "title": "Audio sistemlər",
+                                "route": "/az/audio-ve-tv-aksesuarlar/audio-sistemler",
+                                "id": 28
+                            },
+                            {
+                                "title": "Ev Kinoteatrı",
+                                "route": "/az/audio-ve-tv-aksesuarlar/ev-kinoteatri",
+                                "id": 52
+                            },
+                            {
+                                "title": "Mikrofonlar",
+                                "route": "/az/audio-ve-tv-aksesuarlar/mikrofonlar",
+                                "id": 29
+                            },
+                            {
+                                "title": "Müşahidə Kameraları",
+                                "route": "/az/audio-ve-tv-aksesuarlar/musahide-kameralari",
+                                "id": 40
+                            },
+                            {
+                                "title": "Radiolar",
+                                "route": "/az/audio-ve-tv-aksesuarlar/radiolar",
+                                "id": 57
+                            },
+                            {
+                                "title": "Səsgücləndiricilər",
+                                "route": "/az/audio-ve-tv-aksesuarlar/sesguclendiriciler",
+                                "id": 27
+                            },
+                            {
+                                "title": "TV Boxlar",
+                                "route": "/az/audio-ve-tv-aksesuarlar/tv-boxlar",
+                                "id": 30
+                            },
+                            {
+                                "title": "TV pult",
+                                "route": "/az/audio-ve-tv-aksesuarlar/tv-pult",
+                                "id": 51
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Avtomobil aksesuarları",
+                        "route": "/az/avtomobil-aksesuarlari",
+                        "id": 4,
+                        "children": [
+                            {
+                                "title": "AUX naqillər",
+                                "route": "/az/avtomobil-aksesuarlari/aux-naqiller",
+                                "id": 24
+                            },
+                            {
+                                "title": "Avtomobil Adapterləri",
+                                "route": "/az/avtomobil-aksesuarlari/avtomobil-adapterleri",
+                                "id": 36
+                            },
+                            {
+                                "title": "Avtomobil tozsoranları",
+                                "route": "/az/avtomobil-aksesuarlari/avtomobil-tozsoranlari",
+                                "id": 110
+                            },
+                            {
+                                "title": "Avtomobil üçün ətir",
+                                "route": "/az/avtomobil-aksesuarlari/avtomobil-ucun-etir",
+                                "id": 108
+                            },
+                            {
+                                "title": "FM Modulyatorlar",
+                                "route": "/az/avtomobil-aksesuarlari/fm-modulyatorlar",
+                                "id": 25
+                            },
+                            {
+                                "title": "Holderlər",
+                                "route": "/az/avtomobil-aksesuarlari/holderler",
+                                "id": 22
+                            },
+                            {
+                                "title": "Video qeydiyyat cihazları",
+                                "route": "/az/avtomobil-aksesuarlari/video-qeydiyyat-cihazlari",
+                                "id": 26
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Digər",
+                        "route": "/az/diger",
+                        "id": 41,
+                        "children": [
+                            {
+                                "title": "Çantalar",
+                                "route": "/az/diger/cantalar",
+                                "id": 43
+                            },
+                            {
+                                "title": "Hava nəmləndiricilər",
+                                "route": "/az/diger/hava-nemlendiriciler",
+                                "id": 42
+                            },
+                            {
+                                "title": "Hovuzlar",
+                                "route": "/az/diger/hovuzlar",
+                                "id": 99
+                            },
+                            {
+                                "title": "LED işıqlar",
+                                "route": "/az/diger/led-isiqlar",
+                                "id": 48
+                            },
+                            {
+                                "title": "Ötürücülər (Perexodnik)",
+                                "route": "/az/diger/oturuculer",
+                                "id": 56
+                            },
+                            {
+                                "title": "Oyun üçün",
+                                "route": "/az/diger/oyun-ucun",
+                                "id": 21
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Elektron vape",
+                        "route": "/az/elektron-vape",
+                        "id": 117
+                    },
+                    {
+                        "title": "Hədiyyə kartları",
+                        "route": "/az/hediyye-kartlari",
+                        "id": 107
+                    },
+                    {
+                        "title": "Kiçik məişət texnikası",
+                        "route": "/az/kicik-meiset-texnikasi",
+                        "id": 67,
+                        "children": [
+                            {
+                                "title": "Bıçaq itiləyən",
+                                "route": "/az/kicik-meiset-texnikasi/bicaq-itileyen",
+                                "id": 69
+                            },
+                            {
+                                "title": "Blender",
+                                "route": "/az/kicik-meiset-texnikasi/blender",
+                                "id": 70
+                            },
+                            {
+                                "title": "Buxarlandırıcı",
+                                "route": "/az/kicik-meiset-texnikasi/buxarlandirici",
+                                "id": 85
+                            },
+                            {
+                                "title": "Buxarlı bişirici",
+                                "route": "/az/kicik-meiset-texnikasi/buxarli-bisirici",
+                                "id": 103
+                            },
+                            {
+                                "title": "Çaydan",
+                                "route": "/az/kicik-meiset-texnikasi/caydan",
+                                "id": 68
+                            },
+                            {
+                                "title": "Doğrayıcı",
+                                "route": "/az/kicik-meiset-texnikasi/dograyici",
+                                "id": 77
+                            },
+                            {
+                                "title": "Duz-istiot dəyirmanı",
+                                "route": "/az/kicik-meiset-texnikasi/duz-istiot-deyirmani",
+                                "id": 84
+                            },
+                            {
+                                "title": "Elektrik diş fırçası",
+                                "route": "/az/kicik-meiset-texnikasi/elektrik-dis-fircasi",
+                                "id": 89
+                            },
+                            {
+                                "title": "Elektrik plitə",
+                                "route": "/az/kicik-meiset-texnikasi/elektrik-plite",
+                                "id": 104
+                            },
+                            {
+                                "title": "Elektrik tava",
+                                "route": "/az/kicik-meiset-texnikasi/elektrik-tava",
+                                "id": 80
+                            },
+                            {
+                                "title": "Elektrikli manqal",
+                                "route": "/az/kicik-meiset-texnikasi/elektrikli-manqal",
+                                "id": 105
+                            },
+                            {
+                                "title": "Epilyator",
+                                "route": "/az/kicik-meiset-texnikasi/epilyator",
+                                "id": 91
+                            },
+                            {
+                                "title": "Ətçəkən",
+                                "route": "/az/kicik-meiset-texnikasi/etceken",
+                                "id": 79
+                            },
+                            {
+                                "title": "Fen",
+                                "route": "/az/kicik-meiset-texnikasi/fen",
+                                "id": 81
+                            },
+                            {
+                                "title": "Fritoz",
+                                "route": "/az/kicik-meiset-texnikasi/fritoz",
+                                "id": 92
+                            },
+                            {
+                                "title": "İsidici ventilyator",
+                                "route": "/az/kicik-meiset-texnikasi/isidici-ventilyator",
+                                "id": 93
+                            },
+                            {
+                                "title": "İzqara",
+                                "route": "/az/kicik-meiset-texnikasi/izqara",
+                                "id": 106
+                            },
+                            {
+                                "title": "Mətbəx maşını",
+                                "route": "/az/kicik-meiset-texnikasi/metbex-masini",
+                                "id": 100
+                            },
+                            {
+                                "title": "Mətbəx tərəzisi",
+                                "route": "/az/kicik-meiset-texnikasi/metbex-terezisi",
+                                "id": 73
+                            },
+                            {
+                                "title": "Meyvə və tərəvəz qurudan",
+                                "route": "/az/kicik-meiset-texnikasi/meyve-ve-terevez-qurudan",
+                                "id": 111
+                            },
+                            {
+                                "title": "Mikrodalğalı soba",
+                                "route": "/az/kicik-meiset-texnikasi/mikrodalgali-soba",
+                                "id": 76
+                            },
+                            {
+                                "title": "Mikser",
+                                "route": "/az/kicik-meiset-texnikasi/mikser",
+                                "id": 74
+                            },
+                            {
+                                "title": "Popkorn bişirici",
+                                "route": "/az/kicik-meiset-texnikasi/popkorn-bisirici",
+                                "id": 112
+                            },
+                            {
+                                "title": "Qəhvəbişirən",
+                                "route": "/az/kicik-meiset-texnikasi/qehvebisiren",
+                                "id": 78
+                            },
+                            {
+                                "title": "Qəhvəüyüdənlər",
+                                "route": "/az/kicik-meiset-texnikasi/qehveuyudenler",
+                                "id": 98
+                            },
+                            {
+                                "title": "Qızdırıcı",
+                                "route": "/az/kicik-meiset-texnikasi/qizdirici",
+                                "id": 90
+                            },
+                            {
+                                "title": "Saç ütüsü",
+                                "route": "/az/kicik-meiset-texnikasi/sac-utusu",
+                                "id": 83
+                            },
+                            {
+                                "title": "Saçqırxan",
+                                "route": "/az/kicik-meiset-texnikasi/sacqirxan",
+                                "id": 87
+                            },
+                            {
+                                "title": "Samovarlar",
+                                "route": "/az/kicik-meiset-texnikasi/samovarlar",
+                                "id": 118
+                            },
+                            {
+                                "title": "Şirəçəkən",
+                                "route": "/az/kicik-meiset-texnikasi/sireceken",
+                                "id": 71
+                            },
+                            {
+                                "title": "Soba",
+                                "route": "/az/kicik-meiset-texnikasi/soba",
+                                "id": 101
+                            },
+                            {
+                                "title": "Tərəzi",
+                                "route": "/az/kicik-meiset-texnikasi/terezi",
+                                "id": 72
+                            },
+                            {
+                                "title": "Termopot",
+                                "route": "/az/kicik-meiset-texnikasi/termopot",
+                                "id": 102
+                            },
+                            {
+                                "title": "Tiftik təmizləyən",
+                                "route": "/az/kicik-meiset-texnikasi/tiftik-temizleyen",
+                                "id": 86
+                            },
+                            {
+                                "title": "Tikiş maşını",
+                                "route": "/az/kicik-meiset-texnikasi/tikis-masini",
+                                "id": 96
+                            },
+                            {
+                                "title": "Toster",
+                                "route": "/az/kicik-meiset-texnikasi/toster",
+                                "id": 75
+                            },
+                            {
+                                "title": "Tozsoran",
+                                "route": "/az/kicik-meiset-texnikasi/tozsoran",
+                                "id": 94
+                            },
+                            {
+                                "title": "Ütü",
+                                "route": "/az/kicik-meiset-texnikasi/utu",
+                                "id": 82
+                            },
+                            {
+                                "title": "Üz təmizləyən masajor",
+                                "route": "/az/kicik-meiset-texnikasi/uz-temizleyen-masajor",
+                                "id": 97
+                            },
+                            {
+                                "title": "Üzqırxan və trimmer",
+                                "route": "/az/kicik-meiset-texnikasi/uzqirxan-ve-trimmer",
+                                "id": 88
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Kompüter Aksesuarları",
+                        "route": "/az/komputer-aksesuarlari",
+                        "id": 44,
+                        "children": [
+                            {
+                                "title": "Klaviaturalar",
+                                "route": "/az/komputer-aksesuarlari/klaviaturalar",
+                                "id": 45
+                            },
+                            {
+                                "title": "Mouse altlığı",
+                                "route": "/az/komputer-aksesuarlari/maus-altligi",
+                                "id": 47
+                            },
+                            {
+                                "title": "Mouse",
+                                "route": "/az/komputer-aksesuarlari/mouselar",
+                                "id": 46
+                            },
+                            {
+                                "title": "Routerlər",
+                                "route": "/az/komputer-aksesuarlari/routerler",
+                                "id": 50
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Mobil Aksesuarlar",
+                        "route": "/az/mobil-aksesuarlar",
+                        "id": 1,
+                        "children": [
+                            {
+                                "title": "Adapterlər",
+                                "route": "/az/mobil-aksesuarlar/adapterler",
+                                "id": 23
+                            },
+                            {
+                                "title": "Ekran qoruyucular",
+                                "route": "/az/mobil-aksesuarlar/ekran-qoruyucular",
+                                "id": 13
+                            },
+                            {
+                                "title": "Holder",
+                                "route": "/az/mobil-aksesuarlar/holderler",
+                                "id": 66
+                            },
+                            {
+                                "title": "Keyslər",
+                                "route": "/az/mobil-aksesuarlar/keysler",
+                                "id": 12
+                            },
+                            {
+                                "title": "Powerbanklar",
+                                "route": "/az/mobil-aksesuarlar/powerbanklar",
+                                "id": 2
+                            },
+                            {
+                                "title": "Qarışıq məhsullar",
+                                "route": "/az/mobil-aksesuarlar/qarisiq-mehsullar",
+                                "id": 14
+                            },
+                            {
+                                "title": "Qulaqlıqlar",
+                                "route": "/az/mobil-aksesuarlar/qulaqliqlar",
+                                "id": 10
+                            },
+                            {
+                                "title": "Saat kəmərləri",
+                                "route": "/az/mobil-aksesuarlar/saat-kemerleri",
+                                "id": 39
+                            },
+                            {
+                                "title": "Telefon soyuducular",
+                                "route": "/az/mobil-aksesuarlar/telefon-soyuducular",
+                                "id": 116
+                            },
+                            {
+                                "title": "Tripodlar",
+                                "route": "/az/mobil-aksesuarlar/tripodlar",
+                                "id": 109
+                            },
+                            {
+                                "title": "USB naqillər",
+                                "route": "/az/mobil-aksesuarlar/usb-naqiller",
+                                "id": 33
+                            },
+                            {
+                                "title": "Yaddaş Kartları",
+                                "route": "/az/mobil-aksesuarlar/yaddas-kartlari",
+                                "id": 18
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Saatlar",
+                        "route": "/az/saatlar",
+                        "id": 60,
+                        "children": [
+                            {
+                                "title": "Klassik saatlar",
+                                "route": "/az/saatlar/klassik-saatlar",
+                                "id": 65
+                            },
+                            {
+                                "title": "Smart saatlar",
+                                "route": "/az/saatlar/smart-saatlar",
+                                "id": 11
+                            },
+                            {
+                                "title": "Uşaq üçün smart saatlar",
+                                "route": "/az/saatlar/usaq-ucun-smart-saatlar",
+                                "id": 115
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Telefon və planşetlər",
+                        "route": "/az/telefon-ve-plansetler",
+                        "id": 3,
+                        "children": [
+                            {
+                                "title": "Düyməli telefonlar",
+                                "route": "/az/telefon-ve-plansetler/duymeli-telefonlar",
+                                "id": 7
+                            },
+                            {
+                                "title": "Planşetlər",
+                                "route": "/az/telefon-ve-plansetler/plansetler",
+                                "id": 8
+                            },
+                            {
+                                "title": "Smartfonlar",
+                                "route": "/az/telefon-ve-plansetler/smartfonlar",
+                                "id": 6
+                            }
+                        ]
+                    }
+                ]
+            },
+            "brands": {
+                "type": "checkbox",
+                "title": "Brendlər",
+                "search": true,
+                "scrolled": true,
+                "items": [
+                    {
+                        "title": "Ackiliss",
+                        "total": 15,
+                        "id": 93
+                    },
+                    {
+                        "title": "Akane",
+                        "total": 5,
+                        "id": 92
+                    },
+                    {
+                        "title": "Apple",
+                        "total": 38,
+                        "id": 1
+                    },
+                    {
+                        "title": "Apple klas",
+                        "total": 79,
+                        "id": 11
+                    },
+                    {
+                        "title": "Aprilla",
+                        "total": 17,
+                        "id": 51
+                    },
+                    {
+                        "title": "Arshia",
+                        "total": 2,
+                        "id": 73
+                    },
+                    {
+                        "title": "Aspor",
+                        "total": 37,
+                        "id": 24
+                    },
+                    {
+                        "title": "Blackview",
+                        "total": 2,
+                        "id": 63
+                    },
+                    {
+                        "title": "Blueo",
+                        "total": 17,
+                        "id": 71
+                    },
+                    {
+                        "title": "Carsun",
+                        "total": 3,
+                        "id": 72
+                    },
+                    {
+                        "title": "CASIO",
+                        "total": 55,
+                        "id": 35
+                    },
+                    {
+                        "title": "Celebrat",
+                        "total": 61,
+                        "id": 16
+                    },
+                    {
+                        "title": "Cronier",
+                        "total": 2,
+                        "id": 79
+                    },
+                    {
+                        "title": "CURREN",
+                        "total": 28,
+                        "id": 37
+                    },
+                    {
+                        "title": "DANIEL KLEIN",
+                        "total": 70,
+                        "id": 38
+                    },
+                    {
+                        "title": "Dessini",
+                        "total": 75,
+                        "id": 74
+                    },
+                    {
+                        "title": "Euroacs",
+                        "total": 564,
+                        "id": 30
+                    },
+                    {
+                        "title": "Floria",
+                        "total": 3,
+                        "id": 57
+                    },
+                    {
+                        "title": "Foni",
+                        "total": 50,
+                        "id": 46
+                    },
+                    {
+                        "title": "Genius",
+                        "total": 4,
+                        "id": 15
+                    },
+                    {
+                        "title": "Goldmaster",
+                        "total": 111,
+                        "id": 53
+                    },
+                    {
+                        "title": "Goldstar",
+                        "total": 16,
+                        "id": 54
+                    },
+                    {
+                        "title": "Greatnice",
+                        "total": 3,
+                        "id": 86
+                    },
+                    {
+                        "title": "Honor",
+                        "total": 15,
+                        "id": 10
+                    },
+                    {
+                        "title": "Hopestar",
+                        "total": 9,
+                        "id": 44
+                    },
+                    {
+                        "title": "HP",
+                        "total": 5,
+                        "id": 18
+                    },
+                    {
+                        "title": "Huawei",
+                        "total": 1,
+                        "id": 8
+                    },
+                    {
+                        "title": "Xiaomi",
+                        "total": 118,
+                        "id": 3
+                    },
+                    {
+                        "title": "Xiaomi klas",
+                        "total": 34,
+                        "id": 14
+                    },
+                    {
+                        "title": "XO",
+                        "total": 77,
+                        "id": 58
+                    },
+                    {
+                        "title": "Infinix",
+                        "total": 14,
+                        "id": 49
+                    },
+                    {
+                        "title": "Innobar",
+                        "total": 6,
+                        "id": 83
+                    },
+                    {
+                        "title": "Intex",
+                        "total": 7,
+                        "id": 65
+                    },
+                    {
+                        "title": "ITEL",
+                        "total": 5,
+                        "id": 29
+                    },
+                    {
+                        "title": "Jabra klas",
+                        "total": 1,
+                        "id": 31
+                    },
+                    {
+                        "title": "JBL",
+                        "total": 11,
+                        "id": 25
+                    },
+                    {
+                        "title": "JBL klas",
+                        "total": 40,
+                        "id": 12
+                    },
+                    {
+                        "title": "Jokade",
+                        "total": 50,
+                        "id": 66
+                    },
+                    {
+                        "title": "Joyroom",
+                        "total": 668,
+                        "id": 4
+                    },
+                    {
+                        "title": "Kajsa",
+                        "total": 11,
+                        "id": 64
+                    },
+                    {
+                        "title": "Kaku",
+                        "total": 89,
+                        "id": 33
+                    },
+                    {
+                        "title": "Kbroad",
+                        "total": 3,
+                        "id": 91
+                    },
+                    {
+                        "title": "Keqiwear",
+                        "total": 1,
+                        "id": 81
+                    },
+                    {
+                        "title": "Kingston",
+                        "total": 6,
+                        "id": 20
+                    },
+                    {
+                        "title": "Kiwi",
+                        "total": 41,
+                        "id": 50
+                    },
+                    {
+                        "title": "Koleer",
+                        "total": 7,
+                        "id": 47
+                    },
+                    {
+                        "title": "Lenovo",
+                        "total": 7,
+                        "id": 22
+                    },
+                    {
+                        "title": "Logitech",
+                        "total": 1,
+                        "id": 28
+                    },
+                    {
+                        "title": "Marshall",
+                        "total": 1,
+                        "id": 62
+                    },
+                    {
+                        "title": "Marshall klas",
+                        "total": 8,
+                        "id": 67
+                    },
+                    {
+                        "title": "MINISO",
+                        "total": 1,
+                        "id": 21
+                    },
+                    {
+                        "title": "Middliv",
+                        "total": 6,
+                        "id": 78
+                    },
+                    {
+                        "title": "Minisan",
+                        "total": 3,
+                        "id": 56
+                    },
+                    {
+                        "title": "Monster",
+                        "total": 3,
+                        "id": 89
+                    },
+                    {
+                        "title": "Mozer",
+                        "total": 35,
+                        "id": 61
+                    },
+                    {
+                        "title": "NAVIFORCE",
+                        "total": 2,
+                        "id": 36
+                    },
+                    {
+                        "title": "NewRixing",
+                        "total": 2,
+                        "id": 70
+                    },
+                    {
+                        "title": "Nokia",
+                        "total": 28,
+                        "id": 5
+                    },
+                    {
+                        "title": "OPPO",
+                        "total": 2,
+                        "id": 75
+                    },
+                    {
+                        "title": "PRC",
+                        "total": 1706,
+                        "id": 17
+                    },
+                    {
+                        "title": "RAF",
+                        "total": 217,
+                        "id": 60
+                    },
+                    {
+                        "title": "Realme",
+                        "total": 8,
+                        "id": 9
+                    },
+                    {
+                        "title": "Remax",
+                        "total": 12,
+                        "id": 23
+                    },
+                    {
+                        "title": "Rozia",
+                        "total": 33,
+                        "id": 69
+                    },
+                    {
+                        "title": "Samsung",
+                        "total": 141,
+                        "id": 2
+                    },
+                    {
+                        "title": "Samsung klas",
+                        "total": 36,
+                        "id": 13
+                    },
+                    {
+                        "title": "SanDisk",
+                        "total": 9,
+                        "id": 68
+                    },
+                    {
+                        "title": "Santa Barbara Polo",
+                        "total": 10,
+                        "id": 34
+                    },
+                    {
+                        "title": "Sing-e",
+                        "total": 15,
+                        "id": 87
+                    },
+                    {
+                        "title": "Sony",
+                        "total": 1,
+                        "id": 27
+                    },
+                    {
+                        "title": "Sony klas",
+                        "total": 9,
+                        "id": 32
+                    },
+                    {
+                        "title": "Sounder",
+                        "total": 10,
+                        "id": 48
+                    },
+                    {
+                        "title": "Starlux",
+                        "total": 2,
+                        "id": 84
+                    },
+                    {
+                        "title": "Suonon",
+                        "total": 4,
+                        "id": 88
+                    },
+                    {
+                        "title": "Super Crest",
+                        "total": 9,
+                        "id": 76
+                    },
+                    {
+                        "title": "T&G",
+                        "total": 14,
+                        "id": 19
+                    },
+                    {
+                        "title": "Tecno",
+                        "total": 10,
+                        "id": 6
+                    },
+                    {
+                        "title": "TeslaBar",
+                        "total": 16,
+                        "id": 82
+                    },
+                    {
+                        "title": "Tiffany",
+                        "total": 10,
+                        "id": 77
+                    },
+                    {
+                        "title": "TP-Link",
+                        "total": 1,
+                        "id": 26
+                    },
+                    {
+                        "title": "Zovoo",
+                        "total": 108,
+                        "id": 59
+                    },
+                    {
+                        "title": "WISME",
+                        "total": 8,
+                        "id": 80
+                    }
+                ]
+            },
+            "prices": {
+                "type": "price",
+                "title": "Qiymət",
+                "min": "0",
+                "max": "3500",
+                "current": 0,
+                "intervals": [
+                    {
+                        "id": "0-50",
+                        "title": "0 - 50 azn",
+                        "min": "0",
+                        "max": 50
+                    },
+                    {
+                        "id": "50-100",
+                        "title": "50 - 100 azn",
+                        "min": 50,
+                        "max": 100
+                    },
+                    {
+                        "id": "100-500",
+                        "title": "100 - 500 azn",
+                        "min": 100,
+                        "max": 500
+                    },
+                    {
+                        "id": "500-1000",
+                        "title": "500 - 1000 azn",
+                        "min": 500,
+                        "max": 1000
+                    },
+                    {
+                        "id": "1000-3500",
+                        "title": "1000 - 3500 azn",
+                        "min": 1000,
+                        "max": "3500"
+                    }
+                ]
+            }
+        },
+        "selected": []
     }
 }
     ],
