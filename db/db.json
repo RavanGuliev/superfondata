@@ -3544,6 +3544,142 @@
 }
     ],
 
+    "newfilters":[
+        {
+    "ok": true,
+    "data": {
+        "filters": {
+            "cats": {
+                "type": "category",
+                "title": "Kateqoriyalar",
+                "items": [
+                    {
+                        "title": "Kiçik məişət texnikası",
+                        "route": "/az/kicik-meiset-texnikasi",
+                        "id": 67,
+                        "children": [
+                            {
+                                "title": "Blender",
+                                "route": "/az/kicik-meiset-texnikasi/blender",
+                                "id": 70
+                            },
+                            {
+                                "title": "Çaydan",
+                                "route": "/az/kicik-meiset-texnikasi/caydan",
+                                "id": 68
+                            },
+                            {
+                                "title": "Elektrikli manqal",
+                                "route": "/az/kicik-meiset-texnikasi/elektrikli-manqal",
+                                "id": 105
+                            },
+                            {
+                                "title": "Ətçəkən",
+                                "route": "/az/kicik-meiset-texnikasi/etceken",
+                                "id": 79
+                            },
+                            {
+                                "title": "İzqara",
+                                "route": "/az/kicik-meiset-texnikasi/izqara",
+                                "id": 106
+                            },
+                            {
+                                "title": "Meyvə və tərəvəz qurudan",
+                                "route": "/az/kicik-meiset-texnikasi/meyve-ve-terevez-qurudan",
+                                "id": 111
+                            },
+                            {
+                                "title": "Mikser",
+                                "route": "/az/kicik-meiset-texnikasi/mikser",
+                                "id": 74
+                            },
+                            {
+                                "title": "Şirəçəkən",
+                                "route": "/az/kicik-meiset-texnikasi/sireceken",
+                                "id": 71
+                            },
+                            {
+                                "title": "Toster",
+                                "route": "/az/kicik-meiset-texnikasi/toster",
+                                "id": 75
+                            },
+                            {
+                                "title": "Tozsoran",
+                                "route": "/az/kicik-meiset-texnikasi/tozsoran",
+                                "id": 94
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Mobil Aksesuarlar",
+                        "route": "/az/mobil-aksesuarlar",
+                        "id": 1,
+                        "children": [
+                            {
+                                "title": "Qulaqlıqlar",
+                                "route": "/az/mobil-aksesuarlar/qulaqliqlar",
+                                "id": 10
+                            }
+                        ]
+                    }
+                ]
+            },
+            "brands": {
+                "type": "checkbox",
+                "title": "Brendlər",
+                "search": false,
+                "scrolled": true,
+                "items": [
+                    {
+                        "title": "Ackiliss",
+                        "total": 15,
+                        "id": 93
+                    },
+                    {
+                        "title": "Akane",
+                        "total": 5,
+                        "id": 92
+                    },
+                    {
+                        "title": "Samsung klas",
+                        "total": 1,
+                        "id": 13
+                    }
+                ]
+            },
+            "prices": {
+                "type": "price",
+                "title": "Qiymət",
+                "min": "20",
+                "max": "145",
+                "current": 0,
+                "intervals": [
+                    {
+                        "id": "20-50",
+                        "title": "20 - 50 azn",
+                        "min": "20",
+                        "max": 50
+                    },
+                    {
+                        "id": "50-100",
+                        "title": "50 - 100 azn",
+                        "min": 50,
+                        "max": 100
+                    },
+                    {
+                        "id": "100-145",
+                        "title": "100 - 145 azn",
+                        "min": 100,
+                        "max": "145"
+                    }
+                ]
+            }
+        },
+        "selected": []
+    }
+}
+    ],
+
      "bestsellers": [
         {
     "ok": true,
