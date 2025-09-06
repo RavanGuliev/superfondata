@@ -2388,1080 +2388,1159 @@
     {
     "ok": true,
     "data": {
-  "items": [
-    {
-      "newIn": true,
-      "bestSeller": false,
-      "orangeStar": false,
-      "monoBrand": false,
-      "price": 34.9,
-      "priceOld": 0,
-      "priceInStore": false,
-      "cashDiscount": 0,
-      "discount": 0,
-      "specialDiscount": false,
-      "imageWithPad": false,
-      "outfitWithPad": false,
-      "qty": 10,
-      "title": "Mikser Ackiliss ACL.6695",
-      "faq": [],
-      "images": [
-        {
-          "source": "111344-5b76d287523c4b8c1f1660794b2c612a.jpg"
+        "items": [
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 19.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Çaydan 2L Ackiliss ACL.7201B şüşə",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111415-c4e027b9c759bb560a2378224a9de5be.jpg"
+                    },
+                    {
+                        "source": "111415-5276b2626a69dfaa9798b7f9f59be4ed.jpg"
+                    },
+                    {
+                        "source": "111415-2866653a9478bfd6b7d64da961e4b8cf.jpg"
+                    },
+                    {
+                        "source": "111415-b20e0150359d84c34125d936551e9db6.jpg"
+                    },
+                    {
+                        "source": "111415-f84ebf46863c59924998d509c92c11d9.jpg"
+                    },
+                    {
+                        "source": "111415-5356f39dcc7e481e36ee6585c0f20080.jpg"
+                    }
+                ],
+                "route": "/az/products/product-111415",
+                "desc": "",
+                "image": "111415-c4e027b9c759bb560a2378224a9de5be.jpg",
+                "mannequins": "",
+                "outfit": "111415-5276b2626a69dfaa9798b7f9f59be4ed.jpg",
+                "categories": [
+                    {
+                        "title": "Çaydan",
+                        "id": 68
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "ackiliss",
+                    "title": "Ackiliss",
+                    "titleIndex": "A00A02A15A13A17A13A24A24",
+                    "route": "/az/brands/ackiliss",
+                    "id": 93
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111415
+            },
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 44.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Blender stasionar 1.5L Ackiliss ACL.295 2IN1 şüşə",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111392-0bfcc9780ec9006e6805bc825f93e3d7.jpg"
+                    },
+                    {
+                        "source": "111392-4f4a15c7db3ea500b2ed4ec32fb49c81.jpg"
+                    },
+                    {
+                        "source": "111392-c9f92ee66098ffbe307bf3931234de34.jpg"
+                    },
+                    {
+                        "source": "111392-af28d13d88b1deff46b55977b3bb5684.jpg"
+                    },
+                    {
+                        "source": "111392-542f1c3a68eb9fa3c946290ffb96ff93.jpg"
+                    },
+                    {
+                        "source": "111392-491876dcd9be0058c3d4fae2b0e8ec81.jpg"
+                    }
+                ],
+                "route": "/az/products/product-111392",
+                "desc": "",
+                "image": "111392-0bfcc9780ec9006e6805bc825f93e3d7.jpg",
+                "mannequins": "",
+                "outfit": "111392-4f4a15c7db3ea500b2ed4ec32fb49c81.jpg",
+                "categories": [
+                    {
+                        "title": "Blender",
+                        "id": 70
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "ackiliss",
+                    "title": "Ackiliss",
+                    "titleIndex": "A00A02A15A13A17A13A24A24",
+                    "route": "/az/brands/ackiliss",
+                    "id": 93
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111392
+            },
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 44.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Blender seti Akane  A.368B 4IN1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111390-db94355751cef770c08af8d98e2a93ae.jpg"
+                    }
+                ],
+                "route": "/az/products/product-111390",
+                "desc": "",
+                "image": "111390-db94355751cef770c08af8d98e2a93ae.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Blender",
+                        "id": 70
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "akane",
+                    "title": "Akane",
+                    "titleIndex": "A00A15A00A19A05",
+                    "route": "/az/brands/akane",
+                    "id": 92
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111390
+            },
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 129.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Ətçəkən Ackiliss ACL.3376",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111389-1e14ef1422d2becaaf08c81346aa22fa.jpeg"
+                    }
+                ],
+                "route": "/az/products/product-111389",
+                "desc": "",
+                "image": "111389-1e14ef1422d2becaaf08c81346aa22fa.jpeg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Ətçəkən",
+                        "id": 79
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "ackiliss",
+                    "title": "Ackiliss",
+                    "titleIndex": "A00A02A15A13A17A13A24A24",
+                    "route": "/az/brands/ackiliss",
+                    "id": 93
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111389
+            },
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 89.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Əl tozsoranı  Ackiliss ACL.8765 2IN1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111385-65e6998c1870927e00d4264beaf1936c.png"
+                    },
+                    {
+                        "source": "111385-50f9067918b5df2bbc04fc10a861a624.png"
+                    },
+                    {
+                        "source": "111385-c4dea9fe965bbb89ff1e07c4f246fdce.png"
+                    },
+                    {
+                        "source": "111385-69d5f53eb64c89eccad654211cde94c3.png"
+                    },
+                    {
+                        "source": "111385-a0b0bd5205daab792a4be4c25faead7f.jpg"
+                    }
+                ],
+                "route": "/az/products/product-111385",
+                "desc": "",
+                "image": "111385-65e6998c1870927e00d4264beaf1936c.png",
+                "mannequins": "",
+                "outfit": "111385-50f9067918b5df2bbc04fc10a861a624.png",
+                "categories": [
+                    {
+                        "title": "Tozsoran",
+                        "id": 94
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "ackiliss",
+                    "title": "Ackiliss",
+                    "titleIndex": "A00A02A15A13A17A13A24A24",
+                    "route": "/az/brands/ackiliss",
+                    "id": 93
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111385
+            },
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 74.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Elektrikli manqal Ackiliss ACL.8612 V",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111384-473a4c6674eec27c1fe9afe08d366da1.jpeg"
+                    },
+                    {
+                        "source": "111384-d0a1bbeb2f74085009b9e0b7357ead66.jpg"
+                    }
+                ],
+                "route": "/az/products/product-111384",
+                "desc": "",
+                "image": "111384-473a4c6674eec27c1fe9afe08d366da1.jpeg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Elektrikli manqal",
+                        "id": 105
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "ackiliss",
+                    "title": "Ackiliss",
+                    "titleIndex": "A00A02A15A13A17A13A24A24",
+                    "route": "/az/brands/ackiliss",
+                    "id": 93
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111384
+            },
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 94.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Izqara Akane A.561",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111383-570ee0f73b23150b28e5a8cd00d8646a.jpg"
+                    },
+                    {
+                        "source": "111383-f442d5a6bae4837cb8f27063c84835e4.jpg"
+                    },
+                    {
+                        "source": "111383-b6958c2e57ef2e0d20ab74674bab1e9b.jpg"
+                    },
+                    {
+                        "source": "111383-ad6fd23aaa685475545dcdb59f8abbac.jpg"
+                    },
+                    {
+                        "source": "111383-a4590c6b3f6d3bd44e37c4abe3e418b0.jpg"
+                    },
+                    {
+                        "source": "111383-aa8cbf82130036b5e6a75434a3994504.jpeg"
+                    }
+                ],
+                "route": "/az/products/product-111383",
+                "desc": "",
+                "image": "111383-570ee0f73b23150b28e5a8cd00d8646a.jpg",
+                "mannequins": "",
+                "outfit": "111383-f442d5a6bae4837cb8f27063c84835e4.jpg",
+                "categories": [
+                    {
+                        "title": "İzqara",
+                        "id": 106
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "akane",
+                    "title": "Akane",
+                    "titleIndex": "A00A15A00A19A05",
+                    "route": "/az/brands/akane",
+                    "id": 92
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111383
+            },
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 64.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Əl tozsoranı Ackiliss ACL.8673W 2IN1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111382-060895888d6afdcd28ac175cf6a73079.png"
+                    },
+                    {
+                        "source": "111382-26129a4f07d3540be56d486ef62cb980.png"
+                    },
+                    {
+                        "source": "111382-92c18125922c077032846c5a9a4ef83c.jpg"
+                    },
+                    {
+                        "source": "111382-9a1a2db89f7bff36ac260b747606150f.jpg"
+                    },
+                    {
+                        "source": "111382-ade6591edb2b27777fa19a64342e3547.jpeg"
+                    }
+                ],
+                "route": "/az/products/el-tozsorani-ackiliss-acl8673w-2in1-111382",
+                "desc": "",
+                "image": "111382-060895888d6afdcd28ac175cf6a73079.png",
+                "mannequins": "",
+                "outfit": "111382-26129a4f07d3540be56d486ef62cb980.png",
+                "categories": [
+                    {
+                        "title": "Tozsoran",
+                        "id": 94
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "ackiliss",
+                    "title": "Ackiliss",
+                    "titleIndex": "A00A02A15A13A17A13A24A24",
+                    "route": "/az/brands/ackiliss",
+                    "id": 93
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111382
+            },
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 89.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Toster sendviç Ackiliss ACL.2691 7IN1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111381-ee51ab557d752a8bea5b35662f705929.jpg"
+                    },
+                    {
+                        "source": "111381-ec8ae3acb7a79b6606cfbd4e8b063ec9.jpg"
+                    },
+                    {
+                        "source": "111381-c1fd161f68e35f2a497149ce182b4168.jpg"
+                    },
+                    {
+                        "source": "111381-51c5846b8e6179f4202c00ef37317ef4.jpg"
+                    },
+                    {
+                        "source": "111381-fe9c7077ae730ca27c3dba3898b8636d.jpg"
+                    },
+                    {
+                        "source": "111381-b494d01f88039ca4119aeff04be21f19.jpg"
+                    },
+                    {
+                        "source": "111381-3da51ae6238499d2bee51ee6c03c1590.jpg"
+                    },
+                    {
+                        "source": "111381-fbd729529d95aa28d388455aa563b861.jpg"
+                    },
+                    {
+                        "source": "111381-20bb2e8067a0515a75be0f2a5b463c9c.jpeg"
+                    }
+                ],
+                "route": "/az/products/product-111381",
+                "desc": "",
+                "image": "111381-ee51ab557d752a8bea5b35662f705929.jpg",
+                "mannequins": "",
+                "outfit": "111381-ec8ae3acb7a79b6606cfbd4e8b063ec9.jpg",
+                "categories": [
+                    {
+                        "title": "Toster",
+                        "id": 75
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "ackiliss",
+                    "title": "Ackiliss",
+                    "titleIndex": "A00A02A15A13A17A13A24A24",
+                    "route": "/az/brands/ackiliss",
+                    "id": 93
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111381
+            },
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 144.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Şirəçəkən Akane A.2831 Snek",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111380-7008b0d9e2f7c1b2c5f4ef505958000f.jpg"
+                    }
+                ],
+                "route": "/az/products/product-111380",
+                "desc": "",
+                "image": "111380-7008b0d9e2f7c1b2c5f4ef505958000f.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Şirəçəkən",
+                        "id": 71
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "akane",
+                    "title": "Akane",
+                    "titleIndex": "A00A15A00A19A05",
+                    "route": "/az/brands/akane",
+                    "id": 92
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111380
+            },
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 144.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Ətçəkən Akane A.3379",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111378-4ff8b540ce9a151f547fbde5e02970c8.jpg"
+                    }
+                ],
+                "route": "/az/products/product-111378",
+                "desc": "",
+                "image": "111378-4ff8b540ce9a151f547fbde5e02970c8.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Ətçəkən",
+                        "id": 79
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "akane",
+                    "title": "Akane",
+                    "titleIndex": "A00A15A00A19A05",
+                    "route": "/az/brands/akane",
+                    "id": 92
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111378
+            },
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 79.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Meyvəqurudan Akane A.6801",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111377-d2b0291662adc05d6655eb1ce8ccd3f6.jpg"
+                    }
+                ],
+                "route": "/az/products/product-111377",
+                "desc": "",
+                "image": "111377-d2b0291662adc05d6655eb1ce8ccd3f6.jpg",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Meyvə və tərəvəz qurudan",
+                        "id": 111
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "akane",
+                    "title": "Akane",
+                    "titleIndex": "A00A15A00A19A05",
+                    "route": "/az/brands/akane",
+                    "id": 92
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111377
+            },
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 64.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Əl tozsoranı Ackiliss ACL.8673B 2IN1",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111376-5a90d649d8bf30d52573dd7ad1c7e051.png"
+                    },
+                    {
+                        "source": "111376-689e48225a0fa5899a0c779ec49ec219.png"
+                    },
+                    {
+                        "source": "111376-8e30839fd9f717ffa3fe8833dcedab0a.webp"
+                    },
+                    {
+                        "source": "111376-e4d0975b86cef94e4a5e407271507407.png"
+                    },
+                    {
+                        "source": "111376-bbb628a43ae26d23fa17a0455ba9dc53.png"
+                    },
+                    {
+                        "source": "111376-915aee79510b6bfab7bd5810473d8391.jpeg"
+                    }
+                ],
+                "route": "/az/products/el-tozsorani-ackiliss-acl8673b-2in1-111376",
+                "desc": "",
+                "image": "111376-5a90d649d8bf30d52573dd7ad1c7e051.png",
+                "mannequins": "",
+                "outfit": "111376-689e48225a0fa5899a0c779ec49ec219.png",
+                "categories": [
+                    {
+                        "title": "Tozsoran",
+                        "id": 94
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "ackiliss",
+                    "title": "Ackiliss",
+                    "titleIndex": "A00A02A15A13A17A13A24A24",
+                    "route": "/az/brands/ackiliss",
+                    "id": 93
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111376
+            },
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 79.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Izqara Ackiliss ACL.2682",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111373-1db4b72ba3179636636ca68c17bac2b0.jpg"
+                    },
+                    {
+                        "source": "111373-6a89a6836630ddc62a33b5f67bfa2534.jpg"
+                    },
+                    {
+                        "source": "111373-3b83c17c37b4f8790af057b40e05d58c.jpg"
+                    },
+                    {
+                        "source": "111373-b59e44173fdae57e3c1e110b34a24bf1.jpg"
+                    },
+                    {
+                        "source": "111373-361b06ab089ec70ef8671c4cb1534b06.jpg"
+                    }
+                ],
+                "route": "/az/products/izqara-ackiliss-acl2682-111373",
+                "desc": "",
+                "image": "111373-1db4b72ba3179636636ca68c17bac2b0.jpg",
+                "mannequins": "",
+                "outfit": "111373-6a89a6836630ddc62a33b5f67bfa2534.jpg",
+                "categories": [
+                    {
+                        "title": "İzqara",
+                        "id": 106
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "ackiliss",
+                    "title": "Ackiliss",
+                    "titleIndex": "A00A02A15A13A17A13A24A24",
+                    "route": "/az/brands/ackiliss",
+                    "id": 93
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111373
+            },
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 26.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Toster Ackiliss ACL.263",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111350-57e61d80f3a3540ede3379cca74f5d47.jpg"
+                    },
+                    {
+                        "source": "111350-7054571c4f860894df62720c343be28b.jpg"
+                    },
+                    {
+                        "source": "111350-7804937497488a7f4c7142aaff15b6a3.jpg"
+                    },
+                    {
+                        "source": "111350-3ccbcd20566c235ae0c9b892babcd25e.jpg"
+                    },
+                    {
+                        "source": "111350-017ce72dcb28639e3c21ff508c481b5f.jpeg"
+                    }
+                ],
+                "route": "/az/products/product-111350",
+                "desc": "",
+                "image": "111350-57e61d80f3a3540ede3379cca74f5d47.jpg",
+                "mannequins": "",
+                "outfit": "111350-7054571c4f860894df62720c343be28b.jpg",
+                "categories": [
+                    {
+                        "title": "Toster",
+                        "id": 75
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "ackiliss",
+                    "title": "Ackiliss",
+                    "titleIndex": "A00A02A15A13A17A13A24A24",
+                    "route": "/az/brands/ackiliss",
+                    "id": 93
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111350
+            },
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 34.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Çaydan seti Ackiliss ACL.7214",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111349-ba4cf5748e72786bf6c9f857a5220030.png"
+                    },
+                    {
+                        "source": "111349-5c17aa78291449c036a16da5272c182e.jpg"
+                    }
+                ],
+                "route": "/az/products/product-111349",
+                "desc": "",
+                "image": "111349-ba4cf5748e72786bf6c9f857a5220030.png",
+                "mannequins": "",
+                "outfit": "",
+                "categories": [
+                    {
+                        "title": "Çaydan",
+                        "id": 68
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "ackiliss",
+                    "title": "Ackiliss",
+                    "titleIndex": "A00A02A15A13A17A13A24A24",
+                    "route": "/az/brands/ackiliss",
+                    "id": 93
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111349
+            },
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 29.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Qablı mikser Ackiliss R.6637",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111346-508db06b8f0b86bb4c934800bf1037b8.jpg"
+                    },
+                    {
+                        "source": "111346-b96a26b634fd19c240ddb592f8f53872.jpg"
+                    },
+                    {
+                        "source": "111346-87e1d261116d0d49c537470eb15c6fb8.jpg"
+                    },
+                    {
+                        "source": "111346-931020c6986254d2c9c64206514a63fe.jpg"
+                    }
+                ],
+                "route": "/az/products/product-111346",
+                "desc": "",
+                "image": "111346-508db06b8f0b86bb4c934800bf1037b8.jpg",
+                "mannequins": "",
+                "outfit": "111346-b96a26b634fd19c240ddb592f8f53872.jpg",
+                "categories": [
+                    {
+                        "title": "Mikser",
+                        "id": 74
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "ackiliss",
+                    "title": "Ackiliss",
+                    "titleIndex": "A00A02A15A13A17A13A24A24",
+                    "route": "/az/brands/ackiliss",
+                    "id": 93
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111346
+            },
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 34.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Mikser Ackiliss ACL.6695",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111344-5b76d287523c4b8c1f1660794b2c612a.jpg"
+                    },
+                    {
+                        "source": "111344-1e728e46a24e120c0c9b1be90c0d9409.jpg"
+                    },
+                    {
+                        "source": "111344-facec652649a0a21ae14f49632186cf4.jpg"
+                    },
+                    {
+                        "source": "111344-3a1f035f64d42b31256f63371e3beee2.jpg"
+                    },
+                    {
+                        "source": "111344-68cf4e3401dd364d811b796bf0129008.jpg"
+                    }
+                ],
+                "route": "/az/products/mikser-ackiliss-acl6695-111344",
+                "desc": "",
+                "image": "111344-5b76d287523c4b8c1f1660794b2c612a.jpg",
+                "mannequins": "",
+                "outfit": "111344-1e728e46a24e120c0c9b1be90c0d9409.jpg",
+                "categories": [
+                    {
+                        "title": "Mikser",
+                        "id": 74
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "ackiliss",
+                    "title": "Ackiliss",
+                    "titleIndex": "A00A02A15A13A17A13A24A24",
+                    "route": "/az/brands/ackiliss",
+                    "id": 93
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111344
+            },
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 29.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Çaydan 2.2L Ackiliss ACL.7813 şüşə",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111340-32fb6a2a78b10e57ecbb18f63a8ffd83.png"
+                    },
+                    {
+                        "source": "111340-b26692c7b7fff65e9766ef6ec6fd42aa.jpg"
+                    },
+                    {
+                        "source": "111340-6cbcce02768f4c96881f73575f3e0060.jpg"
+                    },
+                    {
+                        "source": "111340-32b1d5477bcfd5d2968c6026e2ec3b5f.png"
+                    },
+                    {
+                        "source": "111340-3b2aa18ac6d64f13b1df5480b054a0ad.png"
+                    },
+                    {
+                        "source": "111340-58db5109c97073f55802f92184e4101e.jpeg"
+                    }
+                ],
+                "route": "/az/products/product-111340",
+                "desc": "",
+                "image": "111340-32fb6a2a78b10e57ecbb18f63a8ffd83.png",
+                "mannequins": "",
+                "outfit": "111340-b26692c7b7fff65e9766ef6ec6fd42aa.jpg",
+                "categories": [
+                    {
+                        "title": "Çaydan",
+                        "id": 68
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "ackiliss",
+                    "title": "Ackiliss",
+                    "titleIndex": "A00A02A15A13A17A13A24A24",
+                    "route": "/az/brands/ackiliss",
+                    "id": 93
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111340
+            },
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 21.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Çaydan 2L Ackiliss ACL.7833 şüşə",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111330-e7868a67efaf18e2d96ad70b9029f78a.jpg"
+                    },
+                    {
+                        "source": "111330-adde87f32f8e035c220ebb0f9b3f64cf.jpg"
+                    },
+                    {
+                        "source": "111330-d63503b1f8b334f1d1552b213a85efd9.jpg"
+                    },
+                    {
+                        "source": "111330-387760d42c7fb0b1da38de2aa8b1d6cf.jpg"
+                    },
+                    {
+                        "source": "111330-d6a79705ba18bdc14708397d31a79f08.jpg"
+                    }
+                ],
+                "route": "/az/products/product-111330",
+                "desc": "",
+                "image": "111330-e7868a67efaf18e2d96ad70b9029f78a.jpg",
+                "mannequins": "",
+                "outfit": "111330-adde87f32f8e035c220ebb0f9b3f64cf.jpg",
+                "categories": [
+                    {
+                        "title": "Çaydan",
+                        "id": 68
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "ackiliss",
+                    "title": "Ackiliss",
+                    "titleIndex": "A00A02A15A13A17A13A24A24",
+                    "route": "/az/brands/ackiliss",
+                    "id": 93
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111330
+            },
+            {
+                "newIn": true,
+                "bestSeller": false,
+                "orangeStar": false,
+                "monoBrand": false,
+                "price": 34.9,
+                "priceOld": 0,
+                "priceInStore": false,
+                "cashDiscount": 0,
+                "discount": 0,
+                "specialDiscount": false,
+                "imageWithPad": false,
+                "outfitWithPad": false,
+                "qty": 10,
+                "title": "Qulaqlıq TWS Samsung Buds 3 Pro silver",
+                "faq": [],
+                "images": [
+                    {
+                        "source": "111329-1a6289ced9b611eade7667845f50103a.jpg"
+                    },
+                    {
+                        "source": "111329-0390f13296552643716a044e096c2ad1.png"
+                    },
+                    {
+                        "source": "111329-72fcb4bdc73cdddadc7ecde6c2b91de4.jpg"
+                    },
+                    {
+                        "source": "111329-6d6e770169240c05abb061a8f0ce91f4.jpg"
+                    },
+                    {
+                        "source": "111329-6fdc0a0f84f7d8466480104df5ac772d.jpg"
+                    }
+                ],
+                "route": "/az/products/product-111329",
+                "desc": "",
+                "image": "111329-1a6289ced9b611eade7667845f50103a.jpg",
+                "mannequins": "",
+                "outfit": "111329-0390f13296552643716a044e096c2ad1.png",
+                "categories": [
+                    {
+                        "title": "Qulaqlıqlar",
+                        "id": 10
+                    },
+                    {
+                        "title": "Qulaqlıqlar",
+                        "id": 32
+                    }
+                ],
+                "brand": {
+                    "status": "on",
+                    "name": "samasung-a-klass",
+                    "title": "Samsung klas",
+                    "titleIndex": "A24A00A18A24A27A19A08 A15A17A00A24",
+                    "route": "/az/brands/samasung-a-klass",
+                    "id": 13
+                },
+                "badges": [],
+                "giftProducts": [],
+                "id": 111329
+            }
+        ],
+        "pagination": {
+            "count": 21,
+            "limit": 90,
+            "pages": 1,
+            "current": 1
         },
-        {
-          "source": "111344-1e728e46a24e120c0c9b1be90c0d9409.jpg"
-        },
-        {
-          "source": "111344-facec652649a0a21ae14f49632186cf4.jpg"
-        },
-        {
-          "source": "111344-3a1f035f64d42b31256f63371e3beee2.jpg"
-        },
-        {
-          "source": "111344-68cf4e3401dd364d811b796bf0129008.jpg"
+        "filter": {
+            "filter_brand": 0,
+            "filter_category": 0,
+            "filter_collection": 0,
+            "filter_campaign": 0,
+            "filter_mainCategory": 0,
+            "filter_newin": true,
+            "filter_bestseller": false,
+            "filter_orangeStar": false,
+            "filter_discount": false,
+            "filter_specialdiscount": false,
+            "filter_monoBrand": false,
+            "filter_sizes": "",
+            "filter_prices_min": 0,
+            "filter_prices_max": 0,
+            "filter_status": "on",
+            "filter_qty": true
         }
-      ],
-      "route": "/az/products/mikser-ackiliss-acl6695-111344",
-      "desc": "",
-      "image": "111344-5b76d287523c4b8c1f1660794b2c612a.jpg",
-      "mannequins": "",
-      "outfit": "111344-1e728e46a24e120c0c9b1be90c0d9409.jpg",
-      "categories": [
-        {
-          "title": "Mikser",
-          "id": 74
-        }
-      ],
-      "brand": {
-        "status": "on",
-        "name": "ackiliss",
-        "title": "Ackiliss",
-        "titleIndex": "A00A02A15A13A17A13A24A24",
-        "route": "/az/brands/ackiliss",
-        "id": 93
-      },
-      "badges": [],
-      "giftProducts": [],
-      "id": 111344
-    },
-    {
-      "newIn": true,
-      "bestSeller": false,
-      "orangeStar": false,
-      "monoBrand": false,
-      "price": 94.9,
-      "priceOld": 0,
-      "priceInStore": false,
-      "cashDiscount": 0,
-      "discount": 0,
-      "specialDiscount": false,
-      "imageWithPad": false,
-      "outfitWithPad": false,
-      "qty": 10,
-      "title": "Izqara Akane A.561",
-      "faq": [],
-      "images": [
-        {
-          "source": "111383-570ee0f73b23150b28e5a8cd00d8646a.jpg"
-        },
-        {
-          "source": "111383-f442d5a6bae4837cb8f27063c84835e4.jpg"
-        },
-        {
-          "source": "111383-b6958c2e57ef2e0d20ab74674bab1e9b.jpg"
-        },
-        {
-          "source": "111383-ad6fd23aaa685475545dcdb59f8abbac.jpg"
-        },
-        {
-          "source": "111383-a4590c6b3f6d3bd44e37c4abe3e418b0.jpg"
-        },
-        {
-          "source": "111383-aa8cbf82130036b5e6a75434a3994504.jpeg"
-        }
-      ],
-      "route": "/az/products/product-111383",
-      "desc": "",
-      "image": "111383-570ee0f73b23150b28e5a8cd00d8646a.jpg",
-      "mannequins": "",
-      "outfit": "111383-f442d5a6bae4837cb8f27063c84835e4.jpg",
-      "categories": [
-        {
-          "title": "İzqara",
-          "id": 106
-        }
-      ],
-      "brand": {
-        "status": "on",
-        "name": "akane",
-        "title": "Akane",
-        "titleIndex": "A00A15A00A19A05",
-        "route": "/az/brands/akane",
-        "id": 92
-      },
-      "badges": [],
-      "giftProducts": [],
-      "id": 111383
-    },
-    {
-      "newIn": true,
-      "bestSeller": false,
-      "orangeStar": false,
-      "monoBrand": false,
-      "price": 29.9,
-      "priceOld": 0,
-      "priceInStore": false,
-      "cashDiscount": 0,
-      "discount": 0,
-      "specialDiscount": false,
-      "imageWithPad": false,
-      "outfitWithPad": false,
-      "qty": 10,
-      "title": "Çaydan 2.2L Ackiliss ACL.7813 şüşə",
-      "faq": [],
-      "images": [
-        {
-          "source": "111340-32fb6a2a78b10e57ecbb18f63a8ffd83.png"
-        },
-        {
-          "source": "111340-b26692c7b7fff65e9766ef6ec6fd42aa.jpg"
-        },
-        {
-          "source": "111340-6cbcce02768f4c96881f73575f3e0060.jpg"
-        },
-        {
-          "source": "111340-32b1d5477bcfd5d2968c6026e2ec3b5f.png"
-        },
-        {
-          "source": "111340-3b2aa18ac6d64f13b1df5480b054a0ad.png"
-        },
-        {
-          "source": "111340-58db5109c97073f55802f92184e4101e.jpeg"
-        }
-      ],
-      "route": "/az/products/product-111340",
-      "desc": "",
-      "image": "111340-32fb6a2a78b10e57ecbb18f63a8ffd83.png",
-      "mannequins": "",
-      "outfit": "111340-b26692c7b7fff65e9766ef6ec6fd42aa.jpg",
-      "categories": [
-        {
-          "title": "Çaydan",
-          "id": 68
-        }
-      ],
-      "brand": {
-        "status": "on",
-        "name": "ackiliss",
-        "title": "Ackiliss",
-        "titleIndex": "A00A02A15A13A17A13A24A24",
-        "route": "/az/brands/ackiliss",
-        "id": 93
-      },
-      "badges": [],
-      "giftProducts": [],
-      "id": 111340
-    },
-    {
-      "newIn": true,
-      "bestSeller": false,
-      "orangeStar": false,
-      "monoBrand": false,
-      "price": 64.9,
-      "priceOld": 0,
-      "priceInStore": false,
-      "cashDiscount": 0,
-      "discount": 0,
-      "specialDiscount": false,
-      "imageWithPad": false,
-      "outfitWithPad": false,
-      "qty": 10,
-      "title": "Əl tozsoranı Ackiliss ACL.8673W 2IN1",
-      "faq": [],
-      "images": [
-        {
-          "source": "111382-060895888d6afdcd28ac175cf6a73079.png"
-        },
-        {
-          "source": "111382-26129a4f07d3540be56d486ef62cb980.png"
-        },
-        {
-          "source": "111382-92c18125922c077032846c5a9a4ef83c.jpg"
-        },
-        {
-          "source": "111382-9a1a2db89f7bff36ac260b747606150f.jpg"
-        },
-        {
-          "source": "111382-ade6591edb2b27777fa19a64342e3547.jpeg"
-        }
-      ],
-      "route": "/az/products/el-tozsorani-ackiliss-acl8673w-2in1-111382",
-      "desc": "",
-      "image": "111382-060895888d6afdcd28ac175cf6a73079.png",
-      "mannequins": "",
-      "outfit": "111382-26129a4f07d3540be56d486ef62cb980.png",
-      "categories": [
-        {
-          "title": "Tozsoran",
-          "id": 94
-        }
-      ],
-      "brand": {
-        "status": "on",
-        "name": "ackiliss",
-        "title": "Ackiliss",
-        "titleIndex": "A00A02A15A13A17A13A24A24",
-        "route": "/az/brands/ackiliss",
-        "id": 93
-      },
-      "badges": [],
-      "giftProducts": [],
-      "id": 111382
-    },
-    {
-      "newIn": true,
-      "bestSeller": false,
-      "orangeStar": false,
-      "monoBrand": false,
-      "price": 129.9,
-      "priceOld": 0,
-      "priceInStore": false,
-      "cashDiscount": 0,
-      "discount": 0,
-      "specialDiscount": false,
-      "imageWithPad": false,
-      "outfitWithPad": false,
-      "qty": 10,
-      "title": "Ətçəkən Ackiliss ACL.3376",
-      "faq": [],
-      "images": [
-        {
-          "source": "111389-1e14ef1422d2becaaf08c81346aa22fa.jpeg"
-        }
-      ],
-      "route": "/az/products/product-111389",
-      "desc": "",
-      "image": "111389-1e14ef1422d2becaaf08c81346aa22fa.jpeg",
-      "mannequins": "",
-      "outfit": "",
-      "categories": [
-        {
-          "title": "Ətçəkən",
-          "id": 79
-        }
-      ],
-      "brand": {
-        "status": "on",
-        "name": "ackiliss",
-        "title": "Ackiliss",
-        "titleIndex": "A00A02A15A13A17A13A24A24",
-        "route": "/az/brands/ackiliss",
-        "id": 93
-      },
-      "badges": [],
-      "giftProducts": [],
-      "id": 111389
-    },
-    {
-      "newIn": true,
-      "bestSeller": false,
-      "orangeStar": false,
-      "monoBrand": false,
-      "price": 29.9,
-      "priceOld": 0,
-      "priceInStore": false,
-      "cashDiscount": 0,
-      "discount": 0,
-      "specialDiscount": false,
-      "imageWithPad": false,
-      "outfitWithPad": false,
-      "qty": 10,
-      "title": "Qulaqlıq BT 650 Mega render black",
-      "faq": [],
-      "images": [
-        {
-          "source": "111288-b0e903dcff9beed360c49aef878c06b6.png"
-        }
-      ],
-      "route": "/az/products/product-111288",
-      "desc": "",
-      "image": "111288-b0e903dcff9beed360c49aef878c06b6.png",
-      "mannequins": "",
-      "outfit": "",
-      "categories": [
-        {
-          "title": "Qulaqlıqlar",
-          "id": 10
-        },
-        {
-          "title": "Qulaqlıqlar",
-          "id": 32
-        }
-      ],
-      "brand": {
-        "status": "on",
-        "name": "superfon-mehsullari",
-        "title": "PRC",
-        "titleIndex": "A22A23A02",
-        "route": "/az/brands/superfon-mehsullari",
-        "id": 17
-      },
-      "badges": [],
-      "giftProducts": [],
-      "id": 111288
-    },
-    {
-      "newIn": true,
-      "bestSeller": false,
-      "orangeStar": false,
-      "monoBrand": false,
-      "price": 74.9,
-      "priceOld": 0,
-      "priceInStore": false,
-      "cashDiscount": 0,
-      "discount": 0,
-      "specialDiscount": false,
-      "imageWithPad": false,
-      "outfitWithPad": false,
-      "qty": 10,
-      "title": "Elektrikli manqal Ackiliss ACL.8612 V",
-      "faq": [],
-      "images": [
-        {
-          "source": "111384-473a4c6674eec27c1fe9afe08d366da1.jpeg"
-        },
-        {
-          "source": "111384-d0a1bbeb2f74085009b9e0b7357ead66.jpg"
-        }
-      ],
-      "route": "/az/products/product-111384",
-      "desc": "",
-      "image": "111384-473a4c6674eec27c1fe9afe08d366da1.jpeg",
-      "mannequins": "",
-      "outfit": "",
-      "categories": [
-        {
-          "title": "Elektrikli manqal",
-          "id": 105
-        }
-      ],
-      "brand": {
-        "status": "on",
-        "name": "ackiliss",
-        "title": "Ackiliss",
-        "titleIndex": "A00A02A15A13A17A13A24A24",
-        "route": "/az/brands/ackiliss",
-        "id": 93
-      },
-      "badges": [],
-      "giftProducts": [],
-      "id": 111384
-    },
-    {
-      "newIn": true,
-      "bestSeller": false,
-      "orangeStar": false,
-      "monoBrand": false,
-      "price": 79.9,
-      "priceOld": 0,
-      "priceInStore": false,
-      "cashDiscount": 0,
-      "discount": 0,
-      "specialDiscount": false,
-      "imageWithPad": false,
-      "outfitWithPad": false,
-      "qty": 10,
-      "title": "Izqara Ackiliss ACL.2682",
-      "faq": [],
-      "images": [
-        {
-          "source": "111373-1db4b72ba3179636636ca68c17bac2b0.jpg"
-        },
-        {
-          "source": "111373-6a89a6836630ddc62a33b5f67bfa2534.jpg"
-        },
-        {
-          "source": "111373-3b83c17c37b4f8790af057b40e05d58c.jpg"
-        },
-        {
-          "source": "111373-b59e44173fdae57e3c1e110b34a24bf1.jpg"
-        },
-        {
-          "source": "111373-361b06ab089ec70ef8671c4cb1534b06.jpg"
-        }
-      ],
-      "route": "/az/products/izqara-ackiliss-acl2682-111373",
-      "desc": "",
-      "image": "111373-1db4b72ba3179636636ca68c17bac2b0.jpg",
-      "mannequins": "",
-      "outfit": "111373-6a89a6836630ddc62a33b5f67bfa2534.jpg",
-      "categories": [
-        {
-          "title": "İzqara",
-          "id": 106
-        }
-      ],
-      "brand": {
-        "status": "on",
-        "name": "ackiliss",
-        "title": "Ackiliss",
-        "titleIndex": "A00A02A15A13A17A13A24A24",
-        "route": "/az/brands/ackiliss",
-        "id": 93
-      },
-      "badges": [],
-      "giftProducts": [],
-      "id": 111373
-    },
-    {
-      "newIn": true,
-      "bestSeller": false,
-      "orangeStar": false,
-      "monoBrand": false,
-      "price": 34.5,
-      "priceOld": 0,
-      "priceInStore": false,
-      "cashDiscount": 0,
-      "discount": 0,
-      "specialDiscount": false,
-      "imageWithPad": false,
-      "outfitWithPad": false,
-      "qty": 10,
-      "title": "TWS CHW-K41A Labubu brown",
-      "faq": [],
-      "images": [
-        {
-          "source": "111283-a8fef3f5a0f8f71334bc0ccb3f4d95c5.png"
-        },
-        {
-          "source": "111283-07bd150735a4dc13761bef312fb8f65e.jpg"
-        }
-      ],
-      "route": "/az/products/product-111283",
-      "desc": "",
-      "image": "111283-a8fef3f5a0f8f71334bc0ccb3f4d95c5.png",
-      "mannequins": "",
-      "outfit": "",
-      "categories": [
-        {
-          "title": "Qulaqlıqlar",
-          "id": 10
-        },
-        {
-          "title": "Qulaqlıqlar",
-          "id": 32
-        }
-      ],
-      "brand": {
-        "status": "on",
-        "name": "superfon-mehsullari",
-        "title": "PRC",
-        "titleIndex": "A22A23A02",
-        "route": "/az/brands/superfon-mehsullari",
-        "id": 17
-      },
-      "badges": [],
-      "giftProducts": [],
-      "id": 111283
-    },
-    {
-      "newIn": true,
-      "bestSeller": false,
-      "orangeStar": false,
-      "monoBrand": false,
-      "price": 19.9,
-      "priceOld": 0,
-      "priceInStore": false,
-      "cashDiscount": 0,
-      "discount": 0,
-      "specialDiscount": false,
-      "imageWithPad": false,
-      "outfitWithPad": false,
-      "qty": 10,
-      "title": "Çaydan 2L Ackiliss ACL.7201B şüşə",
-      "faq": [],
-      "images": [
-        {
-          "source": "111415-c4e027b9c759bb560a2378224a9de5be.jpg"
-        },
-        {
-          "source": "111415-5276b2626a69dfaa9798b7f9f59be4ed.jpg"
-        },
-        {
-          "source": "111415-2866653a9478bfd6b7d64da961e4b8cf.jpg"
-        },
-        {
-          "source": "111415-b20e0150359d84c34125d936551e9db6.jpg"
-        },
-        {
-          "source": "111415-f84ebf46863c59924998d509c92c11d9.jpg"
-        },
-        {
-          "source": "111415-5356f39dcc7e481e36ee6585c0f20080.jpg"
-        }
-      ],
-      "route": "/az/products/product-111415",
-      "desc": "",
-      "image": "111415-c4e027b9c759bb560a2378224a9de5be.jpg",
-      "mannequins": "",
-      "outfit": "111415-5276b2626a69dfaa9798b7f9f59be4ed.jpg",
-      "categories": [
-        {
-          "title": "Çaydan",
-          "id": 68
-        }
-      ],
-      "brand": {
-        "status": "on",
-        "name": "ackiliss",
-        "title": "Ackiliss",
-        "titleIndex": "A00A02A15A13A17A13A24A24",
-        "route": "/az/brands/ackiliss",
-        "id": 93
-      },
-      "badges": [],
-      "giftProducts": [],
-      "id": 111415
-    },
-    {
-      "newIn": true,
-      "bestSeller": false,
-      "orangeStar": false,
-      "monoBrand": false,
-      "price": 44.9,
-      "priceOld": 0,
-      "priceInStore": false,
-      "cashDiscount": 0,
-      "discount": 0,
-      "specialDiscount": false,
-      "imageWithPad": false,
-      "outfitWithPad": false,
-      "qty": 10,
-      "title": "Blender stasionar 1.5L Ackiliss ACL.295 2IN1 şüşə",
-      "faq": [],
-      "images": [
-        {
-          "source": "111392-0bfcc9780ec9006e6805bc825f93e3d7.jpg"
-        },
-        {
-          "source": "111392-4f4a15c7db3ea500b2ed4ec32fb49c81.jpg"
-        },
-        {
-          "source": "111392-c9f92ee66098ffbe307bf3931234de34.jpg"
-        },
-        {
-          "source": "111392-af28d13d88b1deff46b55977b3bb5684.jpg"
-        },
-        {
-          "source": "111392-542f1c3a68eb9fa3c946290ffb96ff93.jpg"
-        },
-        {
-          "source": "111392-491876dcd9be0058c3d4fae2b0e8ec81.jpg"
-        }
-      ],
-      "route": "/az/products/product-111392",
-      "desc": "",
-      "image": "111392-0bfcc9780ec9006e6805bc825f93e3d7.jpg",
-      "mannequins": "",
-      "outfit": "111392-4f4a15c7db3ea500b2ed4ec32fb49c81.jpg",
-      "categories": [
-        {
-          "title": "Blender",
-          "id": 70
-        }
-      ],
-      "brand": {
-        "status": "on",
-        "name": "ackiliss",
-        "title": "Ackiliss",
-        "titleIndex": "A00A02A15A13A17A13A24A24",
-        "route": "/az/brands/ackiliss",
-        "id": 93
-      },
-      "badges": [],
-      "giftProducts": [],
-      "id": 111392
-    },
-    {
-      "newIn": true,
-      "bestSeller": false,
-      "orangeStar": false,
-      "monoBrand": false,
-      "price": 64.9,
-      "priceOld": 0,
-      "priceInStore": false,
-      "cashDiscount": 0,
-      "discount": 0,
-      "specialDiscount": false,
-      "imageWithPad": false,
-      "outfitWithPad": false,
-      "qty": 10,
-      "title": "Əl tozsoranı Ackiliss ACL.8673B 2IN1",
-      "faq": [],
-      "images": [
-        {
-          "source": "111376-5a90d649d8bf30d52573dd7ad1c7e051.png"
-        },
-        {
-          "source": "111376-689e48225a0fa5899a0c779ec49ec219.png"
-        },
-        {
-          "source": "111376-8e30839fd9f717ffa3fe8833dcedab0a.webp"
-        },
-        {
-          "source": "111376-e4d0975b86cef94e4a5e407271507407.png"
-        },
-        {
-          "source": "111376-bbb628a43ae26d23fa17a0455ba9dc53.png"
-        },
-        {
-          "source": "111376-915aee79510b6bfab7bd5810473d8391.jpeg"
-        }
-      ],
-      "route": "/az/products/el-tozsorani-ackiliss-acl8673b-2in1-111376",
-      "desc": "",
-      "image": "111376-5a90d649d8bf30d52573dd7ad1c7e051.png",
-      "mannequins": "",
-      "outfit": "111376-689e48225a0fa5899a0c779ec49ec219.png",
-      "categories": [
-        {
-          "title": "Tozsoran",
-          "id": 94
-        }
-      ],
-      "brand": {
-        "status": "on",
-        "name": "ackiliss",
-        "title": "Ackiliss",
-        "titleIndex": "A00A02A15A13A17A13A24A24",
-        "route": "/az/brands/ackiliss",
-        "id": 93
-      },
-      "badges": [],
-      "giftProducts": [],
-      "id": 111376
-    },
-    {
-      "newIn": true,
-      "bestSeller": false,
-      "orangeStar": false,
-      "monoBrand": false,
-      "price": 29.9,
-      "priceOld": 0,
-      "priceInStore": false,
-      "cashDiscount": 0,
-      "discount": 0,
-      "specialDiscount": false,
-      "imageWithPad": false,
-      "outfitWithPad": false,
-      "qty": 10,
-      "title": "TWS CH-AH101 Labubu brown",
-      "faq": [],
-      "images": [
-        {
-          "source": "111298-907565b6000bb116adcfef3badf37c80.png"
-        }
-      ],
-      "route": "/az/products/tws-ch-ah101-labubu-brown-111298",
-      "desc": "",
-      "image": "111298-907565b6000bb116adcfef3badf37c80.png",
-      "mannequins": "",
-      "outfit": "",
-      "categories": [
-        {
-          "title": "Qulaqlıqlar",
-          "id": 10
-        },
-        {
-          "title": "Qulaqlıqlar",
-          "id": 32
-        }
-      ],
-      "brand": {
-        "status": "on",
-        "name": "superfon-mehsullari",
-        "title": "PRC",
-        "titleIndex": "A22A23A02",
-        "route": "/az/brands/superfon-mehsullari",
-        "id": 17
-      },
-      "badges": [],
-      "giftProducts": [],
-      "id": 111298
-    },
-    {
-      "newIn": true,
-      "bestSeller": false,
-      "orangeStar": false,
-      "monoBrand": false,
-      "price": 29.9,
-      "priceOld": 0,
-      "priceInStore": false,
-      "cashDiscount": 0,
-      "discount": 0,
-      "specialDiscount": false,
-      "imageWithPad": false,
-      "outfitWithPad": false,
-      "qty": 10,
-      "title": "Qulaqlıq  BT 650 MY Melody pink",
-      "faq": [],
-      "images": [
-        {
-          "source": "111287-61d67e3aa8b66538e3fc1b7d6f49f483.png"
-        }
-      ],
-      "route": "/az/products/product-111287",
-      "desc": "",
-      "image": "111287-61d67e3aa8b66538e3fc1b7d6f49f483.png",
-      "mannequins": "",
-      "outfit": "",
-      "categories": [
-        {
-          "title": "Qulaqlıqlar",
-          "id": 10
-        },
-        {
-          "title": "Qulaqlıqlar",
-          "id": 32
-        }
-      ],
-      "brand": {
-        "status": "on",
-        "name": "superfon-mehsullari",
-        "title": "PRC",
-        "titleIndex": "A22A23A02",
-        "route": "/az/brands/superfon-mehsullari",
-        "id": 17
-      },
-      "badges": [],
-      "giftProducts": [],
-      "id": 111287
-    },
-    {
-      "newIn": true,
-      "bestSeller": false,
-      "orangeStar": false,
-      "monoBrand": false,
-      "price": 39.9,
-      "priceOld": 0,
-      "priceInStore": false,
-      "cashDiscount": 0,
-      "discount": 0,
-      "specialDiscount": false,
-      "imageWithPad": false,
-      "outfitWithPad": false,
-      "qty": 10,
-      "title": "TWS display airmax white",
-      "faq": [],
-      "images": [
-        {
-          "source": "111301-39fa0542cfda3f2d385a53b1f90cb22e.png"
-        }
-      ],
-      "route": "/az/products/product-111301",
-      "desc": "",
-      "image": "111301-39fa0542cfda3f2d385a53b1f90cb22e.png",
-      "mannequins": "",
-      "outfit": "",
-      "categories": [
-        {
-          "title": "Qulaqlıqlar",
-          "id": 10
-        },
-        {
-          "title": "Qulaqlıqlar",
-          "id": 32
-        }
-      ],
-      "brand": {
-        "status": "on",
-        "name": "superfon-mehsullari",
-        "title": "PRC",
-        "titleIndex": "A22A23A02",
-        "route": "/az/brands/superfon-mehsullari",
-        "id": 17
-      },
-      "badges": [],
-      "giftProducts": [],
-      "id": 111301
-    },
-    {
-      "newIn": true,
-      "bestSeller": false,
-      "orangeStar": false,
-      "monoBrand": false,
-      "price": 26.9,
-      "priceOld": 0,
-      "priceInStore": false,
-      "cashDiscount": 0,
-      "discount": 0,
-      "specialDiscount": false,
-      "imageWithPad": false,
-      "outfitWithPad": false,
-      "qty": 10,
-      "title": "Toster Ackiliss ACL.263",
-      "faq": [],
-      "images": [
-        {
-          "source": "111350-57e61d80f3a3540ede3379cca74f5d47.jpg"
-        },
-        {
-          "source": "111350-7054571c4f860894df62720c343be28b.jpg"
-        },
-        {
-          "source": "111350-7804937497488a7f4c7142aaff15b6a3.jpg"
-        },
-        {
-          "source": "111350-3ccbcd20566c235ae0c9b892babcd25e.jpg"
-        },
-        {
-          "source": "111350-017ce72dcb28639e3c21ff508c481b5f.jpeg"
-        }
-      ],
-      "route": "/az/products/product-111350",
-      "desc": "",
-      "image": "111350-57e61d80f3a3540ede3379cca74f5d47.jpg",
-      "mannequins": "",
-      "outfit": "111350-7054571c4f860894df62720c343be28b.jpg",
-      "categories": [
-        {
-          "title": "Toster",
-          "id": 75
-        }
-      ],
-      "brand": {
-        "status": "on",
-        "name": "ackiliss",
-        "title": "Ackiliss",
-        "titleIndex": "A00A02A15A13A17A13A24A24",
-        "route": "/az/brands/ackiliss",
-        "id": 93
-      },
-      "badges": [],
-      "giftProducts": [],
-      "id": 111350
-    },
-    {
-      "newIn": true,
-      "bestSeller": false,
-      "orangeStar": false,
-      "monoBrand": false,
-      "price": 29.9,
-      "priceOld": 0,
-      "priceInStore": false,
-      "cashDiscount": 0,
-      "discount": 0,
-      "specialDiscount": false,
-      "imageWithPad": false,
-      "outfitWithPad": false,
-      "qty": 10,
-      "title": "TWS CH-AH101 Labubu pink",
-      "faq": [],
-      "images": [
-        {
-          "source": "111297-fa814f4bc36eb717686c82427b9a8c87.png"
-        }
-      ],
-      "route": "/az/products/tws-ch-ah101-labubu-pink-111297",
-      "desc": "",
-      "image": "111297-fa814f4bc36eb717686c82427b9a8c87.png",
-      "mannequins": "",
-      "outfit": "",
-      "categories": [
-        {
-          "title": "Qulaqlıqlar",
-          "id": 10
-        },
-        {
-          "title": "Qulaqlıqlar",
-          "id": 32
-        }
-      ],
-      "brand": {
-        "status": "on",
-        "name": "superfon-mehsullari",
-        "title": "PRC",
-        "titleIndex": "A22A23A02",
-        "route": "/az/brands/superfon-mehsullari",
-        "id": 17
-      },
-      "badges": [],
-      "giftProducts": [],
-      "id": 111297
-    },
-    {
-      "newIn": true,
-      "bestSeller": false,
-      "orangeStar": false,
-      "monoBrand": false,
-      "price": 144.9,
-      "priceOld": 0,
-      "priceInStore": false,
-      "cashDiscount": 0,
-      "discount": 0,
-      "specialDiscount": false,
-      "imageWithPad": false,
-      "outfitWithPad": false,
-      "qty": 10,
-      "title": "Şirəçəkən Akane A.2831 Snek",
-      "faq": [],
-      "images": [
-        {
-          "source": "111380-7008b0d9e2f7c1b2c5f4ef505958000f.jpg"
-        }
-      ],
-      "route": "/az/products/product-111380",
-      "desc": "",
-      "image": "111380-7008b0d9e2f7c1b2c5f4ef505958000f.jpg",
-      "mannequins": "",
-      "outfit": "",
-      "categories": [
-        {
-          "title": "Şirəçəkən",
-          "id": 71
-        }
-      ],
-      "brand": {
-        "status": "on",
-        "name": "akane",
-        "title": "Akane",
-        "titleIndex": "A00A15A00A19A05",
-        "route": "/az/brands/akane",
-        "id": 92
-      },
-      "badges": [],
-      "giftProducts": [],
-      "id": 111380
-    },
-    {
-      "newIn": true,
-      "bestSeller": false,
-      "orangeStar": false,
-      "monoBrand": false,
-      "price": 34.5,
-      "priceOld": 0,
-      "priceInStore": false,
-      "cashDiscount": 0,
-      "discount": 0,
-      "specialDiscount": false,
-      "imageWithPad": false,
-      "outfitWithPad": false,
-      "qty": 10,
-      "title": "TWS CHW-K41A Labubu pink",
-      "faq": [],
-      "images": [
-        {
-          "source": "111282-b32dd7cddf6974bf90b204dfdd0e9b19.jpg"
-        },
-        {
-          "source": "111282-253de1b587bf98ec1169285ea6b5c52e.jpg"
-        }
-      ],
-      "route": "/az/products/product-111282",
-      "desc": "",
-      "image": "111282-b32dd7cddf6974bf90b204dfdd0e9b19.jpg",
-      "mannequins": "",
-      "outfit": "",
-      "categories": [
-        {
-          "title": "Qulaqlıqlar",
-          "id": 10
-        },
-        {
-          "title": "Qulaqlıqlar",
-          "id": 32
-        }
-      ],
-      "brand": {
-        "status": "on",
-        "name": "superfon-mehsullari",
-        "title": "PRC",
-        "titleIndex": "A22A23A02",
-        "route": "/az/brands/superfon-mehsullari",
-        "id": 17
-      },
-      "badges": [],
-      "giftProducts": [],
-      "id": 111282
-    },
-    {
-      "newIn": true,
-      "bestSeller": false,
-      "orangeStar": false,
-      "monoBrand": false,
-      "price": 34.5,
-      "priceOld": 0,
-      "priceInStore": false,
-      "cashDiscount": 0,
-      "discount": 0,
-      "specialDiscount": false,
-      "imageWithPad": false,
-      "outfitWithPad": false,
-      "qty": 10,
-      "title": "TWS CHW-K41A Labubu purple",
-      "faq": [],
-      "images": [
-        {
-          "source": "111284-6eb55feb76c2dc68fd9dc365d2191667.png"
-        },
-        {
-          "source": "111284-45bc80b6c5d848fbee04ea426f624b91.jpg"
-        }
-      ],
-      "route": "/az/products/product-111284",
-      "desc": "",
-      "image": "111284-6eb55feb76c2dc68fd9dc365d2191667.png",
-      "mannequins": "",
-      "outfit": "",
-      "categories": [
-        {
-          "title": "Qulaqlıqlar",
-          "id": 10
-        },
-        {
-          "title": "Qulaqlıqlar",
-          "id": 32
-        }
-      ],
-      "brand": {
-        "status": "on",
-        "name": "superfon-mehsullari",
-        "title": "PRC",
-        "titleIndex": "A22A23A02",
-        "route": "/az/brands/superfon-mehsullari",
-        "id": 17
-      },
-      "badges": [],
-      "giftProducts": [],
-      "id": 111284
     }
-  ],
-  "pagination": {
-    "count": 30,
-    "limit": 90,
-    "pages": 1,
-    "current": 1
-  },
-  "filter": {
-    "filter_brand": 0,
-    "filter_category": 0,
-    "filter_collection": 0,
-    "filter_campaign": 0,
-    "filter_mainCategory": 0,
-    "filter_newin": true,
-    "filter_bestseller": false,
-    "filter_orangeStar": false,
-    "filter_discount": false,
-    "filter_specialdiscount": false,
-    "filter_monoBrand": false,
-    "filter_sizes": "",
-    "filter_prices_min": 0,
-    "filter_prices_max": 0,
-    "filter_status": "on",
-    "filter_qty": true
-  }
-}
 }
     ],
 
